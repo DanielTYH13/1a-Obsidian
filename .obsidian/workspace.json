@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L1. W1. Conic Sections.md",
+                "file": "MATH117/L2. W1. Functions and Composition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1. W1. Conic Sections"
+              "title": "L2. W1. Functions and Composition"
             }
           }
         ],
@@ -253,13 +253,14 @@
   },
   "active": "1e824312a94a0c5b",
   "lastOpenFiles": [
+    "MATH117/L3. W2. Piecewise and Inequalities.md",
+    "MATH117/L1. W1. Conic Sections.md",
+    "Miscellaneous",
     "MATH115/L1. W1 Vectors and their Properties.md",
     "MATH117/L2. W1. Functions and Composition.md",
-    "MATH117/L1. W1. Conic Sections.md",
-    "MATH117/L3. W2. Piecewise and Inequalities.md",
     "MATH117/Advice.md",
     "Templates/General Note.md",
-    "fzszgf7gquwjpzlbdzja1.jpg",
+    "Miscellaneous/fzszgf7gquwjpzlbdzja1.jpg",
     "MATH117",
     "Templates/Math Note.md",
     "ECE150/Untitled.md",
@@ -277,7 +278,6 @@
     "mthel99/U4",
     "Archive/Learning Prep/Bloom's Taxonomy.md",
     "mthel99/U4/L1.md",
-    "mthel99",
     "Pasted image 20250730130711.png",
     "Welcome.md"
   ]
