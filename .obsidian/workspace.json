@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/Functions and Composition.md",
+                "file": "MATH117/L2. W1. Functions and Composition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions and Composition"
+              "title": "L2. W1. Functions and Composition"
+            }
+          },
+          {
+            "id": "1e824312a94a0c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L3. W2. Piecewise and Inequalities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L3. W2. Piecewise and Inequalities"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,13 +251,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99a730c3ec179537",
+  "active": "1e824312a94a0c5b",
   "lastOpenFiles": [
-    "Templates/General Note.md",
-    "MATH117/Functions and Composition.md",
-    "fzszgf7gquwjpzlbdzja1.jpg",
-    "MATH117/Conic Sections.md",
+    "MATH117/L2. W1. Functions and Composition.md",
+    "MATH117/L3. W2. Piecewise and Inequalities.md",
+    "MATH117/L1. W1. Conic Sections.md",
     "MATH117/Advice.md",
+    "Templates/General Note.md",
+    "fzszgf7gquwjpzlbdzja1.jpg",
     "MATH115/Vectors in R^n space.md",
     "MATH117",
     "Templates/Math Note.md",
