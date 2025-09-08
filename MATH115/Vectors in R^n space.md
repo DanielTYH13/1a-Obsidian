@@ -1,0 +1,29 @@
+---
+tags:
+  - "#math"
+  - "#math115"
+---
+*Key Concepts:*
+___
+1. Vectors are denoted algebraically as a column of parameters $\vec{P}=\left[\frac{p_1}{p_2}\right]$
+2. Axis are denoted $x_1 \cdots x_n$
+3. A vector in the space $\mathbb{R}^n$ is a vector with n components that are all real. $\vec{x}=\begin{bmatrix}x_1\\\vdots\\x_n\end{bmatrix}$
+4. The zero vector is a vector in $\mathbb{R}^n$ space with n components all equal to zero. **There are infinitely many zero vectors, as n is unbounded.**
+5. Two vectors are equivalent if and only if every corresponding component in vector $\vec{a}$ and $\vec{b}$ are equivalent, and if both vectors have the same number of dimensions.
+	1. $\vec{A} = \vec{B} \iff \begin{bmatrix}a_1 = b_1\\\vdots\\a_n = b_n\end{bmatrix},\:\vec{A}\in\mathbb{R^n},\: \vec{B}\in\mathbb{R^m},\:m=n$
+6. Addition of two vectors is defined as adding all corresponding components. **If the vectors live in different dimensional spaces, then the sum is undefined.** 
+	1. $\vec{A} + \vec{B} = \begin{bmatrix}a_1+b_1\\\vdots\\a_n+b_n\end{bmatrix}$
+7. Geometrically, vectors represent a set of instructions from any given point to another. Thus, vector addition, geometrically, creates a parallelogram. 
+8. Addition of any two vectors in $\mathbb{R}^n$ can be projected onto a vector sum in $\mathbb{R}^2$
+9. Scalar multiplication is defined as multiplying all components by a scalar value. 
+10. All scalar multiples lie on the line defined by $\vec{x}$
+11. Scalar subtraction of $\vec{a}$ and $\vec{b}$ is defined as the sum of a and the product of -1 and b. 
+12. The vector defined between two given points A and B can be defined as having dimensions $b_1 - a_1$ and $b_2 - a_2$. Using the definition of vector subtraction, this can be re-written as $\vec{AB} = \vec{OB} - \vec{OA}$. The origin is given as all points are measured in reference to the origin, point (0, 0)
+
+*Terms and Definitions:
+___
+
+1. Zero Vector - The vector $\vec{0}_{\mathbb{R}^n}$ with all components equaling 0, and $\vec{0} \in \mathbb{R}^n$
+
+*Common Mistakes:*
+___

@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "d00b4db06028c537",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3d4dc406cdf9d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f733313b24261b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/General Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Note"
+            }
+          },
+          {
+            "id": "fa10a5aee530a710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/Vectors in R^n space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vectors in R^n space"
+            }
+          },
+          {
+            "id": "098dd7aafd9c4289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/Conic Sections.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conic Sections"
+            }
+          },
+          {
+            "id": "21acf0761d786044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/Conic Sections.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conic Sections"
+            }
+          },
+          {
+            "id": "99a730c3ec179537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/Functions and Composition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functions and Composition"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a906154f8f16280",
+    "type": "split",
+    "children": [
+      {
+        "id": "b508d0622f43640f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483380ad3ad1a970",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3c40343bb8928433",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bf90656f0d49f12e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbf3feff53ac0b83",
+    "type": "split",
+    "children": [
+      {
+        "id": "a716d2eb641d4241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71783d8d153c642b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mthel99/U4/L1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for L1"
+            }
+          },
+          {
+            "id": "b7296cd4752f4eaa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mthel99/U4/L1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from L1"
+            }
+          },
+          {
+            "id": "4647ca3035954357",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ce39c70ce3ebe89a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mthel99/U4/L1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of L1"
+            }
+          },
+          {
+            "id": "a8cc3a27177283fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "99a730c3ec179537",
+  "lastOpenFiles": [
+    "Templates/General Note.md",
+    "MATH117/Functions and Composition.md",
+    "fzszgf7gquwjpzlbdzja1.jpg",
+    "MATH117/Conic Sections.md",
+    "MATH117/Advice.md",
+    "MATH115/Vectors in R^n space.md",
+    "MATH117",
+    "Templates/Math Note.md",
+    "ECE150/Untitled.md",
+    "asdf.md",
+    "Templates",
+    "Untitled.md",
+    "ECE105",
+    "ECE150",
+    "Archive",
+    "ENGL192",
+    "ECE190",
+    "Archive.md",
+    "MATH115",
+    "Pasted image 20250730133158.png",
+    "mthel99/U4",
+    "Archive/Learning Prep/Bloom's Taxonomy.md",
+    "mthel99/U4/L1.md",
+    "mthel99",
+    "Pasted image 20250730130711.png",
+    "Welcome.md"
+  ]
+}

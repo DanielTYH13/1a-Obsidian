@@ -1,0 +1,23 @@
+---
+tags:
+---
+*Key Concepts:*
+___
+
+- The generalized conic section is defined as $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$
+	- ![[fzszgf7gquwjpzlbdzja1.jpg]]
+- Ellipses are defined as $\frac{(x-h)^2}{a^2}+\frac{(y-k)^2}{b^2}=1$, where $(h, k)$ is the center of the ellipse, $a$ is the horizontal width of the ellipse, and $b$ is the vertical width of the ellipse.
+	- In the most simplified case, an ellipse can be conceptualized as the square root of a parabola that opens down. Since a square root has both positive and negative solutions, the parabola becomes a closed loop.
+- To determine the form of a Conic Section (CS)
+	- If $B^2 - 4AC < 0$, it is either circle or ellipse because the "Base parabola opens down"
+		- If $A = C$, it is a circle
+		- Elsewise, it is an ellipse. (Height and width)
+	- If $B^2 - 4AC = 0$, the CS is a parabola
+	- If $B^2-4AC > 0$ The CS is a hyperbola, as then the "Base parabola opens up"
+	
+*Terms and Definitions:
+___
+
+
+*Common Mistakes:*
+___
