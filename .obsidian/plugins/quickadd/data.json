@@ -15,7 +15,7 @@
         "folders": [],
         "chooseWhenCreatingNote": true,
         "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": true
+        "chooseFromSubfolders": false
       },
       "appendLink": false,
       "openFile": true,
