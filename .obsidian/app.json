@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "spellcheck": false,
-  "attachmentFolderPath": "Miscellaneous"
+  "attachmentFolderPath": "Miscellaneous",
+  "showLineNumber": true
 }
