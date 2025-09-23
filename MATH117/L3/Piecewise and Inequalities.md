@@ -4,7 +4,6 @@ tags:
 ---
 *Key Concepts:*
 ___
-
 - When working with Piecewise inequalities, split the work into cases where the domain of certain values of x correspond to different resolutions of the piecewise function. 
 	1.  An easy way to do this is by using a number line. 
 	2. Then resolve the piecewise equation depending on the domain, and solve normally. Ensure that the domain corresponds with the ranges specified in the piecewise function

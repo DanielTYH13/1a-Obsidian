@@ -1,4 +1,8 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "theme": "obsidian"
+  "cssTheme": "Prism",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "accentColor": "",
+  "baseFontSize": 16,
+  "textFontFamily": "Source Code Pro"
 }

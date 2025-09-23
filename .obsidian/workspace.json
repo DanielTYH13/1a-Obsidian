@@ -55,12 +55,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L3. W2. Piecewise and Inequalities.md",
+                "file": "MATH117/L3/Piecewise and Inequalities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L3. W2. Piecewise and Inequalities"
+              "title": "Piecewise and Inequalities"
+            }
+          },
+          {
+            "id": "234ae7224dcae4ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L3/Piecewise and Inequalities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Piecewise and Inequalities"
+            }
+          },
+          {
+            "id": "0be030ad56ea42ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L6/Radian Measure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Radian Measure"
+            }
+          },
+          {
+            "id": "6233596f86217d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L7/Reference angles vs Principle Angles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reference angles vs Principle Angles"
+            }
+          },
+          {
+            "id": "f75bdd864fdc95b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/L3. W2/Dot Product.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dot Product"
+            }
+          },
+          {
+            "id": "83bb63094ba2a566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/L4/Orthogonal Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orthogonal Vectors"
             }
           },
           {
@@ -78,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -233,7 +303,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,46 +319,50 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5755d1451b9c0ebf",
+  "active": "83bb63094ba2a566",
   "lastOpenFiles": [
+    "MATH115/L3. W2/Dot Product.md",
+    "MATH115/L4/Orthogonal Vectors.md",
+    "MATH115/L3. W2/Triangle Identitiy.md",
+    "MATH115/L3. W2/Cauchy Schwarz Ineq.md",
+    "MATH115/L3. W2/Angles Determined by Two Vectors.md",
+    "MATH117/L7/Trigonometric Identities.md",
+    "MATH115/L4",
+    "MATH117/L7/Reference angles vs Principle Angles.md",
+    "MATH117/L6/Radian Measure.md",
+    "MATH117/L7",
+    "Templates/General Note.md",
+    "MATH117/L3/Decomposition of Rational Functions.md",
+    "Miscellaneous/Pasted image 20250920184738.png",
+    "Miscellaneous/Pasted image 20250920184729.png",
+    "Miscellaneous/Pasted image 20250920184640.png",
+    "Miscellaneous/Pasted image 20250920184626.png",
+    "MATH117/L3/Piecewise and Inequalities.md",
+    "MATH117/L6",
+    "MATH117/L3/Untitled.md",
+    "MATH117/L3",
     "MATH117/Untitled.md",
     "MATH117/L2. W1. Functions and Composition.md",
     "MATH117/L1. W1. Conic Sections.md",
-    "MATH117/L3. W2. Piecewise and Inequalities.md",
-    "MATH115/L3. W2/Angles Determined by Two Vectors.md",
-    "MATH115/L3. W2/Cauchy Schwarz Ineq.md",
-    "MATH115/L3. W2/Dot Product.md",
-    "Templates/General Note.md",
     "MATH115/L2. W1.md",
     "MATH115/L3. W2/Normalization of a Vector.md",
     "MATH117/Advice.md",
     "MATH115/L1. W1 Vectors and their Properties.md",
     "MATH115/L3. W2/Unit vectors.md",
-    "MATH115/L3. W2/Triangle Identitiy.md",
     "MATH115/L3. W2/Scalar Multiples and Parallel Vectors.md",
     "ECE150/Arithmetic.md",
     "ECE150/Local Variables in CPP.md",
     "DSF.md",
     "MATH115/L3. W2/Untitled.md",
     "1.md",
-    "dsf.md",
     "MATH115/L3. W2",
     "Miscellaneous/Pasted image 20250916183048.png",
-    "ECE150/Operators.md",
     "ECE150",
     "Miscellaneous",
     "Miscellaneous/fzszgf7gquwjpzlbdzja1.jpg",
     "MATH117",
-    "Templates/Math Note.md",
-    "ECE150/Untitled.md",
-    "asdf.md",
     "Templates",
-    "Untitled.md",
     "ECE105",
-    "ECE150",
-    "Archive",
-    "ENGL192",
-    "ECE190",
     "Pasted image 20250730133158.png",
     "Pasted image 20250730130711.png"
   ]
