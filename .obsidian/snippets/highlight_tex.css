@@ -1,0 +1,9 @@
+/* Remove highlight from all MathJax by default, idk if it's truly needed */
+.markdown-source-view .math mjx-container {
+    background-color: unset !important;
+}
+
+/* Highlight math only when it shares a line with a highlighted span */
+.markdown-source-view .cm-line:has(.cm-highlight) .math mjx-container {
+    background-color: var(--text-highlight-bg) !important;
+}

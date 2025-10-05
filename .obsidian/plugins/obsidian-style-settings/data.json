@@ -5,5 +5,9 @@
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-mocha-dt",
   "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-border-dt",
   "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-green-lt",
-  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt"
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
+  "entry-point@@minimal-mode": false,
+  "entry-point@@smooth-mode": false,
+  "entry-point@@color-scheme-selector": "color-scheme-default",
+  "entry-point@@separate-color-scheme": true
 }

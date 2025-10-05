@@ -1,6 +1,7 @@
 ---
 tags:
   - "#review"
+  - "#flashcards"
 sr-due: 2025-09-20
 sr-interval: 3
 sr-ease: 250
@@ -9,6 +10,11 @@ NOTE TO SELF. This note is here not just for memorization, but such that you can
 
 *Key Concepts:*
 ___
+
+- *When trying to prove trig identities, or solving for trig equations, try to use the known identities to remove as many different trig functions as possible in attempts to isolate one. It is always much easier to solve when there is only Cos, Sin, tan, etc.*  
+
+this is a ==test== of the cloze feature
+<!--SR:!2025-10-07,4,270-->
 
 These are quotient identities, meaning that they are ratios between sin and cos
 - $\tan{\theta} = \frac{\sin{\theta}}{\cos{\theta}}$ 

@@ -1,0 +1,2 @@
+- Why are we allowed to multiply one equation by another equation and have it remain equal?
+	- Because by definition, equality means that both sides are the same. If you multiply both sides of an equation by the same thing, the equation stays true. 

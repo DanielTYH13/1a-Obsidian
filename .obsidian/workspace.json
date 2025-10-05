@@ -4,151 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3d4dc406cdf9d7",
+        "id": "498bf70b17c0fa78",
         "type": "tabs",
         "children": [
           {
-            "id": "39e45570a932fe04",
+            "id": "22c34b8a7cd8d093",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH115/L3. W2/Unit vectors.md",
+                "file": "MATH117/L10/Sandwhich Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit vectors"
+              "title": "Sandwhich Theory"
             }
           },
           {
-            "id": "8151199958d8d212",
+            "id": "64bac762284ca47e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH115/L3. W2/Normalization of a Vector.md",
+                "file": "MATH115/L5/Scalar Equation of a Plane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normalization of a Vector"
+              "title": "Scalar Equation of a Plane"
             }
           },
           {
-            "id": "e3e57fc682af7e8b",
+            "id": "5370eaf2021ac8de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH115/L3. W2/Cauchy Schwarz Ineq.md",
+                "file": "MATH115/L6/Projections and Perpendiculars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cauchy Schwarz Ineq"
+              "title": "Projections and Perpendiculars"
             }
           },
           {
-            "id": "5755d1451b9c0ebf",
+            "id": "d8212b68c29fb46e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L3/Piecewise and Inequalities.md",
+                "file": "MATH115/L6/Projections and Perpendiculars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Piecewise and Inequalities"
-            }
-          },
-          {
-            "id": "234ae7224dcae4ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L3/Piecewise and Inequalities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Piecewise and Inequalities"
-            }
-          },
-          {
-            "id": "0be030ad56ea42ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L6/Radian Measure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Radian Measure"
-            }
-          },
-          {
-            "id": "6233596f86217d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L7/Reference angles vs Principle Angles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reference angles vs Principle Angles"
-            }
-          },
-          {
-            "id": "f75bdd864fdc95b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH115/L3. W2/Dot Product.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dot Product"
-            }
-          },
-          {
-            "id": "83bb63094ba2a566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH115/L4/Orthogonal Vectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orthogonal Vectors"
-            }
-          },
-          {
-            "id": "e7f1804f98c7f00b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/General Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Note"
+              "title": "Projections and Perpendiculars"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rank",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fbf3feff53ac0b83",
@@ -303,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,51 +234,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "83bb63094ba2a566",
+  "active": "d8212b68c29fb46e",
   "lastOpenFiles": [
-    "MATH115/L3. W2/Dot Product.md",
-    "MATH115/L4/Orthogonal Vectors.md",
-    "MATH115/L3. W2/Triangle Identitiy.md",
-    "MATH115/L3. W2/Cauchy Schwarz Ineq.md",
-    "MATH115/L3. W2/Angles Determined by Two Vectors.md",
-    "MATH117/L7/Trigonometric Identities.md",
-    "MATH115/L4",
-    "MATH117/L7/Reference angles vs Principle Angles.md",
-    "MATH117/L6/Radian Measure.md",
-    "MATH117/L7",
+    "ECE150/Local Variables in CPP.md",
+    "ECE150/Operators.md",
     "Templates/General Note.md",
-    "MATH117/L3/Decomposition of Rational Functions.md",
+    "Untitled.base",
+    "MATH117/L7/Trigonometric Identities.md",
+    "MATH115/L6/Projections and Perpendiculars.md",
+    "MATH115/L1. W1 Vectors and their Properties.md",
+    "MATH115/L5/Scalar Equation of a Plane.md",
+    "Miscellaneous/Pasted image 20251003150851.png",
+    "Miscellaneous/Pasted image 20251003150758.png",
+    "Miscellaneous/Pasted image 20251003150743.png",
+    "MATH115/L5/The Normal Vector of a Plane.md",
+    "MATH115/L5/Cross Product.md",
+    "ECE105/L1/Basic Derivatives and Integration.md",
+    "MATH115/L6",
+    "MATH117/L10/Limits for Functions.md",
+    "MATH117/L10/Sandwhich Theory.md",
+    "Miscellaneous/Pasted image 20250929130652.png",
+    "MATH117/L9/Sum of Cos and Sin to Single fcn.md",
+    "MATH117/L7/Hyperbolic Functions Cont.d.md",
+    "MATH117/L7/Reference angles vs Principle Angles.md",
+    "MATH117/L10/Sequences.md",
+    "MATH117/L10",
+    "MATH117/L8/Inverse Trigonometric Functions.md",
+    "MATH117/L9",
+    "MATH117/L1",
+    "MATH117/L8",
+    "MATH117/Questions.md",
+    "MATH117/questions",
+    "MATH117/L2/L2. W1. Functions and Composition.md",
+    "MATH117/L2/Hyperbolic Trig Functions.md",
+    "Miscellaneous/Pasted image 20250928115536.png",
+    "Miscellaneous/Pasted image 20250928115514.png",
+    "MATH117/L2",
+    "MATH117/L7/Form when solving Inequalities.md",
+    "MATH117/L1/L1. W1. Conic Sections.md",
+    "MATH117/L6/Radian Measure.md",
+    "ECE105/L1/Vectors in Physics.md",
+    "ECE105/L1",
+    "ECE105",
+    "MATH115/L4/Vector Eqns of Linear Graphical Features.md",
+    "MATH115/L3. W2/Dot Product.md",
     "Miscellaneous/Pasted image 20250920184738.png",
     "Miscellaneous/Pasted image 20250920184729.png",
     "Miscellaneous/Pasted image 20250920184640.png",
-    "Miscellaneous/Pasted image 20250920184626.png",
-    "MATH117/L3/Piecewise and Inequalities.md",
-    "MATH117/L6",
-    "MATH117/L3/Untitled.md",
-    "MATH117/L3",
-    "MATH117/Untitled.md",
-    "MATH117/L2. W1. Functions and Composition.md",
-    "MATH117/L1. W1. Conic Sections.md",
-    "MATH115/L2. W1.md",
-    "MATH115/L3. W2/Normalization of a Vector.md",
-    "MATH117/Advice.md",
-    "MATH115/L1. W1 Vectors and their Properties.md",
-    "MATH115/L3. W2/Unit vectors.md",
-    "MATH115/L3. W2/Scalar Multiples and Parallel Vectors.md",
-    "ECE150/Arithmetic.md",
-    "ECE150/Local Variables in CPP.md",
-    "DSF.md",
-    "MATH115/L3. W2/Untitled.md",
-    "1.md",
-    "MATH115/L3. W2",
-    "Miscellaneous/Pasted image 20250916183048.png",
-    "ECE150",
-    "Miscellaneous",
-    "Miscellaneous/fzszgf7gquwjpzlbdzja1.jpg",
-    "MATH117",
-    "Templates",
-    "ECE105",
-    "Pasted image 20250730133158.png",
-    "Pasted image 20250730130711.png"
+    "Miscellaneous/Pasted image 20250920184626.png"
   ]
 }
