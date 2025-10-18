@@ -1,0 +1,2 @@
+If you have forgotten a subject, Navigate to it and use the spaced repetition (Repeat it if you've completely forgotten it, just use what notes you are supposed to review otherwise)
+Then find a source (Ideally a textbook) for many application problems, and simply solve as many as suitable. 

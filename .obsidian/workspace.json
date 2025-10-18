@@ -4,67 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "498bf70b17c0fa78",
+        "id": "05d70a01b1aa3b9c",
         "type": "tabs",
         "children": [
           {
-            "id": "22c34b8a7cd8d093",
+            "id": "dda554bff9f6b703",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L10/Sandwhich Theory.md",
+                "file": "MATH117/L14/Construction Tangent Line Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sandwhich Theory"
+              "title": "Construction Tangent Line Equations"
             }
           },
           {
-            "id": "64bac762284ca47e",
+            "id": "fb48ceb8bd0840ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH115/L5/Scalar Equation of a Plane.md",
+                "file": "MATH117/L14/Evaluating limits at changing points for Piecewise Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scalar Equation of a Plane"
+              "title": "Evaluating limits at changing points for Piecewise Functions"
             }
           },
           {
-            "id": "5370eaf2021ac8de",
+            "id": "8757ba5c720892bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH115/L6/Projections and Perpendiculars.md",
+                "file": "MATH117/L14/Differentiability Impies Continuity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projections and Perpendiculars"
+              "title": "Differentiability Impies Continuity"
             }
           },
           {
-            "id": "d8212b68c29fb46e",
+            "id": "f8f55824f7e5b300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH115/L6/Projections and Perpendiculars.md",
+                "file": "MATH117/L14/Differentiability Impies Continuity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projections and Perpendiculars"
+              "title": "Differentiability Impies Continuity"
+            }
+          },
+          {
+            "id": "4b97f27e7d45708d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L15/The Derivative Function (Generalized to x=a at arbitrary x).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Derivative Function (Generalized to x=a at arbitrary x)"
+            }
+          },
+          {
+            "id": "957ec37959af56d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L15/Common Derivatives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common Derivatives"
+            }
+          },
+          {
+            "id": "78ba66d365d3e5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L15/Inverse Function Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inverse Function Theorem"
+            }
+          },
+          {
+            "id": "311c3af53d1beab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivatives of Common Inverse Functions"
+            }
+          },
+          {
+            "id": "5477830711f1bd6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L16 - Midterm Cutoff/Implicit Forms of Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implicit Forms of Functions"
+            }
+          },
+          {
+            "id": "215458de6a950628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L16 - Midterm Cutoff/Explicit Forms of Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explicit Forms of Functions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -96,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rank",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH115/L3. W2/Dot Product.md",
+                "file": "MATH117/L10/Limits for Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dot Product"
+              "title": "Backlinks for Limits for Functions"
             }
           },
           {
@@ -219,7 +303,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,56 +316,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d8212b68c29fb46e",
+  "active": "215458de6a950628",
   "lastOpenFiles": [
-    "ECE150/Local Variables in CPP.md",
-    "ECE150/Operators.md",
-    "Templates/General Note.md",
+    "MATH117/L16 - Midterm Cutoff/Implicit Forms of Functions.md",
+    "MATH117/L16 - Midterm Cutoff/Explicit Forms of Functions.md",
+    "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
+    "MATH117/L16 - Midterm Cutoff",
+    "MATH117/L15/Inverse Function Theorem.md",
+    "MATH117/L15/Common Derivatives.md",
+    "MATH117/L15/The Derivative Function (Generalized to x=a at arbitrary x).md",
+    "MATH117/L14/Differentiability Impies Continuity.md",
+    "MATH117/L15",
+    "MATH117/L14/Evaluating limits at changing points for Piecewise Functions.md",
+    "MATH117/L14/Extreme Value Theorem.md",
+    "MATH117/L14/Limit Definition of Continuity at a Point.md",
+    "MATH117/L14/Construction Tangent Line Equations.md",
+    "MATH117/L14/Derivative at a Point.md",
+    "MATH115/L11 - L13 inclusive/Fundamental Properties of Matrix Algebra.md",
+    "MATH115/L11 - L13 inclusive/The Transpose of a Matrix.md",
+    "Odin Project/The Box Model.md",
+    "Calendar.md",
+    "MATH115/L11 - L13 inclusive/Properties of Vector-Matrix Multiplication.md",
+    "MATH115/L11 - L13 inclusive/Matrix Equality Theorem.md",
+    "MATH115/L11 - L13 inclusive/Matrix-Vector Multiplication.md",
+    "MATH115/L11 - L13 inclusive/Properties of the Matrix Transpose.md",
+    "MATH115/L11 - L13 inclusive/Matrix Addition.md",
+    "Odin Project/Specificity (Cascading) in CSS.md",
+    "Miscellaneous/Pasted image 20251015153811.png",
+    "Miscellaneous/Pasted image 20251015153723.png",
+    "Odin Project",
+    "MATH115/L11 - L13 inclusive/The Identity Matrix.md",
+    "MATH115/L11 - L13 inclusive/Matrix's in Collumn Vector Form.md",
+    "MATH115/L11 - L13 inclusive/Homogenous Systems of Linear Equations.md",
+    "MATH115/L11 - L13 inclusive/Algebraic Matrices.md",
+    "Miscellaneous/Pasted image 20251014185020.png",
+    "ECE150/Archive",
+    "Miscellaneous/Pasted image 20251014183910.png",
+    "Miscellaneous/Pasted image 20251014183445.png",
+    "ECE190",
+    "MATH115/L11 - L13 inclusive",
+    "MATH115/L9",
+    "MATH117/L14",
+    "MATH117/L13",
+    "Miscellaneous/Pasted image 20251013160257.png",
     "Untitled.base",
-    "MATH117/L7/Trigonometric Identities.md",
-    "MATH115/L6/Projections and Perpendiculars.md",
-    "MATH115/L1. W1 Vectors and their Properties.md",
-    "MATH115/L5/Scalar Equation of a Plane.md",
-    "Miscellaneous/Pasted image 20251003150851.png",
-    "Miscellaneous/Pasted image 20251003150758.png",
-    "Miscellaneous/Pasted image 20251003150743.png",
-    "MATH115/L5/The Normal Vector of a Plane.md",
-    "MATH115/L5/Cross Product.md",
-    "ECE105/L1/Basic Derivatives and Integration.md",
-    "MATH115/L6",
-    "MATH117/L10/Limits for Functions.md",
-    "MATH117/L10/Sandwhich Theory.md",
-    "Miscellaneous/Pasted image 20250929130652.png",
-    "MATH117/L9/Sum of Cos and Sin to Single fcn.md",
-    "MATH117/L7/Hyperbolic Functions Cont.d.md",
-    "MATH117/L7/Reference angles vs Principle Angles.md",
-    "MATH117/L10/Sequences.md",
-    "MATH117/L10",
-    "MATH117/L8/Inverse Trigonometric Functions.md",
-    "MATH117/L9",
-    "MATH117/L1",
-    "MATH117/L8",
-    "MATH117/Questions.md",
-    "MATH117/questions",
-    "MATH117/L2/L2. W1. Functions and Composition.md",
-    "MATH117/L2/Hyperbolic Trig Functions.md",
-    "Miscellaneous/Pasted image 20250928115536.png",
-    "Miscellaneous/Pasted image 20250928115514.png",
-    "MATH117/L2",
-    "MATH117/L7/Form when solving Inequalities.md",
-    "MATH117/L1/L1. W1. Conic Sections.md",
-    "MATH117/L6/Radian Measure.md",
-    "ECE105/L1/Vectors in Physics.md",
-    "ECE105/L1",
-    "ECE105",
-    "MATH115/L4/Vector Eqns of Linear Graphical Features.md",
-    "MATH115/L3. W2/Dot Product.md",
-    "Miscellaneous/Pasted image 20250920184738.png",
-    "Miscellaneous/Pasted image 20250920184729.png",
-    "Miscellaneous/Pasted image 20250920184640.png",
-    "Miscellaneous/Pasted image 20250920184626.png"
+    "Miscellaneous/Pasted image 20251009224150.png",
+    "Miscellaneous/Pasted image 20251009192532.png",
+    "Miscellaneous/Pasted image 20251007130105.png",
+    "Miscellaneous/Pasted image 20251005192243.png"
   ]
 }

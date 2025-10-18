@@ -17,7 +17,15 @@ ___
 	- This is quite useful for sequences such as $a_{n} = \frac{\sin{n}}{n}$
 		- You cannot evaluate this using typical limit laws and tools, as $\displaystyle \lim_{x->\infty}\sin{x} = DNE$
 			- It is oscillating. 
-	- *Indicators for sdw thm* (Not necessarily necessitates)
+	- Example: 
+		- $\displaystyle \lim_{x\to0}x^2\tan^{-1}(\frac{1}{x})$
+			- We cannot evaluate this as 1/x is DNE at x = 0
+		- ==$\frac{-\pi}{2} \le tan(\theta) \le \frac{\pi}{2}$==
+		- ==$\frac{-\pi x^2}{2} \le x^2tan(\theta) \le \frac{\pi x^2}{2}$==
+		- ==$\displaystyle \lim_{x\to 0} \pm \frac{\pi x^2}{2} = 0$==
+		- Therefore, ==the original limit is also 0.==
+
+	- *Indicators for sdw thm* (Doesn't necessitates)
 		- If there are any periodic functions in the numerator
 		- Ex. 
 			- sin(x)
