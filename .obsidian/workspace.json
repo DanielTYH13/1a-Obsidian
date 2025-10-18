@@ -4,151 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "05d70a01b1aa3b9c",
+        "id": "4aaa9cfcf055fbff",
         "type": "tabs",
         "children": [
           {
-            "id": "dda554bff9f6b703",
+            "id": "fd19acfe70dda6b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L14/Construction Tangent Line Equations.md",
+                "file": "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Construction Tangent Line Equations"
+              "title": "Evaluating Derivatives in Implicit Form"
             }
           },
           {
-            "id": "fb48ceb8bd0840ad",
+            "id": "1bfc1ad4d7e9cbcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L14/Evaluating limits at changing points for Piecewise Functions.md",
+                "file": "MATH117/L16 - Midterm Cutoff/Logarithmic Differentiation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluating limits at changing points for Piecewise Functions"
-            }
-          },
-          {
-            "id": "8757ba5c720892bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L14/Differentiability Impies Continuity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Differentiability Impies Continuity"
-            }
-          },
-          {
-            "id": "f8f55824f7e5b300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L14/Differentiability Impies Continuity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Differentiability Impies Continuity"
-            }
-          },
-          {
-            "id": "4b97f27e7d45708d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L15/The Derivative Function (Generalized to x=a at arbitrary x).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Derivative Function (Generalized to x=a at arbitrary x)"
-            }
-          },
-          {
-            "id": "957ec37959af56d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L15/Common Derivatives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Common Derivatives"
-            }
-          },
-          {
-            "id": "78ba66d365d3e5ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L15/Inverse Function Theorem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inverse Function Theorem"
-            }
-          },
-          {
-            "id": "311c3af53d1beab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derivatives of Common Inverse Functions"
-            }
-          },
-          {
-            "id": "5477830711f1bd6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L16 - Midterm Cutoff/Implicit Forms of Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Implicit Forms of Functions"
-            }
-          },
-          {
-            "id": "215458de6a950628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L16 - Midterm Cutoff/Explicit Forms of Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Explicit Forms of Functions"
+              "title": "Logarithmic Differentiation"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -320,21 +208,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "215458de6a950628",
+  "active": "1bfc1ad4d7e9cbcd",
   "lastOpenFiles": [
+    "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
+    "MATH117/L16 - Midterm Cutoff/Logarithmic Differentiation.md",
+    "Templates/General Note.md",
     "MATH117/L16 - Midterm Cutoff/Implicit Forms of Functions.md",
-    "MATH117/L16 - Midterm Cutoff/Explicit Forms of Functions.md",
     "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
-    "MATH117/L16 - Midterm Cutoff",
     "MATH117/L15/Inverse Function Theorem.md",
     "MATH117/L15/Common Derivatives.md",
     "MATH117/L15/The Derivative Function (Generalized to x=a at arbitrary x).md",
     "MATH117/L14/Differentiability Impies Continuity.md",
-    "MATH117/L15",
     "MATH117/L14/Evaluating limits at changing points for Piecewise Functions.md",
+    "MATH117/L14/Construction Tangent Line Equations.md",
+    "MATH117/L16 - Midterm Cutoff/Explicit Forms of Functions.md",
+    "MATH117/L16 - Midterm Cutoff",
+    "MATH117/L15",
     "MATH117/L14/Extreme Value Theorem.md",
     "MATH117/L14/Limit Definition of Continuity at a Point.md",
-    "MATH117/L14/Construction Tangent Line Equations.md",
     "MATH117/L14/Derivative at a Point.md",
     "MATH115/L11 - L13 inclusive/Fundamental Properties of Matrix Algebra.md",
     "MATH115/L11 - L13 inclusive/The Transpose of a Matrix.md",
@@ -350,9 +241,6 @@
     "Miscellaneous/Pasted image 20251015153723.png",
     "Odin Project",
     "MATH115/L11 - L13 inclusive/The Identity Matrix.md",
-    "MATH115/L11 - L13 inclusive/Matrix's in Collumn Vector Form.md",
-    "MATH115/L11 - L13 inclusive/Homogenous Systems of Linear Equations.md",
-    "MATH115/L11 - L13 inclusive/Algebraic Matrices.md",
     "Miscellaneous/Pasted image 20251014185020.png",
     "ECE150/Archive",
     "Miscellaneous/Pasted image 20251014183910.png",
