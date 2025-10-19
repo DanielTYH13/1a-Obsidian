@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L16 - Midterm Cutoff/Logarithmic Differentiation.md",
+                "file": "ECE105/Forces/Gravitational Force Derivation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logarithmic Differentiation"
+              "title": "Gravitational Force Derivation"
             }
           }
         ],
@@ -210,8 +210,12 @@
   },
   "active": "1bfc1ad4d7e9cbcd",
   "lastOpenFiles": [
-    "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
+    "ECE105/Forces/Friction.md",
+    "ECE105/Forces/Force.md",
+    "ECE105/Forces/FBDs.md",
+    "ECE105/Forces/External Forces.md",
     "MATH117/L16 - Midterm Cutoff/Logarithmic Differentiation.md",
+    "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
     "Templates/General Note.md",
     "MATH117/L16 - Midterm Cutoff/Implicit Forms of Functions.md",
     "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
@@ -234,13 +238,9 @@
     "MATH115/L11 - L13 inclusive/Properties of Vector-Matrix Multiplication.md",
     "MATH115/L11 - L13 inclusive/Matrix Equality Theorem.md",
     "MATH115/L11 - L13 inclusive/Matrix-Vector Multiplication.md",
-    "MATH115/L11 - L13 inclusive/Properties of the Matrix Transpose.md",
-    "MATH115/L11 - L13 inclusive/Matrix Addition.md",
-    "Odin Project/Specificity (Cascading) in CSS.md",
     "Miscellaneous/Pasted image 20251015153811.png",
     "Miscellaneous/Pasted image 20251015153723.png",
     "Odin Project",
-    "MATH115/L11 - L13 inclusive/The Identity Matrix.md",
     "Miscellaneous/Pasted image 20251014185020.png",
     "ECE150/Archive",
     "Miscellaneous/Pasted image 20251014183910.png",

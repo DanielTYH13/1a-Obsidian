@@ -9,9 +9,9 @@ sr-ease: 250
 *Key Concepts:*
 ___
 - The gravitational force is a fundemental force. Therefore, it can be represented using the particle force law, which is:
-	- ==$\vec{F} = -G\frac{m_{1}m_{2}}{r^2}\vec{k}$
+	- ==$\vec{F} = -G\frac{m_{1}m_{2}}{r^2}\vec{k}$==
 		- Where the vector k is the normal unit vector to the earth. 
-			- ==$\vec{k} = \frac{\vec{k}}{\|\vec{k}\|}$
+			- ==$\vec{k} = \frac{\vec{k}}{\|\vec{k}\|}$==
 
 - ==Particle concentration in a dot theorem==
 	- If two particles are not intersecting, we can simplify the mass of the particle as a point which lies on the average of the particle's mass
