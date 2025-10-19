@@ -1,7 +1,7 @@
 ---
 tags:
   - "#review"
-  - "#flashcards"
+  - MATH115
 sr-due: 2025-09-20
 sr-interval: 3
 sr-ease: 250

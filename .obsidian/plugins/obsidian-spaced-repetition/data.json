@@ -1,7 +1,10 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards"
+      "#flashcards",
+      "#MATH115",
+      "#MATH117",
+      ""
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -41,7 +44,7 @@
     "flashcardEasyText": "Easy",
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
-    "reviewButtonDelay": 0,
+    "reviewButtonDelay": 300,
     "openViewInNewTab": false,
     "algorithm": "SM-2-OSR",
     "baseEase": 250,

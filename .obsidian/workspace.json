@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE105/Forces/Gravitational Force Derivation.md",
+                "file": "MATH117/L1/L1. W1. Conic Sections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gravitational Force Derivation"
+              "title": "L1. W1. Conic Sections"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,60 +202,60 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
+      "templates:Insert template": false,
       "obsidian-kanban:Create new board": false
     }
   },
   "active": "1bfc1ad4d7e9cbcd",
   "lastOpenFiles": [
-    "ECE105/Forces/Friction.md",
-    "ECE105/Forces/Force.md",
-    "ECE105/Forces/FBDs.md",
-    "ECE105/Forces/External Forces.md",
+    "Miscellaneous/Pasted image 20251019134454.png",
+    "Templates/MATH117 Note Template.md",
+    "Templates/MATH115 Note Template.md",
+    "Templates/General Note Template.md",
+    "MATH117/Questions.md",
+    "MATH117/Miscellaneous Practice Qs.md",
+    "MATH117/Advice.md",
     "MATH117/L16 - Midterm Cutoff/Logarithmic Differentiation.md",
-    "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
-    "Templates/General Note.md",
     "MATH117/L16 - Midterm Cutoff/Implicit Forms of Functions.md",
-    "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
-    "MATH117/L15/Inverse Function Theorem.md",
-    "MATH117/L15/Common Derivatives.md",
-    "MATH117/L15/The Derivative Function (Generalized to x=a at arbitrary x).md",
-    "MATH117/L14/Differentiability Impies Continuity.md",
-    "MATH117/L14/Evaluating limits at changing points for Piecewise Functions.md",
-    "MATH117/L14/Construction Tangent Line Equations.md",
     "MATH117/L16 - Midterm Cutoff/Explicit Forms of Functions.md",
+    "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
+    "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
+    "MATH117/L15/The Derivative Function (Generalized to x=a at arbitrary x).md",
+    "MATH117/L15/Common Derivatives.md",
+    "MATH117/L15/Inverse Function Theorem.md",
+    "MATH117/L14/Limit Definition of Continuity at a Point.md",
+    "MATH117/L14/Extreme Value Theorem.md",
+    "MATH117/L14/Evaluating limits at changing points for Piecewise Functions.md",
+    "MATH117/L14/Differentiability Impies Continuity.md",
+    "MATH117/L14/Derivative at a Point.md",
+    "MATH117/L14/Construction Tangent Line Equations.md",
+    "MATH117/L13/Intermediate Value Theorem (IVT).md",
+    "MATH117/L13/General Types of Discontinuities at a Point.md",
+    "MATH117/L13/Definition of Continuity at a Point.md",
+    "MATH117/L13/Continuous Functions.md",
+    "MATH117/L12/More Limit Laws.md",
+    "Miscellaneous/Pasted image 20250916183048.png",
+    "Miscellaneous/Pasted image 20251014183445.png",
+    "Miscellaneous/Pasted image 20251014183910.png",
+    "Miscellaneous/Pasted image 20251014185020.png",
+    "Miscellaneous/Pasted image 20251015153723.png",
+    "Miscellaneous/Pasted image 20251009192532.png",
+    "Miscellaneous/Pasted image 20250920184626.png",
+    "Miscellaneous/fzszgf7gquwjpzlbdzja1.jpg",
     "MATH117/L16 - Midterm Cutoff",
     "MATH117/L15",
-    "MATH117/L14/Extreme Value Theorem.md",
-    "MATH117/L14/Limit Definition of Continuity at a Point.md",
-    "MATH117/L14/Derivative at a Point.md",
-    "MATH115/L11 - L13 inclusive/Fundamental Properties of Matrix Algebra.md",
-    "MATH115/L11 - L13 inclusive/The Transpose of a Matrix.md",
-    "Odin Project/The Box Model.md",
-    "Calendar.md",
-    "MATH115/L11 - L13 inclusive/Properties of Vector-Matrix Multiplication.md",
-    "MATH115/L11 - L13 inclusive/Matrix Equality Theorem.md",
-    "MATH115/L11 - L13 inclusive/Matrix-Vector Multiplication.md",
     "Miscellaneous/Pasted image 20251015153811.png",
-    "Miscellaneous/Pasted image 20251015153723.png",
     "Odin Project",
-    "Miscellaneous/Pasted image 20251014185020.png",
     "ECE150/Archive",
-    "Miscellaneous/Pasted image 20251014183910.png",
-    "Miscellaneous/Pasted image 20251014183445.png",
     "ECE190",
     "MATH115/L11 - L13 inclusive",
     "MATH115/L9",
     "MATH117/L14",
     "MATH117/L13",
     "Miscellaneous/Pasted image 20251013160257.png",
-    "Untitled.base",
-    "Miscellaneous/Pasted image 20251009224150.png",
-    "Miscellaneous/Pasted image 20251009192532.png",
-    "Miscellaneous/Pasted image 20251007130105.png",
-    "Miscellaneous/Pasted image 20251005192243.png"
+    "Untitled.base"
   ]
 }
