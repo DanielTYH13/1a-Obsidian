@@ -9,7 +9,7 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
-- Begin by seperating the LHS and RHS to seperate spaces - this is because you don't necessarily know that the equality is valid. 
+- Begin by seperating the ==LHS and RHS to seperate areas== - this is because you ==don't necessarily know that the equality is valid.==
 - Solve - primarily with one side, usually - both sides such that they are identical
 - Write QED. 
 
