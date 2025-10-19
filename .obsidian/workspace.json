@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fd19acfe70dda6b6",
+  "active": "483380ad3ad1a970",
   "lastOpenFiles": [
     "Miscellaneous/README.md",
     "MATH115/L11 - L13 inclusive/The Transpose of a Matrix.md",
