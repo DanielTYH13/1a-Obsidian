@@ -61,7 +61,7 @@
       "name": "MATH115",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "Templates/MATH115 Note.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""

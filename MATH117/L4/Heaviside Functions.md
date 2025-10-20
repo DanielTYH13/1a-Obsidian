@@ -14,7 +14,7 @@ Enable at t: ==$H(x-t)f(x)$==
 	- For all values $x < t$, the argument for H(x) will be ==negative==
 		- This means it will be disabled.
 	- For all values $x \ge t$, the argument for H(x) will be ==$\ge 0$==, or in other words, ==positive or equal to 0==
-		- This means it will activate.
+		- This means it will activate. <!--SR:!2025-10-22,3,250!2025-10-22,3,250!2000-01-01,1,250!2000-01-01,1,250-->
 
 Disable: ==$1f(x) - H(x-t)f(x)$== or ==$f(x)(1-H(x-t))$==
 - This inverses the behavior of the "Enable" function. 
@@ -25,7 +25,7 @@ Enable -> Disable: ==$H(x-t)f(x) - H(x-k)f(x)$== or ==$f(x)(H(x-t)-H(x-k))$==
 - This enables the function at x = t, and then disables at x = k.
 - It is derived from ==adding the enable and disable functions==
 	- In this case, the coef 1 in the disable function is the ==enable function past the point t==
-- ![[Pasted image 20251019182655.png]]
+- ![[Pasted image 20251019182655.png]] <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2025-10-22,3,250!2000-01-01,1,250-->
 
 Disable -> Enable: $1f(x) - H(x-t)f(x) + H(x-k)f(x)$ or ==$f(x)(1 - H(x-t)+H(x-k))$==
 - This is the same as ==enable -> disable==, its just that it first ==disables and then enables==

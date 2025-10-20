@@ -14,12 +14,14 @@ ___
 	- Find the arc length spanned from one intersection between the lines to another
 	- Divide this ==arc length by the radius of the circle, in this case 1==
 	- The resulting angle is the radian measure
-- In essence, the radian measure of an angle is the $\frac{s}{r}$ where r is the radius of a circle that is centered around the vertex and s is the arc length spanned by this. 
-- When dividing the entirety of the circle by its radius, you get ==$2\pi$. you can then multiply $2\pi$ by certain fractions to achieve right triangles, acute triangles, etc.==a
+- In essence, the radian measure of an angle is the $\frac{s}{r}$ where r is the radius of a circle that is centered around the vertex and s is the arc length spanned by this.
+- When dividing the entirety of the circle by its radius, you get ==$2\pi$.==
+
+- Values of theta in certain ranges are classified as following:
 	- Acute: $\theta < \frac{\pi}{2}$
 	- Right: $\theta = \frac{\pi}{2}$
 	- Obtuse: $\theta > \frac{\pi}{2}$
-	- Note: The angle $\theta$ must be the reference angle, and not reflex angle. 
+	- Note: The angle $\theta$ must be the reference angle, and not reflex angle. <!--SR:!2000-01-01,1,250!2025-10-21,2,249-->
 
 The trignometric functions:
 - ![[Pasted image 20250920184729.png]]
@@ -39,12 +41,12 @@ The trignometric functions:
 	- Domain: ==$D: x\in(-\infty, \infty) \backslash \{\frac{\pi}{2} + \pi n\}$==
 	- Range: ==$R: y\in(-\infty, \infty)$==
 	- ==$0, \theta = 0+\pi$== **Exer: When is tan(x) equal to 0?**
-	-  Tan is ==**pi== periodic**, meaning it repeats itself over a period of $\pi$
+	-  Tan is ==**pi== periodic**, meaning it repeats itself over a period of $\pi$ <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-20,1,230!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250-->
 
 - Exercise: The two special triangles are those with==.==
 	1.  Legs 1, Hypotenuse $\sqrt{2}$
 	2. $leg_{1}= 1$, $hypotenuse = 2$, $leg_{2} = \sqrt{3}$
-	Using the above special triangles, find the special angles. 
+	Using the above special triangles, find the special angles. <!--SR:!2025-10-20,1,229--> 
 
 *Significant Theorems:*
 ___

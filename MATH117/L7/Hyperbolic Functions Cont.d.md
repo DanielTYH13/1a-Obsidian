@@ -13,14 +13,14 @@ ___
 
 - Is tanh(x) odd or even?
 	- When dividing an odd function by an even one, you are dividing the entire odd function =="symmetrically" over its domain==. Therefore, it will remain rotationally asymmetric.
-		- There is no way to go from odd -> even, as this would imply an even function that ==differently modifies the odd function on each side of the y axis.== This directly contradicts the definition of an even function. 
+		- There is no way to go from odd -> even, as this would imply an even function that ==differently modifies the odd function on each side of the y axis.== This directly contradicts the definition of an even function. <!--SR:!2000-01-01,1,250!2025-10-22,3,250--> 
 
 - Finding sinh(x) and cosh(x) from tanh(x)
 	- Consider that tanh(x) = $\frac{sinh(x)}{cosh(x)}$ = $\frac{a}{b}$
 	- Resultingly, this means that ==$sinh(x)=\frac{a}{b}cosh(x)$==
 	- *Now, since we have two functions, it is impossible to find ==sinh(x) or cosh(x) in relation to the constants given== - which are our tools to finding the values of the functions.* 
 		- *As such, we need to remove one of the two functions using hyperbolic trig identities:* ==$cosh^2(x) - sinh^2(x) = 1$==
-	- $-sinh^2(x) = -\frac{a}{b}cosh^2(x)$
+	- $-sinh^2(x) = -\frac{a^2}{b^2}cosh^2(x)$
 		- *First square, and then negate both sides*
 	- $cosh^2(x)-sinh^2(x) = cosh^2(x)-\frac{a}{b}cosh^2(x)$
 		- *Add $cosh^2(x)$ to both sides to fulfill the identity, and thus removing $sinh(x)$*

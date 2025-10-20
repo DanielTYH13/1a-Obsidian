@@ -27,17 +27,17 @@ Three Forms of Decomposition: #TODO: Why are the numerators they way they are? F
 	- General decomposed form: ==$\frac{A}{x+a}+\frac{B}{x+b}...$==
 - Repeated Linear
 	- Denom: $(x+k)^n$
-	- General decomposed form: ==$\frac{A}{x+k}+\frac{D}{(x+k)^2}+\frac{C}{(x+k)^3}\dots$==
+	- General decomposed form: ==$\frac{A}{x+k}+\frac{B}{(x+k)^2}+\frac{C}{(x+k)^3}\dots$==
 - Distinct irreducible quadratic
 	- Denom: $(ax^{2}+bx+c)\cdot(dx^{2}+ex+c)\dots$
 	- General decomposed form: ==$\frac{Ax+b}{ax^{2}+bx+c}+\frac{Cx+d}{dx^{2}+ex+c}\cdots$==
-- Repeated irreducible quadratic 
+- Repeated irreducible quadratic
 	- Denom: $(ax^{2}+bx+c)^n$
 	- General decomposed form: ==$\frac{Ax+b}{ax^{2}+bx+c}+\frac{Cx+d}{(ax^{2}+bx+c)^2}\dots$==
 - Combined:
 	- Denom: Can be both quadratic and linear combined together
 	- General decomposed form: ==Use individual numerator coefs for the linear ones, and then linear relationships for the quadratics.==
-	- 
+	- <!--SR:!2025-10-21,2,249!2025-10-21,2,249!2000-01-01,1,250!2000-01-01,1,250!2025-10-20,1,230-->
 
 
 

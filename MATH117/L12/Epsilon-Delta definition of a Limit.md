@@ -25,7 +25,7 @@ ___
 			- The one sided limits MUST exist. This is because ==The abs in the delta includes both sides, which means that it must be not DNE and also within the range==
 			- The one sided limits MUST equal each other. This is because ==At infinitely near the limit, $x \pm \delta$ must be also within that infinitely small tolerance, thus $\implies$ the right and left limits are equal.
 			- An example where the epsilon delta definition can be used to prove the existance of a limit:
-		![[Pasted image 20251013160257.png|207]]
+		![[Pasted image 20251013160257.png|207]] <!--SR:!2025-10-22,3,250!2000-01-01,1,250!2000-01-01,1,250-->
 
 - Note: ==With ED limit proofs, it is always advised to sketch a drawing of the curve==
 

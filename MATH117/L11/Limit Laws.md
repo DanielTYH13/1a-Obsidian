@@ -16,7 +16,7 @@ Defn': Balancing Term:
 Defn': Vert asymp:
 - A vert asymp exists at $x = a$ if the RHS or LHS limit as x approaches a is $\pm \infty$
 
-**Important**: If a limit goes to $\pm \infty$, it is ==DNE==. However, we don't always state this. 
+**Important**: If a limit goes to $\pm \infty$, it is ==DNE==. However, we don't always state this. <!--SR:!2025-10-22,3,250--> 
 
 Evaluating Limits that are in Indeterminate Form:
 - Evaluating Rational Functions:
@@ -27,6 +27,7 @@ Evaluating Limits that are in Indeterminate Form:
 		- Still Undeterminate
 - Evaluating limits at infinity
 	- Multiply by ==the reciprical of the highest power divided by itself:==
+	- Note: To use this method, the reciprocal must be divided by ==another reciprocal==. Elsewise, it will be multiplying it by something other than 1
 	- Ex.
 		- $\displaystyle \lim_{x\to -\infty}\left(\frac{x^2-x-x^2}{\sqrt{x^2-x}-x}\cdot\frac{\frac{1}{x}}{\frac{1}{x}} \right)$
 		- $\displaystyle \lim_{x\to -\infty}\left(\frac{\frac{x}{x}}{\frac{\sqrt{x^2-x}}{x}-\frac{x}{x}}\right)$

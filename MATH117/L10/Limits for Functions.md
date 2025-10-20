@@ -20,14 +20,14 @@ ___
 	- For $r > 0$ and where $x^r$ is defined,
 		- $\displaystyle \lim_{x\to \infty}\frac{1}{x^r} = 0$
 		- $\displaystyle \lim_{x\to -\infty}\frac{1}{x^r} = 0$
-		- This is true because as the base gets larger, so will the exponent. 
+		- This is true because as the base gets larger, so will the exponent.
 			- Also, it does not matter the sign -it will still approach 0.
 	- $\displaystyle \lim_{x\to 0} \frac{\sin{x}}{x} = 1$
 		- A proper proof for this can be found yourself.
 The following function limits DNE for $\displaystyle \lim_{n\to \infty}$
 - all ==primary trignometric functions==
 - ==$(-1)^n$==
-- Any ==periodic function==
+- Any ==periodic function== <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-20,1,230!2000-01-01,1,250!2000-01-01,1,250-->
 
 - *Many of the concepts from limits of sequences are easily extended to functions*
 

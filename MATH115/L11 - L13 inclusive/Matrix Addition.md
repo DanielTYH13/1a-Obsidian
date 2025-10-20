@@ -13,7 +13,7 @@ ___
 	- The matrix sum of A and B is defined as the matrix with entries:
 		- ==$(A+B)_{ij} = A_{ij} + B_{ij}$==
 	- The matrix difference of A and B is defined as the matrix addition of A and -B:
-		- ==(A-B)_{ij} = A_{ij} - B_{ij}==
+		- ==$(A-B)_{ij} = A_{ij} - B_{ij}$==
 	- For $c \in \mathbb{R}$, the matrix scalar product is simply defined as the matrix with entries:
 		- ==$(cA)_{ij} = c\cdot A_{ij}$==
 

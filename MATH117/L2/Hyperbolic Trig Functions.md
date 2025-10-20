@@ -16,10 +16,10 @@ ___
 	![[Pasted image 20250928115536.png|300]]
 
 - Definitions:
-	- $\cosh(a)$ = $\frac{1}{2}(e^x+e^{-x})$
+	- $\cosh(x)$ = $\frac{1}{2}(e^x+e^{-x})$
 		- This is an even function, as you can ==use the commutative property of addition to swap around each term after x has been negated.==
-	- $sinh(a)$ $= \frac{1}{2}(e^x - e^{-x})$
-		- This is an odd function, which is apparent as ==subtraction is not commutative==
+	- $sinh(x)$ $= \frac{1}{2}(e^x - e^{-x})$
+		- This is an odd function, which is apparent as ==subtraction is not commutative== <!--SR:!2025-10-22,3,250!2000-01-01,1,250-->
 
 *Significant Theorems:*
 ___

@@ -16,7 +16,7 @@ ___
 - Divergent -> meaning that it approaches an ==*undefinable* limit==
 	- Sequences that go to ==infinity== are divergent
 	- Sequences that ==oscillate forever== (In most cases. Exer. Why==?==) are divergent
-- Convergent -> meaning that it approaches a ==*definable* limit==
+- Convergent -> meaning that it approaches a ==*definable* limit== <!--SR:!2000-01-01,1,250!2025-10-22,3,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-22,3,250-->
 
 - *Limit Tools for Sequences*:
 	- $\displaystyle \lim_{n \to \infty} c = c$  The limit of a constant sequence is ==the constant - it is not affected by n==

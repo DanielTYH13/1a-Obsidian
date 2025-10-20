@@ -17,6 +17,8 @@ Def'n
 - A homogenous linear equation is one such that the constant term is 0. 
 	- A homogenous linear equation always ==has the trivial solution==
 
+- Note: A homogenous linear equation does not ==necessarily only have the trivial solution.==
+
 *Examples (Excluding inline examples)* 
 ___
 

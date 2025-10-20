@@ -10,7 +10,7 @@ sr-ease: 250
 ___
 
 Def'n ==The quotient-zero limit law==: 
-- If the $\displaystyle \lim_{x->a}\frac{f(x)}{g(x)} exists$, and the limit of g(x) at x = a is 0, then the limit of ==f(x) at x = a is also zero==
+- If the $\displaystyle \lim_{x->a}\frac{f(x)}{g(x)} \space \mathrm{exists}$, and the limit of g(x) at x = a is 0, then the limit of ==f(x) at x = a is also zero==
 	- This does not mean that the ==fractional limit is also zero==
 	- We need a ==balancing term to ensure that the limit does not go to infinity==
 	- The proof is of the following:

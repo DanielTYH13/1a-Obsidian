@@ -17,7 +17,7 @@ ___
 	- ==Inverse Trignometric==
 		- ==Of the primary trig functions==
 	- ==Logarithmic==
-	- ==Polynomial==
+	- ==Polynomial== <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-20,1,230!2000-01-01,1,250-->
 
 - Under the following operations, cts functions at x = a will result in a new function that is also cts at x = a:
 	1. $f(x) \pm g(x)$
@@ -32,9 +32,9 @@ ___
 	- Typically, this implies:
 		- ==Stating the branches are CTS==, if they are not then the entire thing is ==dcts==
 		- Identifying =="transition" points as candidates for discontinuity==
-		- Show that ==$\displaystyle \lim_{x\to a^-}f(x) = \lim_{x\to a^+}g(x)$==, where f(x) is the left handed function and g(x) is the right handed function
+		- Show that ==$\displaystyle \lim_{x\to a^-}f(x) = \lim_{x\to a^+}g(x)$==, where f(x) is the left handed function and g(x) is the right handed function <!--SR:!2025-10-20,1,230!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250-->
 
-- Note that a lot of the methods that we use to analyze continuity and others are dependent on the way we read functions from negative infinity to positive infinity. If we were not to do this, ==the rules would still hold, we would just have to modify them.==
+- Note that a lot of the methods that we use to analyze continuity and others are dependent on the way we read functions from negative infinity to positive infinity. If we were not to do this, ==the rules would still hold, we would just have to modify them.== <!--SR:!2025-10-22,3,250-->
 
 - Note: When you are using any given theorem, you MUST ==Explicitly justify the assumptions made such that the theorem can be applied in the first place==
 

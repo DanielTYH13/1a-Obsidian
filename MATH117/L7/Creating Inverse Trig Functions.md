@@ -15,10 +15,10 @@ ___
 		- For sin(x), the restriction is on ==$x\in[\frac{-\pi}{2}, \frac{\pi}{2}]$==
 			- Inclusive as the endpoints are ==inclusively at $\frac{\pm \pi}{2}$==
 		- For cos(x), the restriction is on ==$x\in[\frac{\pi}{2}, \pi]$==
-			- Inclusive as the endpoints are ==inclusively at $\frac{\pi}{2}$, $\pi$ 
+			- Inclusive as the endpoints are ==inclusively at $\frac{\pi}{2}$, $\pi$
 		- For tan(x), the restriction is on ==$x\in(\frac{-\pi}{2}, \frac{\pi}{2})$==
 			- Exclusive as the endpoints of the range of tan(x) are at ==$\pm$ infinity==, and tan(x) AT ==$x = \frac{\pm \pi}{2}$ is undefined==. Thus the restriction is also ==exclusive.==
-				- Technically, you could restrict it inclusively,  but then it would ==just be undefined at those points.== The range for arctan using both inclusive and exclusively restricted tan will ==always be exclusive.==
+				- Technically, you could restrict it inclusively,  but then it would ==just be undefined at those points.== The range for arctan using both inclusive and exclusively restricted tan will ==always be exclusive.== <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2025-10-22,3,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-22,3,250!2000-01-01,1,250!2025-10-22,3,250!2000-01-01,1,250-->
 
 *Examples (Excluding inline examples)* 
 ___

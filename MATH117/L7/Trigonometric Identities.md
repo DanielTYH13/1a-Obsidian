@@ -28,26 +28,26 @@ Pythagorean Identities
 - Sum of squares of sin and cos: ==$\sin{^2\theta}+\cos{^2\theta}=1$==
 - Corollary:
 	- ==$1-\cos{^2\theta}=\sin{^2\theta}$==
-	- ==$1-\sin{^2\theta} = \cos{^2\theta}$==
+	- ==$1-\sin{^2\theta} = \cos{^2\theta}$== <!--SR:!2025-10-22,3,252!2000-01-01,1,250!2000-01-01,1,250-->
 
 Compound Identities:
 - sin additive identity: ==$\sin{(x \pm y)} = \sin{x}\cos{y} \pm \cos{x}\sin{y}$==
 - cos additive identity: ==$\cos{(x\pm y)} = \cos{x}\cos{y} \mp \sin{x}\sin{y}$==
 	- Note that the second sum is minus plus, meaning that the summation operators are opposite from LHS to RHS
-- tan additive identity: ==$\tan{(x\pm y)} =\frac{\tan{x} \pm \tan{y}}{1 \mp \tan{x}\tan{y}}$==
+- tan additive identity: ==$\tan{(x\pm y)} =\frac{\tan{x} \pm \tan{y}}{1 \mp \tan{x}\tan{y}}$== <!--SR:!2025-10-20,1,232!2000-01-01,1,250!2000-01-01,1,250-->
 
 Double Angle Identities
 - sin: ==$\sin{2\theta} = 2\sin{\theta}\cos{\theta}$==
 	- Proof: ==$\sin{(\theta + \theta)} = \sin{\theta}\cos{\theta}+\sin{\theta}\cos{\theta} = 2\sin{\theta}\cos{\theta}$==
-- Cosine Double angle identities:  ==$$
+- Cosine Double angle identities:  Exer==.== Derive $$
 \begin{align}
 \cos{2\theta} & = \cos{^2\theta} - \sin{^2\theta} \\
 & = 1 - 2\sin{^2\theta} \\
 & = 2\cos{^2\theta} - 1
 \end{align}
-$$==
+$$
 	- The above is particularily useful for ==removing the existance of sins or cosines==
-- Tan: ==$\tan{2\theta} = \frac{2\tan{\theta}}{1-\tan{^2\theta}}$==
+- Tan: ==$\tan{2\theta} = \frac{2\tan{\theta}}{1-\tan{^2\theta}}$== <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-22,3,252-->
 
 Half Angle Identities: #TODO List and then Derive all of these identities somehow:
 

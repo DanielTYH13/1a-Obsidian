@@ -10,7 +10,7 @@ sr-ease: 250
 ___
 
 - The Extreme Value Theorem (EVT) states simply that, given f(x):
-	- Def'n ==Given f(x) is cts on the *closed* interval $x \in [a, b]$, then there is an absolute max and min on that interval.
+	- Def'n ==Given f(x) is cts on the *closed* interval $x \in [a, b]$, then there is an absolute max and min on the open interval.
 	- When doesn't it work? ==EVT does not apply on open intervals== or when ==The func is not continuous==
 		- One main case for continuity:
 			- If there is a jump discont, or just a point discont, you can get ==infinitely closer to that point, but never at that point, therefore it is not a max or a min==

@@ -15,7 +15,7 @@ Quite conveniently, a concise algebraic definition of continuity at a point is g
 	- ==The $\displaystyle \lim_{x \to x_{0}}f(x)$ exists==
 	- ==$\displaystyle \lim_{x \to x_{0}-}f(x) = \lim_{x \to x_{0}+}f(x)$, since The $\displaystyle \lim_{x \to x_{0}}f(x)$ exists==
 	- ==$\displaystyle \lim_{x \to x_{0}}f(x) = f(x_{0})$, since its difference is 0==
-- Since the above conditions match exactly with the conditions for continuity at a point, if the given statement is true, then the function is continuous at point $x_{0}$
+- Since the above conditions match exactly with the conditions for continuity at a point, if the given statement is true, then the function is continuous at point $x_{0}$ <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2025-10-22,3,250!2000-01-01,1,250!2000-01-01,1,250-->
 
 
 *Examples (Excluding inline examples)* 
