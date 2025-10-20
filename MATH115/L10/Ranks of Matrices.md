@@ -8,7 +8,7 @@ sr-ease: 250
 ---
 *Key Concepts:*
 ___
-Def'n: The rank of a matrix is the number of leading entries for any given REF form of that matrix (==Any arbitrary REF, as it will still have the same order of the solution, ex. An inf solution will still have inf solutions regardless of its REF, and same for a unique sol'n==)
+Def'n: The rank of a matrix is the number of leading entries for any given REF form of that matrix (==Any arbitrary [[REF and RREF Form|REF]], as it will still have the same order of the solution, ex. An inf solution will still have inf solutions regardless of its REF, and same for a unique sol'n==)
 - This is denoted by Rank(A) for Matrix $A\in M_{mxn}(\mathbb{R})$
 - IMPORTANT ==The rank can only be taken if you are in REF form of the matrix. This form is representative of the *nature* of a matrix. (In its most reduced form)==
 - In aug. matr., the coefficient vector / matrix is ==included in the rank==. This is important to tell if the system has ==Exactly one solution==
@@ -43,8 +43,9 @@ System Rank Theorem (SRT)
 			- There must be a ==non-zero leading entry in $[A|\vec{b}]$ which is respective to no other non-zero entry in matrix A - thus having the form 0 = non-zero, which is inconsistent.==
 	- If the system is consistent, then the solution has an ==order / number of parameters equalling that of n - Rank(A)==
 		- It must be ==consistent for this to be true.==
+		- Note: If you can prove that there is a # of parameters ==in the solution, you can show the rank of the system== by rearranging.
 		- The order of the solution is determined by this as it depends on the ==number of parameters==, or in other words, ==the number of free variables==. 
-	- The system is consistent for all ==$\vec{b} \in \mathbb{R}^n \iff Rank(A)=m$==
+	- The system is consistent for all ==$\vec{b} \in \mathbb{R}^n \iff Rank(A)=n$==
 		- This is because that means that the rank of ==A is equal to all of the rows in the matrix, meaning there are no zero rows. Thus, regardless of what vector in $\mathbb{R}^n$ you put in the constant vector, it will always be consistent.==
 			- Remember, if you put a 0 row in, you must also put a 0 constant in as well. 
 

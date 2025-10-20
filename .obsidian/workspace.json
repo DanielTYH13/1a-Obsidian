@@ -8,59 +8,101 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd19acfe70dda6b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/MATH117 Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH117 Note"
-            }
-          },
-          {
-            "id": "7c5bed296566306f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L6/Radian Measure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Radian Measure"
-            }
-          },
-          {
-            "id": "7327d30c07b06027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L7/Form when solving Inequalities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Form when solving Inequalities"
-            }
-          },
-          {
             "id": "45022514fba72577",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L7/Solving Inverse Trig Functions composed with Trig Functions.md",
+                "file": "MATH115/L10/Ranks of Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solving Inverse Trig Functions composed with Trig Functions"
+              "title": "Ranks of Matrices"
+            }
+          },
+          {
+            "id": "f416f4242e3af8f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/3.5/Cancellation Laws.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cancellation Laws"
+            }
+          },
+          {
+            "id": "d5a9996512f0d124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/3.5/Matrix Invertibility Criteria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matrix Invertibility Criteria"
+            }
+          },
+          {
+            "id": "429c58fdf0fad83d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/4.1/Spanning Sets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spanning Sets"
+            }
+          },
+          {
+            "id": "fc6a83aec56f860e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/4.1/Proving Subsets of Vector Sets (In particular for Spanning Sets).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proving Subsets of Vector Sets (In particular for Spanning Sets)"
+            }
+          },
+          {
+            "id": "e74922043a5dc441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/4.1/Spanning Set Theorems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spanning Set Theorems"
+            }
+          },
+          {
+            "id": "13d4e5d82ca01a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/4.1/Spanning Set Theorems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spanning Set Theorems"
             }
           },
           {
@@ -162,21 +204,77 @@
             }
           },
           {
+            "id": "823536cacf89d7ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/3.4/Powers of a Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Powers of a Matrix"
+            }
+          },
+          {
+            "id": "4181cc76e0404f7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/L10/Ranks of Matrices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ranks of Matrices"
+            }
+          },
+          {
             "id": "1bfc1ad4d7e9cbcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH115/L11 - L13 inclusive/The Transpose of a Matrix.md",
+                "file": "MATH115/3.5/The Matrix Inverse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Transpose of a Matrix"
+              "title": "The Matrix Inverse"
+            }
+          },
+          {
+            "id": "b65cc72979a7472f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/L8-9/REF and RREF Form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REF and RREF Form"
+            }
+          },
+          {
+            "id": "da23a789e7466fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH115/L8-9/REF and RREF Form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REF and RREF Form"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -208,7 +306,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inverse",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -345,13 +443,32 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templates:Insert template": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "906356f0e28315eb",
+  "active": "13d4e5d82ca01a29",
   "lastOpenFiles": [
-    "MATH115/3.4/Matrix Multiplication.md",
+    "MATH115/4.1/Spanning Sets.md",
+    "MATH115/4.1/Spanning Set Theorems.md",
+    "MATH115/4.1/Proving Set Equality (In particular for Spanning Sets).md",
+    "MATH115/4.1/Proving Subsets of Vector Sets (In particular for Spanning Sets).md",
+    "MATH115/L10/Ranks of Matrices.md",
+    "MATH115/3.5/Matrix Invertibility Criteria.md",
+    "MATH115/3.5/Cancellation Laws.md",
+    "MATH115/4.1",
+    "MATH117/L7/Solving Inverse Trig Functions composed with Trig Functions.md",
+    "MATH117/L7/Form when solving Inequalities.md",
+    "MATH117/L6/Radian Measure.md",
+    "MATH115/L8-9/REF and RREF Form.md",
+    "MATH115/3.5/The Matrix Inverse.md",
+    "MATH115/3.5/Properties of Matrix Inverse.md",
+    "MATH115/3.5/Matrix Inversion Algorithm.md",
+    "MATH115/L11 - L13 inclusive/The Transpose of a Matrix.md",
+    "MATH115/3.4/Powers of a Matrix.md",
+    "MATH115/3.5",
     "MATH115/3.4/Properties of the Matrix Product.md",
+    "MATH115/3.4/Matrix Multiplication.md",
     "MATH115/L11 - L13 inclusive/Matrix Equation of a Linear System 1.md",
     "MATH115/L11 - L13 inclusive/Matrix Equation of a Linear System.md",
     "MATH115/3.4",
@@ -361,22 +478,6 @@
     "MATH115/L11 - L13 inclusive/The Identity Matrix.md",
     "MATH115/L11 - L13 inclusive/Properties of the Matrix Transpose.md",
     "MATH115/L11 - L13 inclusive/Number of Solutions to a Linear System of Equations.md",
-    "MATH115/L11 - L13 inclusive/Associated Homogenous Systems.md",
-    "MATH115/L11 - L13 inclusive/Homogenous Systems of Linear Equations.md",
-    "MATH115/L11 - L13 inclusive/Algebraic Matrices.md",
-    "MATH115/L11 - L13 inclusive/Dot Product Interpretation of Matrix-Vector Products.md",
-    "MATH115/L11 - L13 inclusive/Fundamental Properties of Matrix Algebra.md",
-    "MATH115/L11 - L13 inclusive/Matrix Addition.md",
-    "MATH115/L11 - L13 inclusive/Matrix's in Collumn Vector Form.md",
-    "MATH115/L11 - L13 inclusive/The Transpose of a Matrix.md",
-    "MATH117/Questions.md",
-    "MATH117/Miscellaneous Practice Qs.md",
-    "MATH117/Advice.md",
-    "MATH117/L15/Inverse Function Theorem.md",
-    "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
-    "MATH117/L7/Creating Inverse Trig Functions.md",
-    "MATH117/L15/Common Derivatives.md",
-    "MATH117/L3/Decomposition of Rational Functions.md",
     "MATH117/L5",
     "Miscellaneous/Pasted image 20251019182655.png",
     "Miscellaneous/Pasted image 20251019182618.png",
@@ -393,8 +494,6 @@
     "MATH117/L15",
     "Odin Project",
     "ECE150/Archive",
-    "ECE190",
-    "MATH115/L11 - L13 inclusive",
-    "MATH115/L9"
+    "ECE190"
   ]
 }
