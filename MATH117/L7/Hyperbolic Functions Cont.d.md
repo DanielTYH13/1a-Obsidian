@@ -18,8 +18,8 @@ ___
 - Finding sinh(x) and cosh(x) from tanh(x)
 	- Consider that tanh(x) = $\frac{sinh(x)}{cosh(x)}$ = $\frac{a}{b}$
 	- Resultingly, this means that ==$sinh(x)=\frac{a}{b}cosh(x)$==
-	- *Now, since we have two functions, it is impossible to find sinh(x) or cosh(x) in relation to the constants given - which are our tools to finding the values of the functions.* 
-		- *As such, we need to remove one of the two functions using hyperbolic trig identities:* $cosh^2(x) - sinh^2(x) = 1$
+	- *Now, since we have two functions, it is impossible to find ==sinh(x) or cosh(x) in relation to the constants given== - which are our tools to finding the values of the functions.* 
+		- *As such, we need to remove one of the two functions using hyperbolic trig identities:* ==$cosh^2(x) - sinh^2(x) = 1$==
 	- $-sinh^2(x) = -\frac{a}{b}cosh^2(x)$
 		- *First square, and then negate both sides*
 	- $cosh^2(x)-sinh^2(x) = cosh^2(x)-\frac{a}{b}cosh^2(x)$

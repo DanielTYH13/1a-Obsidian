@@ -5,7 +5,5 @@
   "accentColor": "",
   "baseFontSize": 16,
   "textFontFamily": "Source Code Pro",
-  "enabledCssSnippets": [
-    "highlight_tex"
-  ]
+  "enabledCssSnippets": []
 }

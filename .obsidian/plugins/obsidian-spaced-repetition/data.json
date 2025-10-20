@@ -54,7 +54,7 @@
     "maximumInterval": 100,
     "maxLinkFactor": 1,
     "dataStore": "NOTES",
-    "cardCommentOnSameLine": false,
+    "cardCommentOnSameLine": true,
     "showSchedulingDebugMessages": false,
     "showParserDebugMessages": false
   },

@@ -13,12 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L7/Hyperbolic Functions Cont.d.md",
+                "file": "Templates/MATH117 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyperbolic Functions Cont.d"
+              "title": "MATH117 Note"
+            }
+          },
+          {
+            "id": "7c5bed296566306f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L6/Radian Measure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Radian Measure"
+            }
+          },
+          {
+            "id": "7327d30c07b06027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L7/Form when solving Inequalities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Form when solving Inequalities"
+            }
+          },
+          {
+            "id": "45022514fba72577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L7/Solving Inverse Trig Functions composed with Trig Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solving Inverse Trig Functions composed with Trig Functions"
+            }
+          },
+          {
+            "id": "2b0369540c27c18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L10/Sandwhich Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sandwhich Theorem"
             }
           },
           {
@@ -35,7 +91,8 @@
               "title": "The Transpose of a Matrix"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -67,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "How to navi",
+                "query": "this is quite useful for ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,53 +265,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fd19acfe70dda6b6",
+  "active": "2b0369540c27c18a",
   "lastOpenFiles": [
-    "MATH117/L7/Form when solving Inequalities.md",
-    "MATH117/L6/Radian Measure.md",
-    "MATH117/L3/Piecewise and Inequalities.md",
-    "MATH117/L3/Decomposition of Rational Functions.md",
-    "MATH117/L2/L2. W1. Functions and Composition.md",
-    "Miscellaneous/README.md",
-    "MATH115/L11 - L13 inclusive/The Transpose of a Matrix.md",
-    "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
-    "MATH117/L2/Hyperbolic Trig Functions.md",
     "MATH117/L1/L1. W1. Conic Sections.md",
-    "Miscellaneous/Pasted image 20251019134454.png",
-    "Templates/MATH117 Note Template.md",
-    "Templates/MATH115 Note Template.md",
-    "Templates/General Note Template.md",
-    "MATH117/Questions.md",
-    "MATH117/Miscellaneous Practice Qs.md",
-    "MATH117/Advice.md",
-    "MATH117/L16 - Midterm Cutoff/Logarithmic Differentiation.md",
-    "MATH117/L16 - Midterm Cutoff/Implicit Forms of Functions.md",
-    "MATH117/L16 - Midterm Cutoff/Explicit Forms of Functions.md",
-    "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
-    "MATH117/L15/The Derivative Function (Generalized to x=a at arbitrary x).md",
-    "MATH117/L15/Common Derivatives.md",
+    "MATH117/L7/Hyperbolic Functions Cont.d.md",
+    "MATH117/L2/Hyperbolic Trig Functions.md",
+    "MATH117/L2/L2. W1. Functions and Composition.md",
+    "MATH117/L6/Radian Measure.md",
+    "MATH117/L4/Heaviside Functions.md",
+    "MATH117/L9/Sum of Cos and Sin to Single fcn.md",
+    "MATH117/L11/Limit Laws.md",
+    "MATH117/L10/Sequences.md",
+    "MATH117/L10/Sandwhich Theorem.md",
+    "MATH117/L10/Limits for Functions.md",
+    "MATH117/L8/Inverse Trigonometric Functions.md",
+    "MATH117/L7/Trigonometric Identities.md",
+    "MATH117/L7/Solving Inverse Trig Functions composed with Trig Functions.md",
+    "MATH117/L7/Reference angles vs Principle Angles.md",
+    "MATH117/L7/Hyperbolic Trig Identities.md",
+    "MATH117/L7/Creating Inverse Trig Functions.md",
+    "MATH117/L7/Form when solving Inequalities.md",
     "MATH117/L15/Inverse Function Theorem.md",
-    "MATH117/L14/Limit Definition of Continuity at a Point.md",
-    "MATH117/L14/Extreme Value Theorem.md",
-    "MATH117/L14/Evaluating limits at changing points for Piecewise Functions.md",
-    "Miscellaneous/Pasted image 20250916183048.png",
-    "Miscellaneous/Pasted image 20251014183445.png",
-    "Miscellaneous/Pasted image 20251014183910.png",
-    "Miscellaneous/Pasted image 20251014185020.png",
-    "Miscellaneous/Pasted image 20251015153723.png",
-    "Miscellaneous/Pasted image 20251009192532.png",
-    "Miscellaneous/Pasted image 20250920184626.png",
+    "MATH117/L15/Common Derivatives.md",
+    "MATH117/L5",
+    "Miscellaneous/Pasted image 20251019182655.png",
+    "Miscellaneous/Pasted image 20251019182618.png",
+    "MATH117/L4",
+    "MATH117/L15/The Derivative Function (Generalized to x=a at arbitrary x).md",
+    "MATH117/L16 - Midterm Cutoff/Derivatives of Common Inverse Functions.md",
+    "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
+    "MATH117/L16 - Midterm Cutoff/Explicit Forms of Functions.md",
+    "MATH117/L16 - Midterm Cutoff/Implicit Forms of Functions.md",
+    "MATH117/L16 - Midterm Cutoff/Logarithmic Differentiation.md",
+    "Miscellaneous/Pasted image 20251003150758.png",
+    "Miscellaneous/Pasted image 20251005190243.png",
+    "Miscellaneous/Pasted image 20251005190255.png",
+    "Miscellaneous/Pasted image 20251005190328.png",
+    "Miscellaneous/Pasted image 20251005192243.png",
+    "Miscellaneous/Pasted image 20251007130105.png",
     "Miscellaneous/fzszgf7gquwjpzlbdzja1.jpg",
+    "Miscellaneous/Pasted image 20250916183048.png",
     "MATH117/L16 - Midterm Cutoff",
     "MATH117/L15",
-    "Miscellaneous/Pasted image 20251015153811.png",
     "Odin Project",
     "ECE150/Archive",
     "ECE190",
     "MATH115/L11 - L13 inclusive",
     "MATH115/L9",
-    "MATH117/L14",
-    "MATH117/L13",
-    "Untitled.base"
+    "MATH117/L14"
   ]
 }

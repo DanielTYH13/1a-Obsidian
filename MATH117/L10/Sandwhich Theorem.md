@@ -17,9 +17,9 @@ ___
 	
 	- This is quite useful for sequences such as $a_{n} = \frac{\sin{n}}{n}$
 		- You cannot evaluate this using typical limit laws and tools, as $\displaystyle \lim_{x->\infty}\sin{x} = DNE$
-			- It is oscillating. 
-	- Example: 
-		- $\displaystyle \lim_{x\to0}x^2\tan^{-1}(\frac{1}{x})$
+			- It is oscillating.
+	- Example:
+		- $\displaystyle \lim_{x\to0}x^2\tan(\frac{1}{x})$
 			- We cannot evaluate this as 1/x is DNE at x = 0
 		- ==$\frac{-\pi}{2} \le tan(\theta) \le \frac{\pi}{2}$==
 		- ==$\frac{-\pi x^2}{2} \le x^2tan(\theta) \le \frac{\pi x^2}{2}$==
