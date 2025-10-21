@@ -10,7 +10,7 @@ sr-ease: 250
 ___
 
 - Def'n: Given the matrix $A \in M_{mxn}(\mathbb{R})$ and matrix $B \in M_{nxk}(\mathbb{R}^n)$, the matrix product ==$AB = \begin{bmatrix} A\vec{b}_{1} & A\vec{b}_{2} & \cdots & A\vec{b}_k\end{bmatrix}$==, with dimensionality ==$AB \in M_{mxk}$.==
-	- The matrix product of A and B exist ==$\iff \#columns_{A} = \#rows_{B}$== (A)
+	- (A) The matrix product of A and B exist ==$\iff \#columns_{A} = \#rows_{B}$== 
 	- In other words, the k'th collumn of AB is ==the matrix-vector product of A and the k'th collumn of B.==
 		- It becomes immediately clear why (A) is true.
 			- Given $n = \#columns_{A} = \#rows_{B}$,

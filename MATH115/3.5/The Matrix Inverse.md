@@ -14,9 +14,11 @@ ___
 
 Thm: let $A, B \in M_{nxn}(\mathbb{R}) \ni AB = I$==$\implies BA = I \land AB = BA \land \mathrm{Rank}(A) = \mathrm{Rank}(B) = n$:==
 - By setting any Matrix Equation of Linear Systems to 0, you can show the # of sol'ns:
-	- $B\vec{x} = \vec{0}$
+	- ==$B\vec{x} = \vec{0}$==
 	- If, in RREF form, there are any parameters, there will be infinite sol'ns $\vec{x}$ to this system.
 	- #TODO finish this proof.
+
+What the helly ==??== **Figure this out**
 
 *Examples (Excluding inline examples)* 
 ___

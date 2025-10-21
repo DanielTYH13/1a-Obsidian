@@ -31,6 +31,11 @@ ___
 *Significant Theorems:*
 ___
 
+Max Rank of a Matrix:
+- The maximum rank of a matrix is the ==min(m, n)==
+	- Case 1: $n < m$, then ==regardless of the rows, the diagonal ends at the side.==
+	- Case 2: $m < n$, then ==regardless of the collumns, the diagonal ends at the bottom.==
+
 System Rank Theorem (SRT) 
 - Let $\begin{bmatrix}A|\vec{b}\end{bmatrix}$ be the augmented matrix of a system with *m* linear eqns in *n* variables. 
 	- The system is consistent $\iff$ ==$Rank(A) = Rank([A|\vec{b}])$==
