@@ -13,16 +13,16 @@ Definition: A consistent system
 - A system is consistent if it ==has at least one solution== 
 
 Definition: An inconsistent System:
-- A system is inconsistent if it ==Has no solutions==
+- A system is inconsistent if it ==Has no solutions== <!--SR:!2025-10-24,3,250-->
 
 Solving a Lin System using Elementary Row Operations:
-- When trying to solve a Lin Sys., we try to make the system easier to solve without changing its solutions. While we may change the equations themselves, their solutions remain constant - and that is what matters. 
+- When trying to solve a Lin Sys., we try to make the system easier to solve without changing its solutions. While we may change the equations themselves, their solutions remain constant - and that is what matters.
 - The elementary row operations are a set of operations that you can use to manipulate a lin sys without changing the solutions. They are:
 	- ==Swapping two Rows==
 	- ==Adding or Subtracting two rows==
 	- ==Multiplying a row by a non-zero scalar==
 		- You may not multiply a row by a zero scalar, as this is equivalent to ==simply erasing that equation==
-- Note, ==you are allowed to perform more than one elementary row operation at once==.
+- Note, ==you are allowed to perform more than one elementary row operation at once==. <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-24,3,250-->
 
 Defn': Augmented Matrices:
 - An augmented matrix denoted as $[A|\vec{b}]$, where A is the coefficient matrix of the lin sys and $\vec{b}$ is the constant collumn vector of the lin. sys. Moreover, ==the order of the variables in each collumn of the coefficient matrix should be consistent. Ie, if $x_1$ is in the j'th collumn, all other rows should have $x_1$ for their j'th entry.==
@@ -32,7 +32,7 @@ Defn': Augmented Matrices:
 - Ex: ![[Pasted image 20251005192243.png]]
 
 Defn': Augmented Matrices Cont'd:
-- The matrix $A\in M_{mn}(\mathbb{R})$ contain the coefficients ahead of each variable of each equation in the lin sys. These variable must be ordered such that ==each variable in each eqn is in the same collumn as other eqns==
+- The matrix $A\in M_{mn}(\mathbb{R})$ contain the coefficients ahead of each variable of each equation in the lin sys. These variable must be ordered such that ==each column contains only one variable. This is because if you don't then the elementary row operations are invalid (You can add and subtract only because they are of the same term)== <!--SR:!2025-10-24,3,250-->
 
 Note: The ideal form of an augmented matrix after using EMO is the identity matrix followed by some constant matrix. 
 

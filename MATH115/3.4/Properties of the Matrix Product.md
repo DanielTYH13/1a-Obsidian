@@ -13,11 +13,11 @@ ___
 - Let $c\in \mathbb{R}$, and A, B, C be matrices of appropriate sizes. Then:
 	1. ==$IA = A$ $\implies$== I is an identity matrix.
 	2. ==$AI = A$ $\implies$== I is an identity matrix.
-	3. ==$A(BC) = (AB)C \implies$== matrix multiplication is associative. 
+	3. ==$A(BC) = (AB)C \implies$== matrix multiplication is associative.
 	4. $A(B+C) = AB + AC \implies$== Left Distributive Law
 	5. ==$(B + C)A = BA + CA \implies$== Right distributive law.
-	6. ==$(cA)B = c(AB) = A(cB) \implies$== Matrix Multiplication is associative with Scalar Multiplication. 
-	7. ==$(AB)^T = A^TB^T \implies$== Transpose is distributable over matrix multiplication. 
+	6. ==$(cA)B = c(AB) = A(cB) \implies$== Matrix Multiplication is associative with Scalar Multiplication.
+	7. ==$(AB)^T = A^TB^T \implies$== Transpose is distributable over matrix multiplication. <!--SR:!2000-01-01,1,250!2025-10-24,3,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250-->
 
 *Examples (Excluding inline examples)* 
 ___

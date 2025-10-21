@@ -18,10 +18,15 @@ ___
 	- This is because ==regardless of the # of collumns n, the matrix product is defined such that each row corresponds to a component of the resultant vector==
 		- This is much easier to understand using the [[dot product interpretation of matrix-vector products]]
 
-- TBD - understand why matrix vector mult is defined in this way. 
+- #TODO Explain why matrix vector mult is defined in this way. 
 
+- #TODO consolidate below information with above information
 
-
+- There are a few ways to define matrix-vector mult between $A = \begin{bmatrix}\vec{a}_{1} & \vec{a}_{2} & \cdots & \vec{a}_{n} \end{bmatrix} \in M_{mxn}(\mathbb{R}), \vec{x}\in \mathbb{R}^n$:
+	- 1. (Simplest way). Take the transpose of the column vector $\vec{x}$, ==and multiply $\vec{a}_{j}$ by the $\vec{x}_{j}$ component. Then, add all of $\vec{a}_j$ to get the matrix-vector product.==
+		- Visually, this looks like =="Appending" the row vector onto the top of the matrix, and then taking the scalar product of the corresponding components of x down onto each component of the column vectors, then adding up all the rows of this new matrix.==
+	- 2. (This builds upon 1.) Take the transpose of ==each row vector $\vec{a}_{i}$, and then take the dot product of $a_{i}^T$ with $\vec{x}$. ==
+		- This is identical to 1, ==just that you're transposing the matrix first==
 *Examples (Excluding inline examples)* 
 ___
 

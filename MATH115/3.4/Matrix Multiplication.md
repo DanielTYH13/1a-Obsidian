@@ -23,7 +23,6 @@ ___
 - Dimensionality:
 	- Since the ==matrix-vector product for $A\in M_{mxn}(R), \space \vec{x}\in \mathbb{R}^n$ lives in $\mathbb{R}^m$, the matrix product== lives in m rows and k collumns.
 
-
 *Examples (Excluding inline examples)* 
 ___
 

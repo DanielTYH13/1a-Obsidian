@@ -9,15 +9,15 @@ sr-ease: 250
 *Key Concepts:*
 ___
 - [[Systems of Linear Equations]] can be represented as a ==matrix-vector== product.
-	- Given a system of linear equation in n variables and m equations, given constant matrix $A = M_{mxn}(\mathbb{R})$, variable vector $\vec{x}\in \mathbb{R}^n$, and constant vector $\vec{b}$, the system can be represented as:
+	- Given a system of linear equations in n variables and m equations, given coefficient matrix $A = M_{mxn}(\mathbb{R})$, variable vector $\vec{x}\in \mathbb{R}^n$, and constant vector $\vec{b}$, the system can be represented as:
 		- ==$A \vec{x} = \vec{b}$==
 	- The form $A\vec{x} = \vec{b}$ expands as such, where $a_j$ is the jth collumn of the matrix A:
 		- $x_{1}\vec{a}_{1} + x_{2}\vec{a}_{2}+ \cdots + x_{n}\vec{a}_{n}=\vec{b}$
 		- Where each variable x is ==distributed over all of the coefficients== of the corresponding ==collumn vector==
-		- Using vector addition, this can then be condensed into a new vector of dimensionality $\mathbb{R}^m$
+		- Using vector addition, ==this can then be summed into a new vector of dimensionality $\mathbb{R}^m$, which is the variable representation of b.==
 			- Each component of the vector has ==$n$ variables multiplied by coefficients specified in A.==
-		- Set equal to constants, this is equivalent to a ==system of linear equations.==
-		- Exer==.== Illustrate the above for the general linear system of 3 equations and 3 variables. 
+		- Set equal to constant vector, the whole system becomes equivalent to a ==system of linear equations.==
+		- Exer==.== Illustrate the above for the general linear system of 3 equations and 3 variables. <!--SR:!2000-01-01,1,250!2025-10-24,3,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250--> 
 
 - Note: With the matrix $A\vec{x} = \vec{b}$ where $A \in M_{mxn}(\mathbb{R})$, $\vec{b}\in \mathbb{R}^m$
 	- This is because $\vec{b}$ is the matrix-vector product, which is dependant on m ([[Matrix-Vector Multiplication]]).

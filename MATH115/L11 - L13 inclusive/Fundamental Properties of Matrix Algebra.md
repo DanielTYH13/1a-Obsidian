@@ -20,7 +20,7 @@ ___
 		- TPTY==.==
 	
 	4. $cA \in M_{mxn}(\mathbb{R})$: $M_{mxn}(\mathbb{R})$ is closed under scalar-matrix multiplication.
-		- TPTY==.==
+		- TPTY ==.== <!--SR:!2025-10-24,3,250-->
 
 	5. $c(dA) = (cd)A$: Scalar-matrix multiplication is associative. 
 		- TPTY==.==

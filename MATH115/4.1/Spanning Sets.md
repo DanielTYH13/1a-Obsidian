@@ -19,7 +19,7 @@ Terminology:
 	- s spans u
 	- S is a spanning set for u
 		- "a", not "the", because ==there can be multiple spanning sets for the same set.==
-		- For example, ==infinitely many sets can span $\mathbb{R}^n$.==
+		- For example, ==infinitely many sets can span $\mathbb{R}^n$.== <!--SR:!2025-10-24,3,250!2000-01-01,1,250-->
 
 *Examples (Excluding inline examples)* 
 ___

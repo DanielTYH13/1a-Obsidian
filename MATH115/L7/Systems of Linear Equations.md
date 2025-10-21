@@ -19,8 +19,14 @@ Definition: A system of Linear Equations:
 A linear system of equations looks like this:
 ![[Pasted image 20251005190255.png]]
 
-A homogenous linear system of equations is one where ==all constant values are 0:==
-![[Pasted image 20251005190328.png]]
+- Let $c\in \mathbb{R}$, and A, B, C be matrices of appropriate sizes. Then:
+	1. ==$IA = A$ $\implies$== I is an identity matrix.
+	2. ==$AI = A$ $\implies$== I is an identity matrix. Note: ==Identity matrix multiplication is commutative==
+	3. ==$A(BC) = (AB)C \implies$== matrix multiplication is associative.
+	4. $A(B+C) = AB + AC \implies$== Left Distributive Law
+	5. ==$(B + C)A = BA + CA \implies$== Right distributive law.
+	6. ==$(cA)B = c(AB) = A(cB) \implies$== Matrix Multiplication is associative with Scalar Multiplication.
+	7. ==$(AB)^T = A^TB^T \implies$== Transpose is distributable over matrix multiplication. <!--SR:!2025-10-24,3,250-->
 
 The possible number of solutions for any given linear system of equations:
 	- 0

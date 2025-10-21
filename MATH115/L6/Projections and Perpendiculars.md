@@ -12,12 +12,11 @@ ___
 Projection Definition:
 - Given two vectors: $\vec{u},\vec{v}\in\mathbb{R}^n$, such that the vector $\vec{u} = \vec{u_{x1}} + \vec{u_{x2}}$, where $\vec{u_{x1}}$ is a scalar mult. of $\vec{v}$ and $\vec{u_{x2}}$ is orthogonal to $\vec{v}$
 - The projection of $\vec{u}$ on to $\vec{v}$ is the scalar multiple $c$ in $\vec{v} = c\vec{u}$
-- The algebraic definition is: $proj_{\vec{v}}\vec{u} = \frac{\vec{u}\cdot\vec{v}}{\|\vec{v}\|^2}\vec{v}$
+- The algebraic definition is: $proj_{\vec{v}}\vec{u} = \frac{\vec{u}\cdot\vec{v}}{\|\vec{v}\|^2}\vec{v}$ **Exer. Derive this using both the geometric and algebraic definition of the dot product**==.==
 	- Note that this can also be defined as $proj_{\vec{v}}\vec{u} = \frac{\vec{u}\cdot\vec{v}}{\vec{v}\cdot\vec{v}}\vec{v}$
-		- This is because the dot product of two vectors onto itself is ==its norm squared==
+		- This is because the dot product of two vectors onto itself is ==its norm squared== **Exer. Show this algebraically**
 -
-- ![[Pasted image 20251003150851.png|225]]
-<!--SR:!2025-10-06,1,230-->
+- ![[Pasted image 20251003150851.png|225]] <!--SR:!2025-10-23,2,230-->
 
 Perpendicular Definition:
 - Given two vectors: $\vec{u},\vec{v}\in\mathbb{R}^n$, such that the vector $\vec{u} = \vec{u_{x1}} + \vec{u_{x2}}$, where $\vec{u_{x1}}$ is a scalar mult. of $\vec{v}$ and $\vec{u_{x2}}$ is orthogonal to $\vec{v}$
