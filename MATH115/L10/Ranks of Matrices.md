@@ -21,7 +21,7 @@ Def'n:
 
 Def'n:
 - A system of m linear equations in n variables is overdetermined $\iff$ ==$m > n$==
-	- Oftentimes, overdetermined systems will be inconsistent, due to an excess of restrictions. 
+	- ==Oftentimes, overdetermined systems will be inconsistent, due to an excess of restrictions.== <!--SR:!2025-10-24,3,250--> 
 
 Theorem:
 - An undetermined system that is consistent ==will have infinitely many solutions==
@@ -54,7 +54,7 @@ System Rank Theorem (SRT)
 		- The order of the solution is determined by this as it depends on the ==number of parameters==, or in other words, ==the number of free variables==.
 	- The system is consistent for all ==$\vec{b} \in \mathbb{R}^n \iff Rank(A)=n$==
 		- This is because that means that the rank of ==A is equal to all of the rows in the matrix, meaning there are no zero rows. Thus, regardless of what vector in $\mathbb{R}^n$ you put in the constant vector, it will always be consistent.==
-			- Remember, if you put a 0 row in, you must also put a 0 constant in as well. <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-24,3,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250-->
+			- Remember, if you put a 0 row in, you must also put a 0 constant in as well. <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-24,3,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-24,3,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250-->
 
 *Respective Proofs*
 ___

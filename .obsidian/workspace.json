@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "3dbc003783c4f3da",
+        "id": "3c07bcde48d0e655",
         "type": "tabs",
         "children": [
           {
-            "id": "77cbc7cbd83b5ff0",
+            "id": "5032a9825cb41244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH115/L11 - L13 inclusive/Matrix-Vector Multiplication.md",
+                "file": "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix-Vector Multiplication"
+              "title": "Evaluating Derivatives in Implicit Form"
+            }
+          },
+          {
+            "id": "90860a0e9b9275c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L16 - Midterm Cutoff/MVT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MVT"
+            }
+          },
+          {
+            "id": "5fc106d65ddad8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L17/L'Hopitals Rule .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L'Hopitals Rule"
+            }
+          },
+          {
+            "id": "4c4a5905bd61cfa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH117/L17/Using LHR on other indeterminate forms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Using LHR on other indeterminate forms"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,42 +237,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77cbc7cbd83b5ff0",
+  "active": "4c4a5905bd61cfa6",
   "lastOpenFiles": [
-    "MATH115/3.4/Matrix Multiplication.md",
-    "MATH115/L11 - L13 inclusive/Matrix-Vector Multiplication.md",
-    "MATH115/3.5/Cancellation Laws.md",
-    "MATH115/3.5/Matrix Inversion Algorithm.md",
-    "MATH115/3.5/Matrix Invertibility Criteria.md",
-    "MATH115/3.5/Properties of Matrix Inverse.md",
-    "MATH115/3.5/The Matrix Inverse.md",
-    "MATH115/L10/Ranks of Matrices.md",
-    "MATH115/L8-9/REF and RREF Form.md",
-    "MATH115/4.1/Proving Set Equality (In particular for Spanning Sets).md",
-    "MATH115/4.1/Spanning Set Theorems.md",
-    "MATH115/L11 - L13 inclusive/Matrix Equation of a Linear System.md",
-    "MATH115/3.4/Powers of a Matrix.md",
-    "MATH115/3.4/Properties of the Matrix Product.md",
-    "MATH115/L11 - L13 inclusive/Homogenous Systems of Linear Equations.md",
-    "MATH115/4.2/Dimensionality of Spanning Sets.md",
-    "MATH115/4.1/Proving Subsets of Vector Sets (In particular for Spanning Sets).md",
-    "MATH115/4.1/Spanning Sets.md",
-    "MATH115/L3. W2/Cauchy Schwarz Ineq.md",
-    "MATH115/4.2/Reduction Theorem.md",
-    "MATH115/L11 - L13 inclusive/The Transpose of a Matrix.md",
-    "MATH115/L11 - L13 inclusive/The Identity Matrix.md",
-    "MATH115/L11 - L13 inclusive/Properties of Vector-Matrix Multiplication.md",
-    "MATH115/L11 - L13 inclusive/Properties of the Matrix Transpose.md",
-    "MATH115/L11 - L13 inclusive/Number of Solutions to a Linear System of Equations.md",
-    "MATH115/L11 - L13 inclusive/Matrix's in Collumn Vector Form.md",
-    "MATH115/4.2",
-    "MATH115/4.1",
-    "MATH115/3.5",
-    "MATH115/3.4",
-    "MATH117/L5",
+    "MATH117/L17/L'Hopitals Rule .md",
+    "Templates/MATH115 Note.md",
+    "Templates/MATH117 Note.md",
+    "MATH117/L17/Using LHR on other indeterminate forms.md",
+    "MATH117/L16 - Midterm Cutoff/MVT.md",
+    "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
+    "MATH117/Advice.md",
+    "MATH117/L17",
+    "Task Board.md",
+    "ECE150/Section 1/Arithmetic operators/Standard Conversion.md",
+    "ECE150/Section 1/Initialization and Assignment/Initialization vs Assignment.md",
+    "ECE150/Section 1/Initialization and Assignment/Garbage Values.md",
+    "ECE150/Section 1/Identifiers/Keywords.md",
+    "ECE150/Section 1/Identifiers/Identifiers.md",
+    "ECE150/Section 1/Literal Data/Literals.md",
+    "ECE150/Section 1/Anatomy of a Program/C++ Statements.md",
+    "Templates/ECE150 Note.md",
+    "ECE105/Forces/Notation of Forces with Unit Vectors.md",
+    "ECE105/Forces/Spring Forces.md",
+    "ECE105/Forces/Solving a system of Forces.md",
+    "ECE105/Forces/Pulleys.md",
+    "ECE105/Forces/Newton's Laws.md",
+    "ECE105/Forces/Gravitational Force Derivation.md",
+    "ECE105/Forces/Generating new Coordinate Systems .md",
+    "ECE105/Forces/Friction.md",
+    "ECE105/Forces/Force.md",
+    "ECE105/Forces/FBDs.md",
+    "ECE150/Section 2/Protecting pointers with const",
+    "ECE150/Section 2/Using dynamic memory allocation",
+    "ECE150/Section 2/Memory leaks",
+    "ECE150/Section 2/Dangling pointers",
+    "ECE150/Section 2/Wild pointers",
+    "ECE150/Section 2/Problems with pointers",
+    "ECE150/Section 2/Lifetime of dynamically allocated memory",
+    "ECE150/Section 2/Dynamic allocation of arrays",
+    "ECE150/Section 2/Dynamic memory allocation",
+    "ECE150/Untitled.canvas",
     "Miscellaneous/Pasted image 20251019182655.png",
     "Miscellaneous/Pasted image 20251019182618.png",
-    "MATH117/L4",
     "Miscellaneous/Pasted image 20251003150758.png",
     "Miscellaneous/Pasted image 20251005190243.png",
     "Miscellaneous/Pasted image 20251005190255.png",
@@ -237,10 +285,6 @@
     "Miscellaneous/Pasted image 20251005192243.png",
     "Miscellaneous/Pasted image 20251007130105.png",
     "Miscellaneous/fzszgf7gquwjpzlbdzja1.jpg",
-    "Miscellaneous/Pasted image 20250916183048.png",
-    "MATH117/L16 - Midterm Cutoff",
-    "MATH117/L15",
-    "Odin Project",
-    "ECE150/Archive"
+    "Miscellaneous/Pasted image 20250916183048.png"
   ]
 }

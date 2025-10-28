@@ -24,9 +24,9 @@ Perpendicular Definition:
 	![[Pasted image 20251003150851.png|225]]
 
 Derivation of the Projection:
-- Given that we set up the following conditions for the projection:
+- Given that we set up the following conditions for the projection: **Exer. Derive the proj formula using the following conditions**==.==
 	- $\vec{u} = \vec{u_{1}} + \vec{u_2}$
-	- $\vec{u_{1}} = t\vec{y}$
+	- $\vec{u_{1}} = t\vec{v}$
 	- $\vec{u_{2}}\cdot\vec{v}= 0$
 - Our goal is to determine t, and thus find the projection onto v.
 	- $0 = \vec{u_{2}}\cdot\vec{v}$

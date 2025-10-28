@@ -1,13 +1,12 @@
 ---
 
-kanban-plugin: list
+kanban-plugin: board
 
 ---
 
 ## Backlog
 
-- [ ] Write down and conceptualize all the theorems in MATH 115
-- [ ] Write down and conceptualize all the theorems in MATH 117
+- [ ] Add cards for Logical Operators vs Comparison Operators
 
 
 ## In Progress
@@ -26,12 +25,14 @@ kanban-plugin: list
 ## Done
 
 **Complete**
+- [ ] Write down and conceptualize all the theorems in MATH 115
+- [ ] Write down and conceptualize all the theorems in MATH 117
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

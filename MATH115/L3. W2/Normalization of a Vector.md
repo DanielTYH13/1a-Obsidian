@@ -13,6 +13,12 @@ ___
 - The normalization of a vector means that it is a new vector with the same direction as the original vector, but with a norm of 1. In other words, it has been normalized to a unit vector. 
 	- Due to this, all normalized vectors, if placed on the origin, trace the outline of a unit circle. 
 
+Properties of the Norm. Given $\vec{x}, \vec{y} \in \mathbb{R}^n, c\in \mathbb{R}$
+- ==$\|\vec{x}\| \ge 0$==: Norm inequality.
+- ==$\|\vec{x}\| = 0 \iff \vec{x} = \vec{0}$==: Norm equality with 0. 
+- ==$\|c\vec{x}\| = |c|\|\vec{x}\|$==: Norm of a scalar vector product.
+- ==$\|\vec{x} + \vec{y} \| \le \|\vec{x}\| + \|\vec{y}\|$==: Triangle Identity
+
 *Significant Theorems:*
 ___
 
