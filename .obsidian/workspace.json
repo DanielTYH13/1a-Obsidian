@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L17/L'Hopitals Rule .md",
+                "file": "MATH117/L3/Piecewise and Inequalities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'Hopitals Rule"
-            }
-          },
-          {
-            "id": "4c4a5905bd61cfa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L17/Using LHR on other indeterminate forms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Using LHR on other indeterminate forms"
+              "title": "Piecewise and Inequalities"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,12 +223,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c4a5905bd61cfa6",
+  "active": "5fc106d65ddad8a7",
   "lastOpenFiles": [
+    "MATH117/L17/Using LHR on other indeterminate forms.md",
     "MATH117/L17/L'Hopitals Rule .md",
     "Templates/MATH115 Note.md",
     "Templates/MATH117 Note.md",
-    "MATH117/L17/Using LHR on other indeterminate forms.md",
     "MATH117/L16 - Midterm Cutoff/MVT.md",
     "MATH117/L16 - Midterm Cutoff/Evaluating Derivatives in Implicit Form.md",
     "MATH117/Advice.md",

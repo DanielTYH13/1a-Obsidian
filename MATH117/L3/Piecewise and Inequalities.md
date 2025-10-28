@@ -28,6 +28,11 @@ ___
 			- ==$f(x)H(x-k)$==: =="Enable" f at the point x = k==
 			- ==$f(x)(1-H(x-k))$==: =="Disable" f at the point x = k==
 
+-  Note: When solving for inequalities with rational functions on one side and 0 on the other side, you must ==evaluate all places where the sign might change==
+	- This includes ==terms on the denominator where the sign might change==
+		- You are not only ==looking for where the function is possibly zero, but also where it is completely undefined==
+	- IE: Look for POI where the function is ==0 or DNE==
+
 *Significant Theorems:*
 ___
 

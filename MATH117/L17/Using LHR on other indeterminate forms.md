@@ -9,7 +9,10 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
+- Recall: The LHR can be applied if the limit $\displaystyle \lim_{x \to a}\frac{f(x)}{g(x)}$ is either $\frac{0}{0}$ or $\pm \frac{\infty}{\infty}$
 
+- If we encounter other forms of indeterminate form, we must manipulate the equation without changing it in order to obtain the forms $\frac{0}{0}$ or $\pm \frac{\infty}{\infty}$
+	- 
 
 *Examples (Excluding inline examples)* 
 ___
