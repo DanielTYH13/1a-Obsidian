@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Add cards for Logical Operators vs Comparison Operators
+- [ ] derive and prove the extraction theorem
 
 
 ## In Progress

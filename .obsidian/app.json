@@ -2,5 +2,6 @@
   "vimMode": true,
   "spellcheck": false,
   "attachmentFolderPath": "Miscellaneous",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }

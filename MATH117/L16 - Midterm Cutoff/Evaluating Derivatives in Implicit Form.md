@@ -16,6 +16,9 @@ ___
 			- It represents a tangible thing, a real ==term==, however it isn't explicitly stated what that term is.
 	- However, when you differentiate explicitly, this isn't immediately clear, as you necessarily also differentiate the exact ==relation of y to x==, or in other words, the terms that aren't ==y==, so you don't need to ==do any rearranging.== <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-22,3,250-->
 
+- Note: The reason why you can't just use normal differentiation rules on an implicitly stated function is ==because you will be differentiating a variable (Say A) in respect to a different variable (Say B).==
+	- And since the function is ==implicitly stated, you don't know what A is in respect to B, so you cannot evaluate it.==
+
 - Implicit Differentiation with Y and X:
 	- When differentiating an implicit function, you also ==Take the derivative of both sides==.
 		- You are saying that since both sides are ==equal==, they will change in ==respect to x the same way==

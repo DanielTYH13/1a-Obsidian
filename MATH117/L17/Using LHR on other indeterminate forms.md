@@ -14,6 +14,9 @@ ___
 - If we encounter other forms of indeterminate form, we must manipulate the equation without changing it in order to obtain the forms $\frac{0}{0}$ or $\pm \frac{\infty}{\infty}$
 	- 
 
+- In order to solve with other indet, bring it to the inf / inf or 0 / 0, then apply lhr. 
+	- #TODO add methods
+
 *Examples (Excluding inline examples)* 
 ___
 

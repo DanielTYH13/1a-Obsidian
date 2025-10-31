@@ -15,6 +15,8 @@ ___
 	3. Then, equate ==depending on the form of the function==
 	4. Match ==coefficients== and solve for them.
 
+- Note: You do not include previous denominator terms UNLESS the new term you are adding is of the exact same term as the previous. #TODO Ask a prof why this is true.
+
 - Decomposition of a function is the ==reverse of adding two rational functions==
 	- Instead of finding an LCM to add both rationals, you divide into the individual components of the LCM and split the numerators instead
 - Requirements of Decomposition:
