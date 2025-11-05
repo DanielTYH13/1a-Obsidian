@@ -12,7 +12,7 @@ ___
 - Def'n: Given the set of k vectors $S = \{\vec{v_{1}}, \ldots, \vec{v_{k} \}}\in \mathbb{R}^n$, $c_{1}, \ldots, c_{k}\in \mathbb{R}$, then the set is
 	- Linearly Dependent $\iff c_{1}\vec{v_{1}} + \cdots + c_{k}\vec{v_{k}} = 0$ for not all $c = 0$. 
 		- This is true because if you move ==any of the vectors over to the other side, you can then show that it is a product of the linear combinations of other vectors==
-	- Linearly Independent $\iff c_{1}\vec{v_{1}} + \cdots + c_{k}\vec{v_{k}} = 0$ for $c_{1}, \ldots, c_{k} = 0$, or in other words, the trivial solution.
+	- Linearly Independent $\iff c_{1}\vec{v_{1}} + \cdots + c_{k}\vec{v_{k}} = 0$ only for $c_{1}, \ldots, c_{k} = 0$, or in other words, the trivial solution.
 
 - Given the set of k vectors $S = \{\vec{v_{1}}, \ldots, \vec{v_{k} \}}\in \mathbb{R}^n$, $c_{1}, \ldots, c_{k}\in \mathbb{R}$ $\iff c_{1}\vec{v_{1}} + \cdots + c_{k}\vec{v_{k}} = \vec{0}$:
 	- You can determine if the set S is linearly dependant or independant by representing the $\vec{0}$ as a linear system in matrix vector form: $\vec{c}A = \vec{0}$

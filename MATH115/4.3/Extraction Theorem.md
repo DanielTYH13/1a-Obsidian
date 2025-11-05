@@ -15,6 +15,8 @@ ___
 	- The subset $S'$ is linearly independent.
 	- $\mathrm{Span}(S') = \mathrm{Span}(S)$
 
+- This works as you can "Flip respective collumns of the matrix" to isolate for 1, and since they are all equal to 0, you can move them over the the other side in order to put it a the "Constant vector".
+
 #TODO understand the proof (Probably go to office hours)
 
 

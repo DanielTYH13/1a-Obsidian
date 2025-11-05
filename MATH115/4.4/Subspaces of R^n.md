@@ -13,8 +13,8 @@ ___
 	- Requirements:
 		- U contains $\vec{0}_{\mathbb{R}^n}$. 
 		- For $\vec{x}, \vec{y} \in U$, $\vec{x} + \vec{y} \in U$. (Addition of two vectors in U is closed)
-		- For $\vec{x}, \vec{y}$, $\vec{x}\vec{y} \in U$. (Vector product in U is closed)
-	- Given the above requirements, linear combination of vectors in U is closed in U, as linear combination only has the operators of addition and vector-vector multiplication. 
+		- For $\vec{x}, c \in \mathbb{R}$, $\vec{x}\in U$. (Vector product in U is closed)
+	- Given the above requirements, inear combination of vectors in U is closed in U, as linear combination only has the operators of addition and vector-vector multiplication. 
 
 - Geometric Interpretation:
 	- A subspace of $\mathbb{R}^n$ is a space that has a certain dimensionality but lives in $\mathbb{R}^n$.

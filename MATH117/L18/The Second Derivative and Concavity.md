@@ -21,6 +21,16 @@ ___
 				- +ve: ![[Pasted image 20251030152531.png|163]]
 				- -ve: ![[Pasted image 20251030152515.png|153]]
 
+- Points of inflection:
+	- POI can occur either at:
+		- $f''(x) = 0$
+			- $f''(x)$ passes through the x axis.
+		- $f''(x)$ is not defined.
+			- $f''(x)$ goes from inf to -inf.
+	- Since $f''(x)$ does not necessarily need to pass through the x axis at these points, they are only candidates. We need to manually check them. 
+
+
+
 *Examples (Excluding inline examples)* 
 ___
 

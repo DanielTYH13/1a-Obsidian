@@ -9,6 +9,12 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
+- Remember that an augmented matrix represents the coefficients for the variables.
+	- Why Aug Matr work:
+		- When you reduce to REF form, you make it such that there is only one non-zero leading coef per variable. 
+		- When you reduce to RREF form, you make it such that there is only one non-zero coef per variable.
+		- However, these representations of the linear system is still equivalent in solutions. Thus, it becomes very easy to just isolate for and solve! :D
+
 - The spanning set of a collection of vectors is ==the set of vectors that can be represented as a lin. comb. of the collection of vectors for constants $c_{n}\in \mathbb{R}$.==
 	- $S = {v_{1}, v_{2}, \ldots, v_{n}}$
 	- $Span(S) =$ ==$\{c_{1}\vec{v_{1}} + c_{2}\vec{v_{2}} + \cdots + c_{n}\vec{v_{n}} | c_{1}, c_{2}, \ldots , c_{n} \in \mathbb{R} \}$==

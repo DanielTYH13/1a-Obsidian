@@ -20,7 +20,7 @@ ___
 - Note: Given any arbitrary subspace of U, we are able to construct a linearly independent spanning set of U by carrying it to REF form. Thus, every arbitrary subspace U has a basis! 
 
 - Note: The basis of a subspace, while not the subspace itself, gives you a general idea of what the subspace's properties are.
-	- The dimension of each vector in the basis is the dimensionality of the superspace
+	- The dimension of each vector in the basis is the dimensionality of the parent space.  
 	- The number of vectors in the basis is the dimensionality of the subspace.
 		- This is because n vectors can only describe an n dimensional space, and the basis is Linearly Independant, meaning dim(subspace) = # vectors in basis exactly. 
 
