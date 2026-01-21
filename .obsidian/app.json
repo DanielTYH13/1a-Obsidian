@@ -2,6 +2,17 @@
   "vimMode": true,
   "spellcheck": false,
   "attachmentFolderPath": "Miscellaneous",
-  "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "foldIndent": true,
+  "showIndentGuide": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "propertiesInDocument": "visible",
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "showInlineTitle": true
 }
