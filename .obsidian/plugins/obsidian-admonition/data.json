@@ -1,5 +1,32 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "definition": {
+      "type": "definition",
+      "color": "255, 255, 0",
+      "icon": {
+        "name": "atlas",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "theorem": {
+      "type": "theorem",
+      "color": "84, 88, 207",
+      "icon": {
+        "name": "book-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Theorem",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.3.2",
@@ -7,7 +34,7 @@
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
-  "dropShadow": true,
+  "dropShadow": false,
   "hideEmpty": false,
   "open": {
     "admonitions": true,

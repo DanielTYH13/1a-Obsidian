@@ -9,12 +9,10 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
-```ad-
-
-```
- 
+```ad-definition
 - For any [[notation|statement]] either it is true or its negation is true.
 	- *tertium non datur* - no third is given. 
+```
 
 - Middle $\to$ comes from "no middle ground."
 

@@ -18,6 +18,29 @@ Given that $p$ is a statement:
 - Negation: $\neg p$:
 	- ![[Pasted image 20260121170648.png]]
 
+- Implication: $p \implies q$:
+	- $p$ is the antecedent.
+	- $q$ is the consequence.
+	- ![[Pasted image 20260122144140.png|136]]
+	
+- And: $\wedge$
+- Or: $\vee$
+
+- Equivalence: $\iff$
+	- $p$ is equivalent to $q$ if the truth of one implies the truth of another (Both ways around)
+	- Can be interpreted as: $(p \implies q) \wedge (q \implies p)$
+	- "If and only if".
+
+- Contraposition:
+	- Given $p \implies q$, the contrapositive is $\neg p \implies \neg q$:
+		- ![[Pasted image 20260122150751.png|600]]
+	- For any statement, its contrapositive is equivalent.
+	- If $p$ is proved as true and $q$ is proved as its contrapositive, then $q$ must also be true.
+
+- Tautology: A compound statement that is always true regardless of its arguments.
+
+
+
 *Examples (Excluding inline examples)* 
 ___
 
