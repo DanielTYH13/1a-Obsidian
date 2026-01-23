@@ -279,12 +279,110 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "MATH147/Rules of Inference/Proof by Contradiction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proof by Contradiction"
+            }
+          },
+          {
+            "id": "5dd3d3a2b5c42efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH147/Sets, Relations, and Functions/2.0/Intervals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intervals"
+            }
+          },
+          {
+            "id": "2e4cca632ae9b0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH147/Sets, Relations, and Functions/2.0/Degenerate Intervals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Degenerate Intervals"
+            }
+          },
+          {
+            "id": "03656eb03b4e5069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MATH147/Notation/Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Notation"
+            }
+          },
+          {
+            "id": "49298724727a8bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH147/Sets, Relations, and Functions/2.1/The Power Set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Power Set"
+            }
+          },
+          {
+            "id": "ed3e0253ac91393f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH147/Sets, Relations, and Functions/2.1/Set Difference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set Difference"
+            }
+          },
+          {
+            "id": "fc16784cadb5059a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH147/Sets, Relations, and Functions/2.1/Set Complement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set Complement"
+            }
+          },
+          {
+            "id": "f1765ef791deba2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH147/Sets, Relations, and Functions/2.1/The Union.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Union"
             }
           },
           {
@@ -302,7 +400,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -475,23 +573,33 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "29ee54d24235ad06",
+  "active": "f1765ef791deba2a",
   "lastOpenFiles": [
+    "MATH147/Sets, Relations, and Functions/2.1/Set Complement.md",
+    "MATH147/Sets, Relations, and Functions/2.1/The Union.md",
+    "MATH147/Sets, Relations, and Functions/2.1/Set Difference.md",
+    "MATH147/Sets, Relations, and Functions/2.1/Notation.md",
+    "MATH147/Sets, Relations, and Functions/2.1/The Power Set.md",
+    "MATH147/Notation/Notation.md",
+    "MATH147/Sets, Relations, and Functions/2.0/Degenerate Intervals.md",
+    "MATH147/Sets, Relations, and Functions/2.1",
+    "MATH147/Sets, Relations, and Functions/2.0",
+    "MATH147/Sets, Relations, and Functions/2.0/Intervals.md",
     "MATH147/Rules of Inference/Proof by Contradiction.md",
+    "MATH147/Sets, Relations, and Functions",
+    "MATH147/Rules of Inference/Simplification.md",
+    "MATH147/Rules of Inference/Modus Ponens.md",
+    "MATH147/Rules of Inference/Constructive Dilemma.md",
+    "MATH147/Rules of Inference/Deductive Reasoning.md",
+    "MATH147/Rules of Inference/Disjunctive Syllogism.md",
+    "MATH147/Rules of Inference/Destructive Dilemma.md",
+    "MATH147/Rules of Inference/Addition.md",
+    "MATH147/Notation/Law of the Excluded Middle.md",
     "MATH147/Rules of Inference/Inductive Reasoning.md",
     "Proof by Induction.md",
-    "MATH147/Rules of Inference/Deductive Reasoning.md",
     "MATH147/Rules of Inference/Conjunction.md",
-    "MATH147/Rules of Inference/Modus Ponens.md",
-    "MATH147/Rules of Inference/Addition.md",
-    "MATH147/Rules of Inference/Simplification.md",
-    "MATH147/Rules of Inference/Constructive Dilemma.md",
-    "MATH147/Rules of Inference/Destructive Dilemma.md",
-    "MATH147/Rules of Inference/Disjunctive Syllogism.md",
     "MATH147/Rules of Inference/Hypothetical Syllogism.md",
     "MATH147/Rules of Inference/Modus Tollens.md",
-    "MATH147/Notation/Notation.md",
-    "MATH147/Notation/Law of the Excluded Middle.md",
     "Modus Tollens.md",
     "Templates/MATH147 Note.md",
     "Miscellaneous/Pasted image 20260123070916.png",
@@ -507,22 +615,12 @@
     "MATH117/L4/Piecewise and Inequalities.md",
     "MATH147",
     "MATH117/L3/Miscellaneous Practice Qs.md",
-    "MATH117/L3/Hyperbolic Trig Functions.md",
-    "MATH117/L3/Decomposition of Rational Functions.md",
-    "MATH117/L1/L1. W1. Conic Sections.md",
-    "MATH117/L2/L2. W1. Functions and Composition.md",
-    "ECE105/L1/Equations of Kinematic Motion.md",
-    "ECE105/L1/Miscellaneous.md",
-    "ECE105/L1/Instananeous Velocity and Acceleration.md",
     "MATH117/L19",
     "MATH117/L21",
     "MATH115/4.6",
     "Miscellaneous/Pasted image 20251030195658.png",
     "Miscellaneous/Pasted image 20251030152622.png",
     "MATH117/L18",
-    "MATH117/L17/Tangent Line Approx / Linear Approx ",
-    "MATH117/L17/Tangent Line Approx ",
-    "MATH115/3.1",
     "ECE150/Untitled.canvas"
   ]
 }

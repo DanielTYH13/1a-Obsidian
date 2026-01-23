@@ -7,7 +7,8 @@
   "textFontFamily": "Source Code Pro",
   "enabledCssSnippets": [
     "highlight_tex",
-    "align"
+    "align",
+    "marginpadding"
   ],
   "showRibbon": false,
   "showViewHeader": true

@@ -12,7 +12,7 @@ ___
 Given that $p$ is a statement: 
 
 - Statement: A sentence that can be evaluated true or false.
-	- Twin prime conjecture is a statement.
+	- The Twin prime conjecture is a statement.
 	- x = 1 is not a statement
 
 - Negation: $\neg p$:
@@ -23,9 +23,6 @@ Given that $p$ is a statement:
 	- $q$ is the consequence.
 	- ![[Pasted image 20260122144140.png|136]]
 	
-- And: $\wedge$
-- Or: $\vee$
-
 - Equivalence: $\iff$
 	- $p$ is equivalent to $q$ if the truth of one implies the truth of another (Both ways around)
 	- Can be interpreted as: $(p \implies q) \wedge (q \implies p)$
@@ -46,11 +43,7 @@ Given that $p$ is a statement:
 - Existential Quantifier: $\exists$
 	- $\neg(\exists x: p(x)) \iff \forall x : \neg p(x)$	
 	- "There exists..."
-
-- Such that: $\ni$
-
-
-
+	- 
 *Examples (Excluding inline examples)* 
 ___
 
