@@ -32,7 +32,7 @@ Given that $p$ is a statement:
 	- "If and only if".
 
 - Contraposition:
-	- Given $p \implies q$, the contrapositive is $\neg p \implies \neg q$:
+	- Given $p \implies q$, the contrapositive is $\neg q \implies \neg p$:
 		- ![[Pasted image 20260122150751.png|600]]
 	- For any statement, its contrapositive is equivalent.
 	- If $p$ is proved as true and $q$ is proved as its contrapositive, then $q$ must also be true.
