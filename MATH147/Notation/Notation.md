@@ -39,6 +39,16 @@ Given that $p$ is a statement:
 
 - Tautology: A compound statement that is always true regardless of its arguments.
 
+- Universal Quantifier: $\forall$
+	- $\neg(\forall x : p(x)) \iff \exists x : \neg p(x)$
+	- "For every..."
+
+- Existential Quantifier: $\exists$
+	- $\neg(\exists x: p(x)) \iff \forall x : \neg p(x)$	
+	- "There exists..."
+
+- Such that: $\ni$
+
 
 
 *Examples (Excluding inline examples)* 

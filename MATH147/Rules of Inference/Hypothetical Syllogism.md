@@ -9,8 +9,18 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
+```ad-theorem
+
+If p implies q, and q implies s, then p implies s.
+
+$(p \implies q) \wedge (q \implies s) \implies (p \implies s)$
+
+```
+
 *See also:*
 ___
+
+1. [[Disjunctive Syllogism]]
 
 *Examples (Excluding inline examples):* 
 ___

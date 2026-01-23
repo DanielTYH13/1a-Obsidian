@@ -9,8 +9,19 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
+```ad-theorem
+
+If either p or q is true, and p is false, then q must be true. 
+
+$[(p \vee q) \wedge \neg p] \implies q$
+
+```
+
 *See also:*
 ___
+
+1. [[Hypothetical Syllogism]]
+2. [[Constructive Dilemma]]
 
 *Examples (Excluding inline examples):* 
 ___
