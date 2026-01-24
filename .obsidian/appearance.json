@@ -1,11 +1,15 @@
 {
-  "cssTheme": "Ukiyo",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "interfaceFontFamily": "Inter",
   "accentColor": "",
   "baseFontSize": 16,
   "textFontFamily": "Source Code Pro",
   "enabledCssSnippets": [
-    "highlight_tex"
-  ]
+    "align",
+    "highlight_tex",
+    "marginpadding"
+  ],
+  "showRibbon": false,
+  "showViewHeader": true
 }

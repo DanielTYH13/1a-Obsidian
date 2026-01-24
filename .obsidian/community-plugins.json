@@ -3,10 +3,10 @@
   "quickadd",
   "obsidian-annotator",
   "quick-latex",
-  "obsidian-spaced-repetition",
-  "obsidian-style-settings",
-  "mousewheel-image-zoom",
-  "obsidian-kanban",
   "obsidian-admonition",
-  "omnisearch"
+  "obsidian-kanban",
+  "mousewheel-image-zoom",
+  "omnisearch",
+  "obsidian-spaced-repetition",
+  "obsidian-style-settings"
 ]

@@ -1,0 +1,18 @@
+.math-block {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.markdown-preview-view .math-block {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.cm-line .math-block {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+
+
