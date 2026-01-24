@@ -4,137 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d14534ca2a0aba0e",
+        "id": "6f29022793108e53",
         "type": "tabs",
         "children": [
           {
-            "id": "6b1b12aa1556ea8b",
+            "id": "3de721e04ba51c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH117/L18/The Second Derivative and Concavity.md",
+                "file": "MATH117/Finished/L3/Evaluating Piecewise Inequalities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Second Derivative and Concavity"
+              "title": "Evaluating Piecewise Inequalities"
             }
           },
           {
-            "id": "5418bf3bbd6cc182",
+            "id": "0d034925957e7dd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "MATH117/L18/Local Extrema.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "Local Extrema"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           },
           {
-            "id": "5d1cd2b3eb415f59",
+            "id": "1edde8c52ce3acc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "MATH117/L18/Global Extrema.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.4"
               },
-              "icon": "lucide-file",
-              "title": "Global Extrema"
-            }
-          },
-          {
-            "id": "5cf06f45937b0a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L18/Finding Global Extrema using the Closed Interval Method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finding Global Extrema using the Closed Interval Method"
-            }
-          },
-          {
-            "id": "bbd31447201a3e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L18/Finding Global Extrema using the Closed Interval Method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finding Global Extrema using the Closed Interval Method"
-            }
-          },
-          {
-            "id": "472402b98e0c7a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L18/Local Extrema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Extrema"
-            }
-          },
-          {
-            "id": "19c90cd73b67a75f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L18/Finding Local Extrema using the Closed Interval Method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finding Local Extrema using the Closed Interval Method"
-            }
-          },
-          {
-            "id": "edcf85ba5dc93b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH117/L19/First Derivative Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Derivative Test"
-            }
-          },
-          {
-            "id": "9ecf5fffc365a9ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH115/4.3/Linear Dependence and Independence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear Dependence and Independence"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -309,52 +225,53 @@
   },
   "active": "b9107765fe066452",
   "lastOpenFiles": [
-    "MATH115/4.3/Extraction Theorem.md",
-    "MATH115/4.4/Subspaces of R^n.md",
-    "MATH115/4.5/Algorithm to find basis for the subspace U of Rn.md",
-    "MATH115/4.5/Basis.md",
-    "MATH115/L11 - L13 inclusive/Properties of Vector-Matrix Multiplication.md",
-    "MATH115/L3. W2/Dot Product.md",
-    "MATH115/3.5/Matrix Invertibility Criteria.md",
-    "MATH115/4.1/Spanning Set Theorems.md",
-    "MATH115/4.1/Spanning Sets.md",
-    "MATH117/L19/Second Derivative Test.md",
-    "MATH117/L19/First Derivative Test.md",
-    "MATH117/L18/Finding Local Extrema using the Closed Interval Method.md",
-    "MATH117/L19",
-    "MATH117/L18/Finding Global Extrema using the Closed Interval Method.md",
-    "MATH117/L18/Critical Points.md",
-    "MATH117/L18/Closed Interval Method.md",
-    "MATH117/L18/Local Extrema.md",
-    "MATH117/L18/Global Extrema.md",
-    "MATH117/L18/The Second Derivative and Concavity.md",
-    "MATH115/4.5/Theorem 4.5.6.md",
-    "MATH115/4.5/Standard Basis for R^n.md",
-    "MATH115/4.3/Linear Dependence and Independence.md",
-    "MATH117/L3/Decomposition of Rational Functions.md",
-    "MATH117/L3/Piecewise and Inequalities.md",
-    "MATH117/L16 - Midterm Cutoff/MVT.md",
-    "MATH115/4.6/Column Space.md",
-    "MATH117/L21/The Definite Integral.md",
-    "MATH117/L21",
-    "MATH115/4.6",
+    "MATH117/Finished/L3/Heaviside Functions.md",
+    "Untitled Kanban.md",
+    "MATH117/Finished/L3/Evaluating Piecewise Inequalities.md",
+    "MATH117/Finished/L4/Partial Fraction Decomposition.md",
+    "MATH117/Finished/L10/Limits for Functions.md",
+    "MATH117/Finished/L13/Continuous Functions.md",
+    "Archive/Piecewise and Inequalities.md",
+    "MATH117/Finished/L1/Hyperbolas.md",
+    "MATH117/Finished/L1/General Form of a Conic Section.md",
+    "MATH117/Finished/L1/Ellipses.md",
+    "MATH117/Finished/L1/Circles.md",
+    "MATH117/Finished/L2/Decomposing Functions into Even and Odd Parts.md",
+    "MATH117/Finished/L2/Even and Odd functions.md",
+    "Miscellaneous/Pasted image 20251225173021.png",
+    "MATH117/Finished/L2/Hyperbolic Trig Functions.md",
+    "MATH117/Finished/L2/Inverses of Functions.md",
+    "MATH117/Finished/L2/Domain of Function Composition.md",
+    "MATH117/Finished/L2/Commutivity of Function Composition.md",
+    "MATH117/Finished/L2/L2. W1. Functions and Composition.md",
+    "MATH117/Finished/L2/One to One Functions.md",
+    "MATH117/Finished/L1/L1. W1. Conic Sections.md",
+    "MATH117/Finished/L23/FTC1.md",
+    "ECE105/C8/Moment of Angular Momentum.md",
+    "ECE105/C8/Moment of Inertia.md",
+    "ECE105/C7/Internal Forces.md",
+    "ECE105/C7/Conservation of Momentum.md",
+    "ECE105/C7/Impulse.md",
+    "MATH117/Finished/L32",
+    "MATH117/Finished/L31",
+    "MATH117/Finished/L30",
+    "MATH117/Finished/L29",
+    "MATH117/Finished/L28",
+    "MATH117/Finished/L27",
+    "Miscellaneous/Pasted image 20251210195757.png",
+    "Miscellaneous/Pasted image 20251210195318.png",
+    "MATH117/Finished/L26",
+    "MATH117/Finished/L25",
+    "MATH117/Finished/L24",
+    "MATH117/Finished/Untitled",
+    "MATH115/Untitled.canvas",
+    "Miscellaneous/Pasted image 20251203153322.png",
+    "Miscellaneous/Pasted image 20251203141950.png",
+    "Miscellaneous/Pasted image 20251203133214.png",
+    "Miscellaneous/Pasted image 20251202193333.png",
+    "Miscellaneous/Pasted image 20251202193205.png",
+    "Miscellaneous/Pasted image 20251202193146.png",
     "Miscellaneous/Pasted image 20251030195658.png",
-    "Miscellaneous/Pasted image 20251030152622.png",
-    "Miscellaneous/Pasted image 20251030152603.png",
-    "Miscellaneous/Pasted image 20251030152531.png",
-    "Miscellaneous/Pasted image 20251030152515.png",
-    "MATH117/L18",
-    "Miscellaneous/Pasted image 20251030150814.png",
-    "MATH117/L17/Tangent Line Approx / Linear Approx ",
-    "MATH117/L17/Tangent Line Approx ",
-    "MATH115/3.1",
-    "MATH115/4.5",
-    "MATH115/4.4",
-    "MATH115/4.3",
-    "ECE150/Untitled.canvas",
-    "Miscellaneous/Pasted image 20251019182655.png",
-    "Miscellaneous/Pasted image 20251019182618.png",
-    "Miscellaneous/Pasted image 20251003150758.png",
-    "Miscellaneous/Pasted image 20251005190243.png"
+    "ECE150/Untitled.canvas"
   ]
 }

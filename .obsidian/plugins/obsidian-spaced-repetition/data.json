@@ -4,7 +4,7 @@
       "#flashcards",
       "#MATH115",
       "#MATH117",
-      ""
+      "#testing"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -19,8 +19,8 @@
     ],
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
-    "multilineCardSeparator": "?",
-    "multilineReversedCardSeparator": "??",
+    "multilineCardSeparator": "%%  %%",
+    "multilineReversedCardSeparator": "%% 2 %%",
     "multilineCardEndMarker": "",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
