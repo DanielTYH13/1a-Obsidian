@@ -1,12 +1,12 @@
 [
-  "quickadd",
-  "quick-latex",
-  "obsidian-spaced-repetition",
-  "obsidian-style-settings",
-  "mousewheel-image-zoom",
-  "obsidian-kanban",
-  "omnisearch",
-  "obsidian-admonition",
   "obsidian-git",
-  "obsidian-annotator"
+  "quickadd",
+  "obsidian-annotator",
+  "quick-latex",
+  "obsidian-admonition",
+  "obsidian-kanban",
+  "mousewheel-image-zoom",
+  "omnisearch",
+  "obsidian-spaced-repetition",
+  "obsidian-style-settings"
 ]
