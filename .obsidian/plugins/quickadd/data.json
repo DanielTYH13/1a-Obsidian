@@ -113,7 +113,7 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "fcff77ee-e442-4bb9-9fa6-e4795c0d05dd",
+      "id": "a3a1f8c1-e79e-442f-8d6f-7a9dd20d3b61",
       "name": "ECE105",
       "type": "Template",
       "command": true,
@@ -141,11 +141,39 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "71b3e926-7677-40cb-9194-9ed34929266e",
+      "id": "b1a68b44-c06a-42cb-b250-fa0264125f14",
       "name": "MATH147",
       "type": "Template",
       "command": true,
       "templatePath": "Templates/MATH147 Note.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": true
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "d98f81b4-eed7-4c5e-9d5d-65a4e269e386",
+      "name": "Spivak's Calculus",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Spivak's Calculus Note.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""

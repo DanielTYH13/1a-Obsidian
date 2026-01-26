@@ -2,8 +2,8 @@
 tags:
   - "#review"
   - MATH115
-sr-due: 2025-09-20
-sr-interval: 3
+sr-due: 2026-05-05
+sr-interval: 100
 sr-ease: 250
 ---
 *Key Concepts:*
@@ -18,10 +18,10 @@ Defn': RREF - Reduced Row Echelon Form:
 2. ==Each leading entry is a 1==
 	1. This is called a ==Leading entry==
 3. ==Each Leading One is the only non-zero entry in its collumn==
-	- This is significant as ==This means that there are no two ways to express  the
+
 Note:
 - RREF implies ==REF==, however REF ==does not imply RREF==.
-- While an Aug. Matr. in RREF can have a zero row, it cannot have a ==$\begin{bmatrix}0&0&0&|&c\end{bmatrix}$, where c is a non-zero value. <!--SR:!2000-01-01,1,250!2025-10-22,1,230!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250-->
+- While an Aug. Matr. in RREF can have a zero row, it cannot have a ==$\begin{bmatrix}0&0&0&|&c\end{bmatrix}$, where c is a non-zero value. <!--SR:!2000-01-01,1,250!2025-10-22,1,230-->
 
 
 *Examples (Excluding inline examples)* 

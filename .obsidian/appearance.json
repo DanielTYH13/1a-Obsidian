@@ -6,10 +6,10 @@
   "baseFontSize": 16,
   "textFontFamily": "Source Code Pro",
   "enabledCssSnippets": [
-    "align",
     "highlight_tex",
+    "align",
     "marginpadding"
   ],
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": true
 }

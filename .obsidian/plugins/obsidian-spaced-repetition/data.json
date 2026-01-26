@@ -4,9 +4,10 @@
       "#flashcards",
       "#MATH115",
       "#MATH117",
-      "#testing"
+      "#testing",
+      "#MATH147"
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "burySiblingCards": false,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",

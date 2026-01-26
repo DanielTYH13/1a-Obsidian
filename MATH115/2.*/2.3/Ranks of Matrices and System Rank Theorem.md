@@ -2,8 +2,8 @@
 tags:
   - "#review"
   - MATH115
-sr-due: 2025-09-20
-sr-interval: 3
+sr-due: 2026-05-05
+sr-interval: 100
 sr-ease: 250
 ---
 *Key Concepts:*
@@ -11,7 +11,7 @@ ___
 Def'n: The rank of a matrix is the number of leading entries for any given REF form of that matrix (==Any arbitrary [[REF and RREF Form|REF]], as it will still have the same order of the solution, ex. An inf solution will still have inf solutions regardless of its REF, and same for a unique sol'n==)
 - This is denoted by Rank(A) for Matrix $A\in M_{mxn}(\mathbb{R})$
 - IMPORTANT ==The rank can only be taken if you are in REF form of the matrix. This form is representative of the *nature* of a matrix. (In its most reduced form)==
-- In aug. matr., the coefficient vector / matrix is ==included in the rank==. This is important to tell if the system has ==Exactly one solution==
+- In aug. matr., the coefficient vector / matrix is ==included in the rank==. This is important to tell if the system has ==Exactly one solution== #TODO What did i mean by this??
 
 - #TODO what if the constant vector has dimensionality greater than the matrix by more than one? Then there is the possibility that the entire augmented matrix cannot be put into REF. How do you treat a case like that?
 
