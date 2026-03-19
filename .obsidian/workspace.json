@@ -212,8 +212,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -225,9 +225,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "bac575cf57a65334",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -241,14 +251,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "templates:Insert template": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b1cac610576cfeec",
+  "active": "bac575cf57a65334",
   "lastOpenFiles": [
     "MATH117/Finished/L4/Partial Fraction Decomposition.md",
     "Miscellaneous/Studying lifecycle (math).md",
