@@ -5,4 +5,4 @@ Re-read the course notes again and take mental note of new concepts you learned 
 "Teach" by creating notes in obsidian that read like a lecture.
 Review said notes based on the forgetting curve by "teaching" yourself using the feynman method.
 
-test AHHH
+test AH
