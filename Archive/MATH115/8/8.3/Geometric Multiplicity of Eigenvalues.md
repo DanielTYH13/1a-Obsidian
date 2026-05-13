@@ -9,12 +9,12 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
-- The geometric multiplicity of an eigenvalue is the dimensionality of the [[Archive/1A/MATH115/8./8.3/Eigenspaces|eigenspace]] of that eigenvalue. 
+- The geometric multiplicity of an eigenvalue is the dimensionality of the [[Archive/MATH115/8/8.3/Eigenspaces|eigenspace]] of that eigenvalue. 
 	- Denoted as $g_{\lambda}$
 
 - You can think of geometric multiplicity as how many dimensions the space is able to span, not how many vectors are in the set. 
 
-- Note that geometric multiplicity does not always equal [[Archive/1A/MATH115/8./8.3/Algebraic Multiplicity of Eigenvalues]]
+- Note that geometric multiplicity does not always equal [[Archive/MATH115/8/8.3/Algebraic Multiplicity of Eigenvalues]]
 
 *Examples (Excluding inline examples)* 
 ___

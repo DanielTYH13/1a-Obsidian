@@ -16,7 +16,7 @@ ___
 	- For example, if you try to multiply a vector in $\mathbb{R}^3$ and a matrix in $M_{mx2}$, then it is undefined as there is no corresponding collumn vector from the matrix for component 3 of the vector. 
 - Given matrix $A \in M_{mxn}(\mathbb{R})$, and $\vec{v}\in \mathbb{R}^n$, the resulting matrix-vector product has dimenionality of $\mathbb{R}^{m}$.
 	- This is because ==regardless of the # of collumns n, the matrix product is defined such that each row corresponds to a component of the resultant vector==
-		- This is much easier to understand using the [[Archive/1A/MATH115/3./3.2/Dot Product Interpretation of Matrix-Vector Products]]
+		- This is much easier to understand using the [[Archive/MATH115/3/3.2/Dot Product Interpretation of Matrix-Vector Products]]
 
 - #TODO Explain why matrix vector mult is defined in this way. 
 

@@ -12,7 +12,7 @@ ___
 - Algebraic multiplicity is defined as the number of times that an [[Archive/MATH115/8/8.1/Eigenvalues and Eigenvectors|eigenvalue]] appears within a [[Archive/MATH115/8/8.2/Characteristic Polynomials|characteristic polynomial]]. 
 	- Denoted as $a_{\lambda}$
 
-- Note that algebraic multiplicity does not always equal [[Archive/1A/MATH115/8./8.3/Geometric Multiplicity of Eigenvalues]].
+- Note that algebraic multiplicity does not always equal [[Archive/MATH115/8/8.3/Geometric Multiplicity of Eigenvalues]].
 
 *Examples (Excluding inline examples)* 
 ___

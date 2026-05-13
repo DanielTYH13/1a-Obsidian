@@ -13,7 +13,7 @@ ___
 	- This is true $\iff$ any of the following are true
 		- $g_{i}= a_{i}$ for all $\lambda_{i}$ 
 		- All eigenvalues for M are distinct 
-	- This stems from [[Archive/1A/MATH115/8./8.4/Theorem 8.4.6]]
+	- This stems from [[Archive/MATH115/8/8.4/Theorem 8.4.6]]
 
 *Examples (Excluding inline examples)* 
 ___

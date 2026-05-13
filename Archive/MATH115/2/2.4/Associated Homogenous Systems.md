@@ -9,7 +9,7 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
-- Associated Homogenous Systems differ from [[Archive/1A/MATH115/2./2.4/Homogenous Systems of Linear Equations]] as they ==are derived from a non-homogenous linear system==
+- Associated Homogenous Systems differ from [[Archive/MATH115/2/2.4/Homogenous Systems of Linear Equations]] as they ==are derived from a non-homogenous linear system==
 	- Given $\begin{bmatrix}A|\vec{b}\end{bmatrix}, \space b\ne \vec{0}$, the associated homogenous system is ==$\begin{bmatrix}A|\vec{0}\end{bmatrix}$==
 		- In other words, you replace ==the augmented vector with the 0 vector.==
 

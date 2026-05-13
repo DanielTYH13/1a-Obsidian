@@ -15,7 +15,7 @@ ___
 - Given:
 	- Path length = $s$
 	- Displacement = $d$,
-- Then $s \ge |d|$ -> [[Triangle Identity]]
+- Then $s \ge |d|$ -> [[Archive/MATH115/1/1.3/Triangle Identity]]
 
 *Examples (Excluding inline examples)* 
 ___

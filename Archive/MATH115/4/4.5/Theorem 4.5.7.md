@@ -10,7 +10,7 @@ sr-ease: 250
 ___
 
 - Let $B = \{\vec{v_{1}}, \cdots , \vec{v_{k}}\} \subseteq \mathbb{R}^n$ and A = $\begin{bmatrix} \vec{v_{1}} & \cdots & \vec{v_{k}}\end{bmatrix}$ be a square matrix of nxn. Then $B$ is a basis for $\mathbb{R}^n$ if and only if $\mathrm{Rank}(A) = n$, and according to the matrix invertibility criteria, if and only if A is invertible. 
-	- Look at definition of a [[Archive/1A/MATH115/4./4.5/Basis|base]], as well as [[Archive/MATH115/2/2.3/Ranks of Matrices and System Rank Theorem|Srt(3)]]
+	- Look at definition of a [[Archive/MATH115/4/4.5/Basis|base]], as well as [[Archive/MATH115/2/2.3/Ranks of Matrices and System Rank Theorem|Srt(3)]]
 	- #TODO do proofs 
 
 - Corollary: Let $B = \{\vec{v_{1}}, \cdots , \vec{v_{n}}\}$ be a subset of $\mathbb{R}^n$. Then B is a basis of $\mathbb{R}^n$ if and only if B is linearly independant.

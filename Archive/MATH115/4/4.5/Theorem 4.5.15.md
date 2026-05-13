@@ -10,7 +10,7 @@ sr-ease: 250
 ___
 
 - Thm: If $B = \{\vec{v_{1}}, \ldots,\vec{v_{k}}\}$ and $C = \{\vec{w_{1}}, \ldots , \vec{w_{l}} \}$ are both basis for the subspace of $U$ of $\mathbb{R}^n$, then $k = l$
-	- This stems immediately from [[Archive/1A/MATH115/4./4.5/Theorem 4.5.14]].
+	- This stems immediately from [[Archive/MATH115/4/4.5/Theorem 4.5.14]].
 
 
 

@@ -12,7 +12,7 @@ ___
 Given the subspace $U$ of $\mathbb{R}^n$,
 1. Express any arbitrary vector $\vec{x} \in U$ as a linear combination of the vectors $\vec{v_{1}}, \cdots, \vec{v_{k}}$ that exist in U.
 2. Use the [[Archive/MATH115/4/4.3/Extraction Theorem]] to remove any linear dependencies to obtain set S, such that $\mathrm{Span}(S) = U$. 
-3. The remaining set S is a basis of U, given by the [[Archive/1A/MATH115/4./4.5/Basis|Definition of a Basis]]
+3. The remaining set S is a basis of U, given by the [[Archive/MATH115/4/4.5/Basis|Definition of a Basis]]
 
 *Examples (Excluding inline examples)* 
 ___

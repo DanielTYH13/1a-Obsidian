@@ -11,10 +11,10 @@ ___
 
 - 1. Given the sets A and B, ==$A = B \iff A \subseteq B \land  B \subseteq A$.== **Exer. Set Equality Restrictions**
 	- This is used when proving that the *Span of a set is equal to another set*. For example, if Span(S) = $\mathbb{R}^n$. 
-		- You just need to prove ==subseteq twice. [[Archive/1A/MATH115/4./4.1/Proving Subsets of Vector Sets (In particular for Spanning Sets)|See how to prove that one set is a subset or equal to another]].==
+		- You just need to prove ==subseteq twice. [[Archive/MATH115/4/4.1/Proving Subsets of Vector Sets (In particular for Spanning Sets)|See how to prove that one set is a subset or equal to another]].==
 
 - 2: Proving $\mathrm{Span}(S) = \mathbb{R}^n$.
-	- Using  ==(1) from [[Archive/1A/MATH115/4./4.1/Spanning Set Theorems]]==, we know that given $\vec{v}\in \mathbb{R}^n$ and the arbitrary variable vector $\vec{x} \in \mathbb{R}^n$, then
+	- Using  ==(1) from [[Archive/MATH115/4/4.1/Spanning Set Theorems]]==, we know that given $\vec{v}\in \mathbb{R}^n$ and the arbitrary variable vector $\vec{x} \in \mathbb{R}^n$, then
 		- $\vec{v} \in \mathrm{Span}(S) \iff$ ==$A\vec{x} = \vec{v}$ is defined and consistent.== (Meaning that ==$A\in M_{mxk}(\mathbb{R}), m = n$ - or in other words, the dimensionality of each vector in the spanning set must be n==). If $m < n$, then ==it is impossible to achieve a lin comb of dimensionality $n$==.
 			- To prove that this is always true, then use ==[[Archive/MATH115/2/2.3/Ranks of Matrices and System Rank Theorem|SRT(3)]]==.
 			- Reduce to REF, and if the rank of ==$Span(S) = n$, then by SRT(3), the system is consistent for all given vectors in $\mathbb{R}^n$==. <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2025-10-24,3,250!2000-01-01,1,250-->

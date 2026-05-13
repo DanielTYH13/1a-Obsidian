@@ -15,7 +15,7 @@ ___
 			- [[Archive/MATH115/2/2.3/Ranks of Matrices and System Rank Theorem|See System Rank Theorem]] <!--SR:!2025-10-24,3,250!2000-01-01,1,250-->
 
 - (2) Thm: Given the set S = $\{\vec{v}_{1}, \vec{v}_{2}, \ldots, \vec{v}_{n}\ \in \mathbb{R}^n\}$, $A = \begin{bmatrix}\vec{v}_{1} & \vec{v}_{2} & \ldots & \vec{v}_{n}\end{bmatrix}$, then $Span(S) = \mathbb{R}^n \iff Rank(A) = n$. 
-	- Reference [[Archive/1A/MATH115/4./4.1/Proving Set Equality (In particular for Spanning Sets)|Item 2]] **Exer. Review this link**==.==
+	- Reference [[Archive/MATH115/4/4.1/Proving Set Equality (In particular for Spanning Sets)|Item 2]] **Exer. Review this link**==.==
 	- Corollary: given $S = \{ \vec{v}_{1}, \ldots, \vec{v}_k \}$ 
 		- if $k < n$ then ==$Span(S) \ne \mathbb{R}^n$==
 			- This is because the corresponding matrix equation for the lin. comb. ==will have matrix A with max Rank = k.==
