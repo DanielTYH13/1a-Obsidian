@@ -18,7 +18,7 @@ ___
 	- $(cT)\circ S = c(T \circ S) = T\circ (cS)$
 
 - Notice that all of these seem very similar to the [[Properties of Vector-Matrix Multiplication]].
-- This stems from the fact that all [[MATH115/5.*/5.1/Linear Transformations|Linear Transformations]] can be represented as matrix multiplications.
+- This stems from the fact that all [[Archive/1A/MATH115/5./5.1/Linear Transformations|Linear Transformations]] can be represented as matrix multiplications.
 
 *Examples (Excluding inline examples)* 
 ___

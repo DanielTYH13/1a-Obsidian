@@ -9,7 +9,7 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
-- The box model simplies states that every website is a combination of nested and stacked boxes:
+- The box model simply states that every website is a combination of nested and stacked boxes:
 	  ![[Pasted image 20251015153723.png|475]]
 - Each box has a few ways to modify it directly:
 	- Padding -> The distance between the box and its content

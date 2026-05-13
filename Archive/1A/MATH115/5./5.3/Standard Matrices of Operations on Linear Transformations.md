@@ -13,7 +13,7 @@ ___
 	- $[T + S] = [T] + [S]$
 	- $[cT] = c[T]$
 
-- This can be generalized, similar to [[MATH115/5.*/5.1/Linear Transformations|Linear Transformation Criteria]]:
+- This can be generalized, similar to [[Archive/1A/MATH115/5./5.1/Linear Transformations|Linear Transformation Criteria]]:
 	- For $(c_1T_{1} + \cdots + c_{n}T_{n})$:
 		- $[c_{1}T_{1}+ \cdots + c_{n}T_{n}] = c_1[T_{1}] + \cdots + c_n[T_{n}]$ 
 

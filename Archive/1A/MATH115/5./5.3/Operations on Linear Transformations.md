@@ -14,7 +14,7 @@ ___
 		- This can be rewritten as:
 			- $[T]\vec{x} + [S]\vec{x}$
 			- $\vec{x}([T] + [S])$
-		- Since $[T] + [S]$ is a matrix, the resulting transformation is linear by [[MATH115/5.*/5.1/Linear Transformations|Relating matrix and linear transformations]]
+		- Since $[T] + [S]$ is a matrix, the resulting transformation is linear by [[Archive/1A/MATH115/5./5.1/Linear Transformations|Relating matrix and linear transformations]]
 	- $(cT)(\vec{x}) = cT(\vec{x})$
 		- This is also linear for obvious reasons. 
 

@@ -5,7 +5,13 @@
       "#MATH115",
       "#MATH117",
       "#testing",
-      "#MATH147"
+      "#MATH147",
+      "#ECE124",
+      "#ECE108",
+      "#ECE106",
+      "#MATH119",
+      "#ECE140",
+      "#ECE192"
     ],
     "convertFoldersToDecks": true,
     "burySiblingCards": false,
@@ -20,9 +26,9 @@
     ],
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
-    "multilineCardSeparator": "%%  %%",
-    "multilineReversedCardSeparator": "%% 2 %%",
-    "multilineCardEndMarker": "",
+    "multilineCardSeparator": "--multi--",
+    "multilineReversedCardSeparator": "--remulti--",
+    "multilineCardEndMarker": "--emulti--",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [

@@ -9,7 +9,7 @@ sr-ease: 250
 *Key Concepts:*
 ___
 
-- The geometric multiplicity of an eigenvalue is the dimensionality of the [[eigenspaces|eigenspace]] of that eigenvalue. 
+- The geometric multiplicity of an eigenvalue is the dimensionality of the [[Eigenspaces|eigenspace]] of that eigenvalue. 
 	- Denoted as $g_{\lambda}$
 
 - You can think of geometric multiplicity as how many dimensions the space is able to span, not how many vectors are in the set. 

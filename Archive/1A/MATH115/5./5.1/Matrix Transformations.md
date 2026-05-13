@@ -18,7 +18,7 @@ ___
 	- Codomain: What set of vectors do the 'outputs' belong to. 
 		- $A \in M_{mxn}(\mathbb{R})$, then the domain will be m. [[Matrix-Vector Multiplication]]
 
-- By the conditions for [[MATH115/5.*/5.1/Linear Transformations|Linear Transformations]], then all matrix transformations must be linear transformations by [[Properties of Vector-Matrix Multiplication]].
+- By the conditions for [[Archive/1A/MATH115/5./5.1/Linear Transformations|Linear Transformations]], then all matrix transformations must be linear transformations by [[Properties of Vector-Matrix Multiplication]].
 
 *Examples (Excluding inline examples)* 
 ___

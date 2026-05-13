@@ -35,6 +35,18 @@
       "title": "Proof",
       "injectColor": true,
       "noTitle": false
+    },
+    "algorithm": {
+      "type": "algorithm",
+      "color": "56, 59, 138",
+      "icon": {
+        "name": "align-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Algorithm",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
