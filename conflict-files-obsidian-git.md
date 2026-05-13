@@ -1,0 +1,346 @@
+# Conflicts
+Please resolve them and commit them using the commands `Git: Commit all changes` followed by `Git: Push`
+(This file will automatically be deleted before commit)
+[[#Additional Instructions]] available below file list
+
+- [[Archive/1A/MATH115/1./1.1]]
+- [[Archive/1A/MATH115/1./1.2]]
+- [[Archive/1A/MATH115/1./1.3/Angles Determined by Two Vectors]]
+- [[Archive/1A/MATH115/1./1.3/Cauchy Schwarz Ineq]]
+- [[Archive/1A/MATH115/1./1.3/Dot Product]]
+- [[Archive/1A/MATH115/1./1.3/Normalization of a Vector]]
+- [[Archive/1A/MATH115/1./1.3/Scalar Multiples and Parallel Vectors]]
+- [[Archive/1A/MATH115/1./1.3/Triangle Identitiy]]
+- [[Archive/1A/MATH115/1./1.3/Triangle Identity]]
+- [[Archive/1A/MATH115/1./1.3/Unit vectors]]
+- [[Archive/1A/MATH115/1./1.4/Orthogonal Vectors]]
+- [[Archive/1A/MATH115/1./1.4/Parametric Equations]]
+- [[Archive/1A/MATH115/1./1.4/Scalar Eqns of Planes]]
+- [[Archive/1A/MATH115/1./1.4/Vector Eqns of Linear Graphical Features]]
+- [[Archive/1A/MATH115/1./1.5 - 1.6/Cross Product]]
+- [[Archive/1A/MATH115/1./1.5 - 1.6/Scalar Equation of a Plane]]
+- [[Archive/1A/MATH115/1./1.5 - 1.6/The Normal Vector of a Plane]]
+- [[Archive/1A/MATH115/1./1.7/Projections and Perpendiculars]]
+- [[Archive/1A/MATH115/2./2.1/Finding the closest distance between two lines]]
+- [[Archive/1A/MATH115/2./2.1/Systems of Linear Equations]]
+- [[Archive/1A/MATH115/2./2.2/REF and RREF Form]]
+- [[Archive/1A/MATH115/2./2.2/Solving Systems of Linear Equations]]
+- [[Archive/1A/MATH115/2./2.2/Solving an Aug. Matr. with a Zero Row]]
+- [[Archive/1A/MATH115/2./2.3/Ranks of Matrices and System Rank Theorem]]
+- [[Archive/1A/MATH115/2./2.3/Solving using REF form]]
+- [[Archive/1A/MATH115/2./2.4/Algebraic Matrices]]
+- [[Archive/1A/MATH115/2./2.4/Associated Homogenous Systems]]
+- [[Archive/1A/MATH115/2./2.4/Fundamental Properties of Matrix Algebra]]
+- [[Archive/1A/MATH115/2./2.4/Homogenous Systems of Linear Equations]]
+- [[Archive/1A/MATH115/2./2.4/Matrix Addition]]
+- [[Archive/1A/MATH115/2./2.4/Matrix Equality Theorem]]
+- [[Archive/1A/MATH115/2./2.4/Matrix's in Collumn Vector Form]]
+- [[Archive/1A/MATH115/2./2.4/Number of Solutions to a Linear System of Equations]]
+- [[Archive/1A/MATH115/2./2.4/Properties of Vector-Matrix Multiplication]]
+- [[Archive/1A/MATH115/2./2.4/Properties of the Matrix Transpose]]
+- [[Archive/1A/MATH115/2./2.4/The Identity Matrix]]
+- [[Archive/1A/MATH115/2./2.4/The Transpose of a Matrix]]
+- [[Archive/1A/MATH115/3./3.1/Linear Transformations]]
+- [[Archive/1A/MATH115/3./3.1/Matrix Transformations]]
+- [[Archive/1A/MATH115/3./3.1/Properties of Matrix Transformations]]
+- [[Archive/1A/MATH115/3./3.1/Skew Symmetry and Symmetry]]
+- [[Archive/1A/MATH115/3./3.2/Dot Product Interpretation of Matrix-Vector Products]]
+- [[Archive/1A/MATH115/3./3.2/Matrix-Vector Multiplication]]
+- [[Archive/1A/MATH115/3./3.3/Matrix Equation of a Linear System]]
+- [[Archive/1A/MATH115/3./3.4/Matrix Multiplication]]
+- [[Archive/1A/MATH115/3./3.4/Powers of a Matrix]]
+- [[Archive/1A/MATH115/3./3.4/Properties of the Matrix Product]]
+- [[Archive/1A/MATH115/3./3.5/Cancellation Laws]]
+- [[Archive/1A/MATH115/3./3.5/Matrix Inversion Algorithm]]
+- [[Archive/1A/MATH115/3./3.5/Matrix Invertibility Criteria]]
+- [[Archive/1A/MATH115/3./3.5/Properties of Matrix Inverse]]
+- [[Archive/1A/MATH115/3./3.5/The Matrix Inverse]]
+- [[Archive/1A/MATH115/4./4.1/Proving Set Equality (In particular for Spanning Sets)]]
+- [[Archive/1A/MATH115/4./4.1/Proving Subsets of Vector Sets (In particular for Spanning Sets)]]
+- [[Archive/1A/MATH115/4./4.1/Spanning Set Theorems]]
+- [[Archive/1A/MATH115/4./4.1/Spanning Sets]]
+- [[Archive/1A/MATH115/4./4.2/Dimensionality of Spanning Sets]]
+- [[Archive/1A/MATH115/4./4.2/Reduction Theorem]]
+- [[Archive/1A/MATH115/4./4.3/Extraction Theorem]]
+- [[Archive/1A/MATH115/4./4.3/Linear Dependence and Independence]]
+- [[Archive/1A/MATH115/4./4.4/Subspaces of R^n]]
+- [[Archive/1A/MATH115/4./4.5/Algorithm to find basis for the subspace U of Rn]]
+- [[Archive/1A/MATH115/4./4.5/Basis]]
+- [[Archive/1A/MATH115/4./4.5/Standard Basis for R^n]]
+- [[Archive/1A/MATH115/4./4.5/Theorem 4.5.13]]
+- [[Archive/1A/MATH115/4./4.5/Theorem 4.5.14]]
+- [[Archive/1A/MATH115/4./4.5/Theorem 4.5.15]]
+- [[Archive/1A/MATH115/4./4.5/Theorem 4.5.19]]
+- [[Archive/1A/MATH115/4./4.5/Theorem 4.5.6]]
+- [[Archive/1A/MATH115/4./4.5/Theorem 4.5.7]]
+- [[Archive/1A/MATH115/4./4.6/Column Space]]
+- [[Archive/1A/MATH115/4./4.6/Null Space]]
+- [[Archive/1A/MATH115/4./4.6/Rank-Nullity Theorem]]
+- [[Archive/1A/MATH115/5./5.1/Identity Transformation]]
+- [[Archive/1A/MATH115/5./5.1/Linear Transformations]]
+- [[Archive/1A/MATH115/5./5.1/Matrix Transformations]]
+- [[Archive/1A/MATH115/5./5.1/Zero Transformation]]
+- [[Archive/1A/MATH115/5./5.2/Geometric Examples of Linear Transformations]]
+- [[Archive/1A/MATH115/5./5.3/Composition of Linear Transformations]]
+- [[Archive/1A/MATH115/5./5.3/Fundamental Properties of Linear Transformations]]
+- [[Archive/1A/MATH115/5./5.3/Operations on Linear Transformations]]
+- [[Archive/1A/MATH115/5./5.3/Properties of Transformation Composition]]
+- [[Archive/1A/MATH115/5./5.3/Standard Matrices of Operations on Linear Transformations]]
+- [[Archive/1A/MATH115/5./5.3/Transformation Equality]]
+- [[Archive/1A/MATH115/5./5.4/Inverses of Linear Transformations]]
+- [[Archive/1A/MATH115/5./5.5/Rank Theorem with Transformations]]
+- [[Archive/1A/MATH115/5./5.5/The Kernel and the Range]]
+- [[Archive/1A/MATH115/6./6.1/Finding the Determinant Using Cofactor Expansions]]
+- [[Archive/1A/MATH115/6./6.1/The Cofactor]]
+- [[Archive/1A/MATH115/6./6.2/Elementary Row and Column Operations Affecting the Determinant]]
+- [[Archive/1A/MATH115/6./6.2/The Determinant]]
+- [[Archive/1A/MATH115/6./6.2/Upper and Lower Triangle Form]]
+- [[Archive/1A/MATH115/6./6.3/Constant Multiple Determinant]]
+- [[Archive/1A/MATH115/6./6.3/Determinant of Matrix Product]]
+- [[Archive/1A/MATH115/6./6.3/Determinant of a Matrix Inverse]]
+- [[Archive/1A/MATH115/6./6.3/Determinant of a Transpose]]
+- [[Archive/1A/MATH115/6./6.3/Shorcut for Inverse of 2x2 Matrix]]
+- [[Archive/1A/MATH115/8./8.1/Eigenvalues and Eigenvectors]]
+- [[Archive/1A/MATH115/8./8.2/Characteristic Polynomials]]
+- [[Archive/1A/MATH115/8./8.2/Finding Eigenvalues and Eigenvectors Algebraically]]
+- [[Archive/1A/MATH115/8./8.3/Algebraic Multiplicity of Eigenvalues]]
+- [[Archive/1A/MATH115/8./8.3/Eigenspaces]]
+- [[Archive/1A/MATH115/8./8.3/Geometric Multiplicity of Eigenvalues]]
+- [[Archive/1A/MATH115/8./8.3/Triangle Form Eigenvalues]]
+- [[Archive/1A/MATH115/8./8.4/Diagonalization Theorem]]
+- [[Archive/1A/MATH115/8./8.4/Diagonizability]]
+- [[Archive/1A/MATH115/8./8.4/Operations of Diagonal Matrices]]
+- [[Archive/1A/MATH115/8./8.4/Theorem 8.4.5]]
+- [[Archive/1A/MATH115/8./8.4/Theorem 8.4.6]]
+- [[Archive/1A/MATH115/8./8.5/Powers of Matrices]]
+- Not a file: MATH115/1.*/1.1.md
+- Not a file: MATH115/1.*/1.2.md
+- Not a file: MATH115/1.*/1.3/Angles Determined by Two Vectors.md
+- Not a file: MATH115/1.*/1.3/Cauchy Schwarz Ineq.md
+- Not a file: MATH115/1.*/1.3/Dot Product.md
+- Not a file: MATH115/1.*/1.3/Normalization of a Vector.md
+- Not a file: MATH115/1.*/1.3/Scalar Multiples and Parallel Vectors.md
+- Not a file: MATH115/1.*/1.3/Triangle Identitiy.md
+- Not a file: MATH115/1.*/1.3/Triangle Identity.md
+- Not a file: MATH115/1.*/1.3/Unit vectors.md
+- Not a file: MATH115/1.*/1.4/Orthogonal Vectors.md
+- Not a file: MATH115/1.*/1.4/Parametric Equations.md
+- Not a file: MATH115/1.*/1.4/Scalar Eqns of Planes.md
+- Not a file: MATH115/1.*/1.4/Vector Eqns of Linear Graphical Features.md
+- Not a file: MATH115/1.*/1.5 - 1.6/Cross Product.md
+- Not a file: MATH115/1.*/1.5 - 1.6/Scalar Equation of a Plane.md
+- Not a file: MATH115/1.*/1.5 - 1.6/The Normal Vector of a Plane.md
+- Not a file: MATH115/1.*/1.7/Projections and Perpendiculars.md
+- [[MATH115/1/1.1]]
+- [[MATH115/1/1.2]]
+- [[MATH115/1/1.3/Angles Determined by Two Vectors]]
+- [[MATH115/1/1.3/Cauchy Schwarz Ineq]]
+- [[MATH115/1/1.3/Dot Product]]
+- [[MATH115/1/1.3/Normalization of a Vector]]
+- [[MATH115/1/1.3/Scalar Multiples and Parallel Vectors]]
+- [[MATH115/1/1.3/Triangle Identitiy]]
+- [[MATH115/1/1.3/Triangle Identity]]
+- [[MATH115/1/1.3/Unit vectors]]
+- [[MATH115/1/1.4/Orthogonal Vectors]]
+- [[MATH115/1/1.4/Parametric Equations]]
+- [[MATH115/1/1.4/Scalar Eqns of Planes]]
+- [[MATH115/1/1.4/Vector Eqns of Linear Graphical Features]]
+- [[MATH115/1/1.5 - 1.6/Cross Product]]
+- [[MATH115/1/1.5 - 1.6/Scalar Equation of a Plane]]
+- [[MATH115/1/1.5 - 1.6/The Normal Vector of a Plane]]
+- [[MATH115/1/1.7/Projections and Perpendiculars]]
+- Not a file: MATH115/2.*/2.1/Finding the closest distance between two lines.md
+- Not a file: MATH115/2.*/2.1/Systems of Linear Equations.md
+- Not a file: MATH115/2.*/2.2/REF and RREF Form.md
+- Not a file: MATH115/2.*/2.2/Solving Systems of Linear Equations.md
+- Not a file: MATH115/2.*/2.2/Solving an Aug. Matr. with a Zero Row.md
+- Not a file: MATH115/2.*/2.3/Ranks of Matrices and System Rank Theorem.md
+- Not a file: MATH115/2.*/2.3/Solving using REF form.md
+- Not a file: MATH115/2.*/2.4/Algebraic Matrices.md
+- Not a file: MATH115/2.*/2.4/Associated Homogenous Systems.md
+- Not a file: MATH115/2.*/2.4/Fundamental Properties of Matrix Algebra.md
+- Not a file: MATH115/2.*/2.4/Homogenous Systems of Linear Equations.md
+- Not a file: MATH115/2.*/2.4/Matrix Addition.md
+- Not a file: MATH115/2.*/2.4/Matrix Equality Theorem.md
+- Not a file: MATH115/2.*/2.4/Matrix's in Collumn Vector Form.md
+- Not a file: MATH115/2.*/2.4/Number of Solutions to a Linear System of Equations.md
+- Not a file: MATH115/2.*/2.4/Properties of Vector-Matrix Multiplication.md
+- Not a file: MATH115/2.*/2.4/Properties of the Matrix Transpose.md
+- Not a file: MATH115/2.*/2.4/The Identity Matrix.md
+- Not a file: MATH115/2.*/2.4/The Transpose of a Matrix.md
+- [[MATH115/2/2.1/Finding the closest distance between two lines]]
+- [[MATH115/2/2.1/Systems of Linear Equations]]
+- [[MATH115/2/2.2/REF and RREF Form]]
+- [[MATH115/2/2.2/Solving Systems of Linear Equations]]
+- [[MATH115/2/2.2/Solving an Aug. Matr. with a Zero Row]]
+- [[MATH115/2/2.3/Ranks of Matrices and System Rank Theorem]]
+- [[MATH115/2/2.3/Solving using REF form]]
+- [[MATH115/2/2.4/Algebraic Matrices]]
+- [[MATH115/2/2.4/Associated Homogenous Systems]]
+- [[MATH115/2/2.4/Fundamental Properties of Matrix Algebra]]
+- [[MATH115/2/2.4/Homogenous Systems of Linear Equations]]
+- [[MATH115/2/2.4/Matrix Addition]]
+- [[MATH115/2/2.4/Matrix Equality Theorem]]
+- [[MATH115/2/2.4/Matrix's in Collumn Vector Form]]
+- [[MATH115/2/2.4/Number of Solutions to a Linear System of Equations]]
+- [[MATH115/2/2.4/Properties of Vector-Matrix Multiplication]]
+- [[MATH115/2/2.4/Properties of the Matrix Transpose]]
+- [[MATH115/2/2.4/The Identity Matrix]]
+- [[MATH115/2/2.4/The Transpose of a Matrix]]
+- Not a file: MATH115/3.*/3.1/Linear Transformations.md
+- Not a file: MATH115/3.*/3.1/Matrix Transformations.md
+- Not a file: MATH115/3.*/3.1/Properties of Matrix Transformations.md
+- Not a file: MATH115/3.*/3.1/Skew Symmetry and Symmetry.md
+- Not a file: MATH115/3.*/3.2/Dot Product Interpretation of Matrix-Vector Products.md
+- Not a file: MATH115/3.*/3.2/Matrix-Vector Multiplication.md
+- Not a file: MATH115/3.*/3.3/Matrix Equation of a Linear System.md
+- Not a file: MATH115/3.*/3.4/Matrix Multiplication.md
+- Not a file: MATH115/3.*/3.4/Powers of a Matrix.md
+- Not a file: MATH115/3.*/3.4/Properties of the Matrix Product.md
+- Not a file: MATH115/3.*/3.5/Cancellation Laws.md
+- Not a file: MATH115/3.*/3.5/Matrix Inversion Algorithm.md
+- Not a file: MATH115/3.*/3.5/Matrix Invertibility Criteria.md
+- Not a file: MATH115/3.*/3.5/Properties of Matrix Inverse.md
+- Not a file: MATH115/3.*/3.5/The Matrix Inverse.md
+- [[MATH115/3/3.1/Linear Transformations]]
+- [[MATH115/3/3.1/Matrix Transformations]]
+- [[MATH115/3/3.1/Properties of Matrix Transformations]]
+- [[MATH115/3/3.1/Skew Symmetry and Symmetry]]
+- [[MATH115/3/3.2/Dot Product Interpretation of Matrix-Vector Products]]
+- [[MATH115/3/3.2/Matrix-Vector Multiplication]]
+- [[MATH115/3/3.3/Matrix Equation of a Linear System]]
+- [[MATH115/3/3.4/Matrix Multiplication]]
+- [[MATH115/3/3.4/Powers of a Matrix]]
+- [[MATH115/3/3.4/Properties of the Matrix Product]]
+- [[MATH115/3/3.5/Cancellation Laws]]
+- [[MATH115/3/3.5/Matrix Inversion Algorithm]]
+- [[MATH115/3/3.5/Matrix Invertibility Criteria]]
+- [[MATH115/3/3.5/Properties of Matrix Inverse]]
+- [[MATH115/3/3.5/The Matrix Inverse]]
+- Not a file: MATH115/4.*/4.1/Proving Set Equality (In particular for Spanning Sets).md
+- Not a file: MATH115/4.*/4.1/Proving Subsets of Vector Sets (In particular for Spanning Sets).md
+- Not a file: MATH115/4.*/4.1/Spanning Set Theorems.md
+- Not a file: MATH115/4.*/4.1/Spanning Sets.md
+- Not a file: MATH115/4.*/4.2/Dimensionality of Spanning Sets.md
+- Not a file: MATH115/4.*/4.2/Reduction Theorem.md
+- Not a file: MATH115/4.*/4.3/Extraction Theorem.md
+- Not a file: MATH115/4.*/4.3/Linear Dependence and Independence.md
+- Not a file: MATH115/4.*/4.4/Subspaces of R^n.md
+- Not a file: MATH115/4.*/4.5/Algorithm to find basis for the subspace U of Rn.md
+- Not a file: MATH115/4.*/4.5/Basis.md
+- Not a file: MATH115/4.*/4.5/Standard Basis for R^n.md
+- Not a file: MATH115/4.*/4.5/Theorem 4.5.13.md
+- Not a file: MATH115/4.*/4.5/Theorem 4.5.14.md
+- Not a file: MATH115/4.*/4.5/Theorem 4.5.15.md
+- Not a file: MATH115/4.*/4.5/Theorem 4.5.19.md
+- Not a file: MATH115/4.*/4.5/Theorem 4.5.6.md
+- Not a file: MATH115/4.*/4.5/Theorem 4.5.7.md
+- Not a file: MATH115/4.*/4.6/Column Space.md
+- Not a file: MATH115/4.*/4.6/Null Space.md
+- Not a file: MATH115/4.*/4.6/Rank-Nullity Theorem.md
+- [[MATH115/4/4.1/Proving Set Equality (In particular for Spanning Sets)]]
+- [[MATH115/4/4.1/Proving Subsets of Vector Sets (In particular for Spanning Sets)]]
+- [[MATH115/4/4.1/Spanning Set Theorems]]
+- [[MATH115/4/4.1/Spanning Sets]]
+- [[MATH115/4/4.2/Dimensionality of Spanning Sets]]
+- [[MATH115/4/4.2/Reduction Theorem]]
+- [[MATH115/4/4.3/Extraction Theorem]]
+- [[MATH115/4/4.3/Linear Dependence and Independence]]
+- [[MATH115/4/4.4/Subspaces of R^n]]
+- [[MATH115/4/4.5/Algorithm to find basis for the subspace U of Rn]]
+- [[MATH115/4/4.5/Basis]]
+- [[MATH115/4/4.5/Standard Basis for R^n]]
+- [[MATH115/4/4.5/Theorem 4.5.13]]
+- [[MATH115/4/4.5/Theorem 4.5.14]]
+- [[MATH115/4/4.5/Theorem 4.5.15]]
+- [[MATH115/4/4.5/Theorem 4.5.19]]
+- [[MATH115/4/4.5/Theorem 4.5.6]]
+- [[MATH115/4/4.5/Theorem 4.5.7]]
+- [[MATH115/4/4.6/Column Space]]
+- [[MATH115/4/4.6/Null Space]]
+- [[MATH115/4/4.6/Rank-Nullity Theorem]]
+- Not a file: MATH115/5.*/5.1/Identity Transformation.md
+- Not a file: MATH115/5.*/5.1/Linear Transformations.md
+- Not a file: MATH115/5.*/5.1/Matrix Transformations.md
+- Not a file: MATH115/5.*/5.1/Zero Transformation.md
+- Not a file: MATH115/5.*/5.2/Geometric Examples of Linear Transformations.md
+- Not a file: MATH115/5.*/5.3/Composition of Linear Transformations.md
+- Not a file: MATH115/5.*/5.3/Fundamental Properties of Linear Transformations.md
+- Not a file: MATH115/5.*/5.3/Operations on Linear Transformations.md
+- Not a file: MATH115/5.*/5.3/Properties of Transformation Composition.md
+- Not a file: MATH115/5.*/5.3/Standard Matrices of Operations on Linear Transformations.md
+- Not a file: MATH115/5.*/5.3/Transformation Equality.md
+- Not a file: MATH115/5.*/5.4/Inverses of Linear Transformations.md
+- Not a file: MATH115/5.*/5.5/Rank Theorem with Transformations.md
+- Not a file: MATH115/5.*/5.5/The Kernel and the Range.md
+- [[MATH115/5/5.1/Identity Transformation]]
+- [[MATH115/5/5.1/Linear Transformations]]
+- [[MATH115/5/5.1/Matrix Transformations]]
+- [[MATH115/5/5.1/Zero Transformation]]
+- [[MATH115/5/5.2/Geometric Examples of Linear Transformations]]
+- [[MATH115/5/5.3/Composition of Linear Transformations]]
+- [[MATH115/5/5.3/Fundamental Properties of Linear Transformations]]
+- [[MATH115/5/5.3/Operations on Linear Transformations]]
+- [[MATH115/5/5.3/Properties of Transformation Composition]]
+- [[MATH115/5/5.3/Standard Matrices of Operations on Linear Transformations]]
+- [[MATH115/5/5.3/Transformation Equality]]
+- [[MATH115/5/5.4/Inverses of Linear Transformations]]
+- [[MATH115/5/5.5/Rank Theorem with Transformations]]
+- [[MATH115/5/5.5/The Kernel and the Range]]
+- Not a file: MATH115/6.*/6.1/Finding the Determinant Using Cofactor Expansions.md
+- Not a file: MATH115/6.*/6.1/The Cofactor.md
+- Not a file: MATH115/6.*/6.2/Elementary Row and Column Operations Affecting the Determinant.md
+- Not a file: MATH115/6.*/6.2/The Determinant.md
+- Not a file: MATH115/6.*/6.2/Upper and Lower Triangle Form.md
+- Not a file: MATH115/6.*/6.3/Constant Multiple Determinant.md
+- Not a file: MATH115/6.*/6.3/Determinant of Matrix Product.md
+- Not a file: MATH115/6.*/6.3/Determinant of a Matrix Inverse.md
+- Not a file: MATH115/6.*/6.3/Determinant of a Transpose.md
+- Not a file: MATH115/6.*/6.3/Shorcut for Inverse of 2x2 Matrix.md
+- [[MATH115/6/6.1/Finding the Determinant Using Cofactor Expansions]]
+- [[MATH115/6/6.1/The Cofactor]]
+- [[MATH115/6/6.2/Elementary Row and Column Operations Affecting the Determinant]]
+- [[MATH115/6/6.2/The Determinant]]
+- [[MATH115/6/6.2/Upper and Lower Triangle Form]]
+- [[MATH115/6/6.3/Constant Multiple Determinant]]
+- [[MATH115/6/6.3/Determinant of Matrix Product]]
+- [[MATH115/6/6.3/Determinant of a Matrix Inverse]]
+- [[MATH115/6/6.3/Determinant of a Transpose]]
+- [[MATH115/6/6.3/Shorcut for Inverse of 2x2 Matrix]]
+- Not a file: MATH115/8.*/8.1/Eigenvalues and Eigenvectors.md
+- Not a file: MATH115/8.*/8.2/Characteristic Polynomials.md
+- Not a file: MATH115/8.*/8.2/Finding Eigenvalues and Eigenvectors Algebraically.md
+- Not a file: MATH115/8.*/8.3/Algebraic Multiplicity of Eigenvalues.md
+- Not a file: MATH115/8.*/8.3/Eigenspaces.md
+- Not a file: MATH115/8.*/8.3/Geometric Multiplicity of Eigenvalues.md
+- Not a file: MATH115/8.*/8.3/Triangle Form Eigenvalues.md
+- Not a file: MATH115/8.*/8.4/Diagonalization Theorem.md
+- Not a file: MATH115/8.*/8.4/Diagonizability.md
+- Not a file: MATH115/8.*/8.4/Operations of Diagonal Matrices.md
+- Not a file: MATH115/8.*/8.4/Theorem 8.4.5.md
+- Not a file: MATH115/8.*/8.4/Theorem 8.4.6.md
+- Not a file: MATH115/8.*/8.5/Powers of Matrices.md
+- [[MATH115/8/8.1/Eigenvalues and Eigenvectors]]
+- [[MATH115/8/8.2/Characteristic Polynomials]]
+- [[MATH115/8/8.2/Finding Eigenvalues and Eigenvectors Algebraically]]
+- [[MATH115/8/8.3/Algebraic Multiplicity of Eigenvalues]]
+- [[MATH115/8/8.3/Eigenspaces]]
+- [[MATH115/8/8.3/Geometric Multiplicity of Eigenvalues]]
+- [[MATH115/8/8.3/Triangle Form Eigenvalues]]
+- [[MATH115/8/8.4/Diagonalization Theorem]]
+- [[MATH115/8/8.4/Diagonizability]]
+- [[MATH115/8/8.4/Operations of Diagonal Matrices]]
+- [[MATH115/8/8.4/Theorem 8.4.5]]
+- [[MATH115/8/8.4/Theorem 8.4.6]]
+- [[MATH115/8/8.5/Powers of Matrices]]
+
+# Additional Instructions
+I strongly recommend to use "Source mode" for viewing the conflicted files. For simple conflicts, in each file listed above replace every occurrence of the following text blocks with the desired text.
+
+```diff
+<<<<<<< HEAD
+    File changes in local repository
+=======
+    File changes in remote repository
+>>>>>>> origin/main
+```

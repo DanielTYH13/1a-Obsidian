@@ -5,3 +5,4 @@
 4. "Teach" by creating notes in obsidian that read like a lecture.
 5. Review said notes based on the forgetting curve by "teaching" yourself using the feynman method.
 
+test AH
