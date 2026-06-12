@@ -35,7 +35,9 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "**/*.excalidraw.md"
+      "**/*.excalidraw.md",
+      "Archive/**",
+      "Templates/**"
     ],
     "openRandomNote": false,
     "autoNextNote": false,

@@ -4,24 +4,361 @@
     "type": "split",
     "children": [
       {
-        "id": "352489bdaf19fd88",
+        "id": "466445a4ea03989f",
         "type": "tabs",
         "children": [
           {
-            "id": "279e23524d89762a",
+            "id": "82dfdd810224e8b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Unit 1/Binary Logical Functions.md",
+                "file": "ECE124/Basic Logical Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Logical Functions"
+              "title": "Basic Logical Operators"
+            }
+          },
+          {
+            "id": "19df952b6371af08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Sum of Products.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sum of Products"
+            }
+          },
+          {
+            "id": "f1d6159c61a3856c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Product of Sums.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product of Sums"
+            }
+          },
+          {
+            "id": "9f66f47a0d956391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Minterms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Minterms"
+            }
+          },
+          {
+            "id": "2e49db21b69a79bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Product of Sums.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product of Sums"
+            }
+          },
+          {
+            "id": "9e7af2d5fec1fda2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/XOR .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XOR"
+            }
+          },
+          {
+            "id": "362814cceb0c5342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Karnaugh Maps (SOP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Karnaugh Maps (SOP)"
+            }
+          },
+          {
+            "id": "7ed30079cbd2af80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/K-Maps for POS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K-Maps for POS"
+            }
+          },
+          {
+            "id": "df78b94f4114e074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Incompletely specific functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Incompletely specific functions"
+            }
+          },
+          {
+            "id": "57ee4f14b84b1d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/KVL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KVL"
+            }
+          },
+          {
+            "id": "a2fa9d29c9cfaccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/Voltage Divider.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Voltage Divider"
+            }
+          },
+          {
+            "id": "c1cc8410b00adf38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/Current Divider.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Current Divider"
+            }
+          },
+          {
+            "id": "ccbcb527bb4e642c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/Wheatstone Bridge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wheatstone Bridge"
+            }
+          },
+          {
+            "id": "4eb6bdd89d16e305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/Mesh Current Method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mesh Current Method"
+            }
+          },
+          {
+            "id": "4b4dc8ee8ce54dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/Norton and Thevenin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norton and Thevenin"
+            }
+          },
+          {
+            "id": "5045381da4357d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/Thevenin Voltage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thevenin Voltage"
+            }
+          },
+          {
+            "id": "c677c0202ee921fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/V = IR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V = IR"
+            }
+          },
+          {
+            "id": "675cac85acf3e753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/Thevenin Voltage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thevenin Voltage"
+            }
+          },
+          {
+            "id": "158a9d84e4156956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE140/Superposition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Superposition"
+            }
+          },
+          {
+            "id": "6529535fa8d3a77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH119/Limits of Multivariate Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limits of Multivariate Functions"
+            }
+          },
+          {
+            "id": "de3ceae60646ce39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE106/General Infinitesimal Displacement Vector.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Infinitesimal Displacement Vector"
+            }
+          },
+          {
+            "id": "720a4ef0cd4e822a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Minterms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Minterms"
+            }
+          },
+          {
+            "id": "606f78896feb8803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH119/Converting to Polar Coordinates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Converting to Polar Coordinates"
+            }
+          },
+          {
+            "id": "87c9a1d7dd8732dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH119/Double Integral Change of Variable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Double Integral Change of Variable"
+            }
+          },
+          {
+            "id": "bd891b3d6d360692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH119/Double Integral Change of Variable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Double Integral Change of Variable"
             }
           }
-        ]
+        ],
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -157,12 +494,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
             "id": "b9107765fe066452",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "69e2d8ffc5f46171",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -181,67 +528,67 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "templates:Insert template": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "279e23524d89762a",
+  "active": "bd891b3d6d360692",
   "lastOpenFiles": [
+    "MATH119/Converting to Polar Coordinates.md",
+    "MATH119/Derivation of a Plane.md",
+    "MATH119/Double Integral Change of Variable.md",
+    "MATH119/2d and 3d Integrals with different methods.md",
+    "MATH119/Clairauts Theorem.md",
+    "Attachments/Pasted image 20260612134046.png",
+    "ECE124/Minterms.md",
+    "ECE124/Sum of Products.md",
+    "MATH119/Tangent Planes.md",
+    "ECE124/Product of Sums.md",
+    "ECE140/Norton and Thevenin.md",
+    "Attachments/Pasted image 20260611221956.png",
+    "ECE140/Mesh Current Method.md",
+    "ECE140/Node Voltage Method.md",
+    "ECE140/Thevenin Voltage or Open Circuit Voltage.md",
+    "ECE140/Norton current or Short Circuit Current.md",
+    "MATH119/Lagrange's Method.md",
+    "ECE106/General Infinitesimal Displacement Vector.md",
+    "Attachments/Pasted image 20260607195859.png",
+    "MATH119/Limits of Multivariate Functions.md",
+    "ECE140/Finding R_th with Sources.md",
+    "Attachments/Pasted image 20260606140233.png",
+    "ECE140/Superposition.md",
+    "Attachments/Pasted image 20260606135838.png",
+    "Attachments/Pasted image 20260606132818.png",
+    "ECE140/V = IR.md",
+    "ECE140/Definition of a Node.md",
+    "ECE140/Definition of Core Units.md",
+    "ECE140/Wheatstone Bridge.md",
+    "Attachments/Pasted image 20260530160100.png",
+    "ECE140/Current Divider.md",
+    "Attachments/Pasted image 20260530154859.png",
+    "ECE140/Voltage Divider.md",
+    "Attachments/Pasted image 20260530153831.png",
+    "Attachments/Pasted image 20260530153530.png",
+    "ECE140/Voltage sources vs Current Sources.md",
+    "Textbooks/Electric Circuits, 12e (James Nilsson, Susan Riedel) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "Untitled",
+    "ECE140",
+    "MATH119",
+    "ECE106",
+    "ECE108",
+    "Textbooks",
     "Untitled 2.base",
     "Untitled 3.base",
     "Untitled 1.base",
-    "Untitled.base",
-    "conflict-files-obsidian-git.md",
-    "Archive/1A/MATH115/1./1.1.md",
-    "ECE124/Unit 1/Binary Logical Functions.md",
-    "Archive/MATH115/8/8.5/Powers of Matrices.md",
-    "Archive/MATH115/8/8.4/Theorem 8.4.6.md",
-    "Archive/MATH115/8/8.4/Theorem 8.4.5.md",
-    "Archive/MATH115/8/8.4/Operations of Diagonal Matrices.md",
-    "Archive/MATH115/8/8.4/Diagonizability.md",
-    "Archive/MATH115/8/8.4/Diagonalization Theorem.md",
-    "Archive/MATH115/8/8.3/Triangle Form Eigenvalues.md",
-    "Archive/MATH115/8/8.3/Geometric Multiplicity of Eigenvalues.md",
-    "Archive/MATH115/8/8.3/Eigenspaces.md",
-    "Archive/MATH115/8/8.3/Algebraic Multiplicity of Eigenvalues.md",
-    "Archive/MATH115/8/8.2/Finding Eigenvalues and Eigenvectors Algebraically.md",
-    "Archive/MATH115/8/8.2/Characteristic Polynomials.md",
-    "Archive/MATH115/8/8.1/Eigenvalues and Eigenvectors.md",
-    "Archive/MATH115/8/8.5",
-    "Archive/MATH115/8/8.4",
-    "Archive/MATH115/8/8.3",
-    "Archive/MATH115/8/8.2",
-    "Archive/MATH115/8/8.1",
-    "Archive/MATH115/8",
-    "Archive/MATH115/6/6.3/Shorcut for Inverse of 2x2 Matrix.md",
-    "Archive/MATH115/6/6.3/Determinant of a Transpose.md",
-    "Archive/MATH115/6/6.3/Determinant of a Matrix Inverse.md",
-    "Archive/MATH115/6/6.3/Determinant of Matrix Product.md",
-    "Archive/MATH115/6/6.3/Constant Multiple Determinant.md",
-    "Archive/MATH115/6/6.2/Upper and Lower Triangle Form.md",
-    "Archive/MATH115/6/6.2/The Determinant.md",
-    "Archive/MATH115/6/6.2/Elementary Row and Column Operations Affecting the Determinant.md",
-    "Archive/MATH115/6/6.1/The Cofactor.md",
-    "Archive/MATH115/6/6.3",
-    "Attachments/Pasted image 20260123070916.png",
-    "Attachments/Pasted image 20260122150751.png",
-    "Attachments/Pasted image 20260122144140.png",
-    "Attachments/Pasted image 20260122144135.png",
-    "Attachments/Pasted image 20260121170648.png",
-    "Attachments/Pasted image 20260121170646.png",
-    "Attachments/Pasted image 20260121170639.png",
-    "Attachments/Pasted image 20260121170626.png",
-    "Attachments/Pasted image 20251225173021.png",
-    "Attachments/Pasted image 20251210195757.png",
     "MATH115/Untitled.canvas",
     "ECE150/Untitled.canvas"
   ]
