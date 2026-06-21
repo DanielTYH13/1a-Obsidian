@@ -8,357 +8,413 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82dfdd810224e8b5",
+            "id": "222e13ea3f4d1e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Basic Logical Operators.md",
+                "file": "ECE106/Deriving Total Electric Field along Normal of a Disk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Logical Operators"
+              "title": "Deriving Total Electric Field along Normal of a Disk"
             }
           },
           {
-            "id": "19df952b6371af08",
+            "id": "46d87ba682ec43c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Sum of Products.md",
+                "file": "ECE106/Capacitors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sum of Products"
+              "title": "Capacitors"
             }
           },
           {
-            "id": "f1d6159c61a3856c",
+            "id": "092937ba7db6dc87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Product of Sums.md",
+                "file": "ECE106/Capacitor Equivalence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product of Sums"
+              "title": "Capacitor Equivalence"
             }
           },
           {
-            "id": "9f66f47a0d956391",
+            "id": "7ee559af4c762c7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Minterms.md",
+                "file": "ECE106/Capacitance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minterms"
+              "title": "Capacitance"
             }
           },
           {
-            "id": "2e49db21b69a79bb",
+            "id": "19653056f8beb89e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Product of Sums.md",
+                "file": "ECE106/Spherical Capacitors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product of Sums"
+              "title": "Spherical Capacitors"
             }
           },
           {
-            "id": "9e7af2d5fec1fda2",
+            "id": "47a3d7619264ba4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/XOR .md",
+                "file": "ECE106/Spherical Capacitors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XOR"
+              "title": "Spherical Capacitors"
             }
           },
           {
-            "id": "362814cceb0c5342",
+            "id": "ce5d0bac3d842cf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Karnaugh Maps (SOP).md",
+                "file": "ECE106/Field lines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Karnaugh Maps (SOP)"
+              "title": "Field lines"
             }
           },
           {
-            "id": "7ed30079cbd2af80",
+            "id": "c35a06a9fae549d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/K-Maps for POS.md",
+                "file": "ECE106/Parallel Plate Capacitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-Maps for POS"
+              "title": "Parallel Plate Capacitor"
             }
           },
           {
-            "id": "df78b94f4114e074",
+            "id": "aaa239f47ded6636",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Incompletely specific functions.md",
+                "file": "ECE106/Voltages of Conducting material.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incompletely specific functions"
+              "title": "Voltages of Conducting material"
             }
           },
           {
-            "id": "57ee4f14b84b1d5f",
+            "id": "7e777df1ea06421a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/KVL.md",
+                "file": "ECE106/Deriving Total Electric Field along Normal of a Disk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KVL"
+              "title": "Deriving Total Electric Field along Normal of a Disk"
             }
           },
           {
-            "id": "a2fa9d29c9cfaccc",
+            "id": "f76a5807e449b578",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/Voltage Divider.md",
+                "file": "ECE106/Boundary Conditions on Interface Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Voltage Divider"
+              "title": "Boundary Conditions on Interface Layer"
             }
           },
           {
-            "id": "c1cc8410b00adf38",
+            "id": "d450de09d00f1b05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/Current Divider.md",
+                "file": "ECE106/Boundary Conditions for Normal Fields on Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Divider"
+              "title": "Boundary Conditions for Normal Fields on Interface"
             }
           },
           {
-            "id": "ccbcb527bb4e642c",
+            "id": "ebc87df87cf56556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/Wheatstone Bridge.md",
+                "file": "ECE106/Current.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wheatstone Bridge"
+              "title": "Current"
             }
           },
           {
-            "id": "4eb6bdd89d16e305",
+            "id": "2d3567c7de4d4547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/Mesh Current Method.md",
+                "file": "ECE124/Asynchronous TFF counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mesh Current Method"
+              "title": "Asynchronous TFF counter"
             }
           },
           {
-            "id": "4b4dc8ee8ce54dcc",
+            "id": "24ae0146158ca1e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/Norton and Thevenin.md",
+                "file": "ECE124/Synchronous TFF counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Norton and Thevenin"
+              "title": "Synchronous TFF counter"
             }
           },
           {
-            "id": "5045381da4357d3c",
+            "id": "ccf3a25d7a5eef56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/Thevenin Voltage.md",
+                "file": "ECE124/DFF based counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thevenin Voltage"
+              "title": "DFF based counter"
             }
           },
           {
-            "id": "c677c0202ee921fb",
+            "id": "442e9459dfaff541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/V = IR.md",
+                "file": "ECE124/Parallel Load Counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V = IR"
+              "title": "Parallel Load Counter"
             }
           },
           {
-            "id": "675cac85acf3e753",
+            "id": "a83eb2eda3ea1062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/Thevenin Voltage.md",
+                "file": "ECE124/Modulo Counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thevenin Voltage"
+              "title": "Modulo Counter"
             }
           },
           {
-            "id": "158a9d84e4156956",
+            "id": "718ba20a726a79df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/Superposition.md",
+                "file": "ECE124/Johnson Counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Superposition"
+              "title": "Johnson Counter"
             }
           },
           {
-            "id": "6529535fa8d3a77e",
+            "id": "1ec6ae4691e7dabd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH119/Limits of Multivariate Functions.md",
+                "file": "ECE124/Ring Counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limits of Multivariate Functions"
+              "title": "Ring Counter"
             }
           },
           {
-            "id": "de3ceae60646ce39",
+            "id": "58e3dbdd9d527473",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/General Infinitesimal Displacement Vector.md",
+                "file": "ECE124/Counter Encoding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Infinitesimal Displacement Vector"
+              "title": "Counter Encoding"
             }
           },
           {
-            "id": "720a4ef0cd4e822a",
+            "id": "7a2b0fae69660cd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Minterms.md",
+                "file": "ECE106/Addition of Voltages due to Point Charges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minterms"
+              "title": "Addition of Voltages due to Point Charges"
             }
           },
           {
-            "id": "606f78896feb8803",
+            "id": "36da154fa4bda39a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH119/Converting to Polar Coordinates.md",
+                "file": "ECE106/Conductors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Converting to Polar Coordinates"
+              "title": "Conductors"
             }
           },
           {
-            "id": "87c9a1d7dd8732dd",
+            "id": "a76a7b832d5bdf35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH119/Double Integral Change of Variable.md",
+                "file": "ECE106/Conductors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Double Integral Change of Variable"
+              "title": "Conductors"
             }
           },
           {
-            "id": "bd891b3d6d360692",
+            "id": "ca0ca132880a3d2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH119/Double Integral Change of Variable.md",
+                "file": "ECE106/Conductors with Cavities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Double Integral Change of Variable"
+              "title": "Conductors with Cavities"
+            }
+          },
+          {
+            "id": "f4600174eeb6c225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE106/Conductors with Cavities and External Applied Field.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conductors with Cavities and External Applied Field"
+            }
+          },
+          {
+            "id": "922c14b8bb9a177b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE106/Conductors with Cavities and Internal Applied Field.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conductors with Cavities and Internal Applied Field"
+            }
+          },
+          {
+            "id": "b3104a967afd2e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE106/Capacitor Equivalence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capacitor Equivalence"
+            }
+          },
+          {
+            "id": "022f1b1fb02c7eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE106/Conservative Fields.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conservative Fields"
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -517,13 +573,24 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "d97780bd40bd7b13",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -538,47 +605,50 @@
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "bd891b3d6d360692",
+  "active": "022f1b1fb02c7eb8",
   "lastOpenFiles": [
-    "MATH119/Converting to Polar Coordinates.md",
-    "MATH119/Derivation of a Plane.md",
-    "MATH119/Double Integral Change of Variable.md",
-    "MATH119/2d and 3d Integrals with different methods.md",
-    "MATH119/Clairauts Theorem.md",
-    "Attachments/Pasted image 20260612134046.png",
-    "ECE124/Minterms.md",
-    "ECE124/Sum of Products.md",
-    "MATH119/Tangent Planes.md",
-    "ECE124/Product of Sums.md",
-    "ECE140/Norton and Thevenin.md",
-    "Attachments/Pasted image 20260611221956.png",
-    "ECE140/Mesh Current Method.md",
-    "ECE140/Node Voltage Method.md",
-    "ECE140/Thevenin Voltage or Open Circuit Voltage.md",
-    "ECE140/Norton current or Short Circuit Current.md",
-    "MATH119/Lagrange's Method.md",
-    "ECE106/General Infinitesimal Displacement Vector.md",
-    "Attachments/Pasted image 20260607195859.png",
-    "MATH119/Limits of Multivariate Functions.md",
-    "ECE140/Finding R_th with Sources.md",
-    "Attachments/Pasted image 20260606140233.png",
-    "ECE140/Superposition.md",
-    "Attachments/Pasted image 20260606135838.png",
-    "Attachments/Pasted image 20260606132818.png",
-    "ECE140/V = IR.md",
-    "ECE140/Definition of a Node.md",
-    "ECE140/Definition of Core Units.md",
-    "ECE140/Wheatstone Bridge.md",
-    "Attachments/Pasted image 20260530160100.png",
-    "ECE140/Current Divider.md",
-    "Attachments/Pasted image 20260530154859.png",
-    "ECE140/Voltage Divider.md",
-    "Attachments/Pasted image 20260530153831.png",
-    "Attachments/Pasted image 20260530153530.png",
-    "ECE140/Voltage sources vs Current Sources.md",
+    "ECE106/Capacitor Equivalence.md",
+    "ECE106/Conservative Fields.md",
+    "ECE106/Capacitance.md",
+    "ECE106/Capacitors.md",
+    "ECE106/Parallel Plate Capacitor.md",
+    "ECE106/Ground.md",
+    "ECE106/Cylindrical Capacitor.md",
+    "Attachments/Pasted image 20260621173317.png",
+    "ECE106/Conductors with Cavities and Internal Applied Field.md",
+    "Attachments/Pasted image 20260621172852.png",
+    "Attachments/Pasted image 20260621172658.png",
+    "ECE106/Conductors with Cavities and External Applied Field.md",
+    "ECE106/Coulomb's Law.md",
+    "ECE106/Conductors with Cavities.md",
+    "Attachments/Pasted image 20260621170419.png",
+    "Attachments/Pasted image 20260621165834.png",
+    "Attachments/Pasted image 20260621164449.png",
+    "ECE106/Conductors.md",
+    "ECE106/Conductor Assumptions.md",
+    "ECE106/Addition of Voltages due to Point Charges.md",
+    "ECE124/Counter Encoding.md",
+    "ECE124/Ring Counter.md",
+    "ECE124/Johnson Counter.md",
+    "Attachments/Pasted image 20260620185302.png",
+    "ECE124/Modulo Counter.md",
+    "Attachments/Pasted image 20260620185057.png",
+    "ECE124/Parallel Load Counter.md",
+    "Attachments/Pasted image 20260620184937.png",
+    "ECE124/DFF based counter.md",
+    "Attachments/Pasted image 20260620184726.png",
+    "ECE124/Synchronous TFF counter.md",
+    "ECE124/Asynchronous TFF counter.md",
+    "ECE106/Current.md",
+    "ECE106/Boundary Conditions for Normal Fields on Interface.md",
+    "ECE106/Boundary Conditions on Interface Layer.md",
+    "ECE106/Deriving Total Electric Field along Normal of a Disk.md",
+    "ECE140/Equating Thevenin ",
+    "ECE140/Power Absorption ",
     "Textbooks/Electric Circuits, 12e (James Nilsson, Susan Riedel) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "Untitled",
     "ECE140",
@@ -587,8 +657,6 @@
     "ECE108",
     "Textbooks",
     "Untitled 2.base",
-    "Untitled 3.base",
-    "Untitled 1.base",
     "MATH115/Untitled.canvas",
     "ECE150/Untitled.canvas"
   ]
