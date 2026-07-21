@@ -2,8 +2,8 @@
 tags:
   - review
   - ECE140
-sr-due: 2025-09-20
-sr-interval: 3
+sr-due: 2026-10-03
+sr-interval: 100
 sr-ease: 250
 TARGET DECK: ECE 140
 ---

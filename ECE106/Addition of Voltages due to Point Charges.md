@@ -22,6 +22,8 @@ Unlike the E field, relative position of the point charges does not matter. This
 
 A good way of thinking of this is that at infinity, all points, no matter their positioning or distance form each other, look like a single point charge with Q = Q_1 + Q_2 + ... + Q_n.
 
+Moreover, infinity is the same at all points regardless of the direction. 
+
 *Examples (Excluding inline examples)* 
 ___
 

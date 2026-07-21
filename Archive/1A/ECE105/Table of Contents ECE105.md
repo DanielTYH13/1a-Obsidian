@@ -20,8 +20,7 @@ let counter = 1;
 dv.list(pages.map(p => `${counter++}. ${p.file.link}`));
 ```
 ___
-
-*Sorted by order or sr-due*:
+ *Sorted by order or sr-due*:
 ```dataviewjs
 // 1. Define your tag and the note to exclude
 const tag = "#ECE105";

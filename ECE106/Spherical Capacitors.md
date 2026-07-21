@@ -20,7 +20,7 @@ Which is exactly Coulomb's law, which makes sense because Gauss's law only depen
 
 The voltage for a spherical capacitor is given by: 
 
-$\Delta V = -\frac{Q}{4\pi \epsilon}(\frac{a-b}{ab})$
+$\Delta V = -\frac{Q}{4\pi \epsilon}(\frac{b-a}{ab})$
 
 ---
 

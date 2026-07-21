@@ -28,7 +28,7 @@ Since E is parallel with r, and constant.
 
 Capacitance of a parallel plate capacitor is given by:
 
-$C = \frac{Q \epsilon}{r}$
+$C = \frac{A\epsilon}{r}$
 
 *Examples (Excluding inline examples)* 
 ___

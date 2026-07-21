@@ -9,7 +9,7 @@ TARGET DECK: ECE106 U1
 ---
 *Key Concepts:*
 ___
-For a disk charge, if Z >> 0, the E field can be approximated as:
+For a disk charge, if Z >> r, the E field can be approximated as:
 
 $\vec{E} = \frac{Q}{4 \pi \epsilon_{0} z^2}$
 

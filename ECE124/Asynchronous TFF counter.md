@@ -2,8 +2,8 @@
 tags:
   - review
   - ECE124
-sr-due: 2025-09-20
-sr-interval: 3
+sr-due: 2026-09-30
+sr-interval: 100
 sr-ease: 250
 TARGET DECK: ECE124 U1
 ---
@@ -23,7 +23,7 @@ The only TFF that changes every time is the initial one, which matches with coun
 Once all inputs are at 1, there will be a cascade that causes the TFFs to reset to 0.
 
 ---
-The down counter is identical, except that there are not gates at the outputs. 
+The down counter is identical, except that you use $\overline{Q}$ the outputs. 
 
 *Examples (Excluding inline examples)* 
 ___

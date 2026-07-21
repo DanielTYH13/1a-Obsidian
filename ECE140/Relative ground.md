@@ -14,7 +14,7 @@ In some cases, you may not know where the true ground is (0V). Regardless, you a
 
 For example, in the following case:
 
-![[Pasted image 20260614162755.png]]
+![[Pasted image 20260625180819.png]]
 
 if you choose the negative terminal at v_g, then you can calculate voltage relative to that point along i_a and the 80v source. 
 

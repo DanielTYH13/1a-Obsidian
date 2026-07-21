@@ -2,8 +2,8 @@
 tags:
   - review
   - ECE124
-sr-due: 2025-09-20
-sr-interval: 3
+sr-due: 2026-09-30
+sr-interval: 100
 sr-ease: 250
 TARGET DECK: ECE124 U1
 ---
@@ -14,6 +14,8 @@ For any boolean function of n variables, a maxterm is a sum where all variables 
 
 It is called a maxterm as it allows the maximum flexibility. All combinations are true except for when all arguments are false. 
 - By definition, the maxterm of any given input pattern should be 0 for that input pattern. 
+
+Maxterms start without nots. 
 
 The product of many sums recreates a function by allowing all inputs except for those which produce false. [[Product of Sums]].
 

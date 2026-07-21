@@ -25,7 +25,11 @@ We can then integrate all du wrt to dq to get total $\Delta U$ from neutral to c
 
 $\Delta U = \displaystyle \int^Q_{0} \frac{q}{c} dq = \frac{1}{2} \frac{Q^2}{c}$
 
-Where Q is defined as $v_{max}c$, typically set by the supplied voltage at the equipotential terminals. 
+Where Q is defined as $v_{max}c$, typically set by the supplied voltage at the equipotential terminals.
+
+Thus, we have 
+
+$\Delta U = \frac{1}{2}c v^2$
 
 *Examples (Excluding inline examples)* 
 ___

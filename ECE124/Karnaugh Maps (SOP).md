@@ -2,8 +2,8 @@
 tags:
   - review
   - ECE124
-sr-due: 2025-09-20
-sr-interval: 3
+sr-due: 2026-09-30
+sr-interval: 100
 sr-ease: 250
 TARGET DECK: ECE124 U1
 ---
@@ -21,6 +21,8 @@ For K-maps above 2 variables, the gray's code is used to list the variable value
 You can group variables that are on the sides of k-maps.
 
 For 5 variable k maps, you just imagine 2 4 variable k-maps, where x_5 = 0 for one and x_5 = 1 for the other.
+
+Very importantly, you can merge groups together such that they have overlap. You only need the union of the function, it doesn't have to be only one term true at a time (Purpose of the OR)
 
 *Examples (Excluding inline examples)* 
 ___

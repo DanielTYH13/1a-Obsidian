@@ -4,417 +4,179 @@
     "type": "split",
     "children": [
       {
-        "id": "466445a4ea03989f",
+        "id": "6f78c374935423dc",
         "type": "tabs",
         "children": [
           {
-            "id": "222e13ea3f4d1e1f",
+            "id": "3bd1b8b34c57e111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Deriving Total Electric Field along Normal of a Disk.md",
+                "file": "Templates/ECE106 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deriving Total Electric Field along Normal of a Disk"
+              "title": "ECE106 Note"
             }
           },
           {
-            "id": "46d87ba682ec43c1",
+            "id": "37296efc68fd8163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Capacitors.md",
+                "file": "ECE106/Force due to Magnetic Field.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacitors"
+              "title": "Force due to Magnetic Field"
             }
           },
           {
-            "id": "092937ba7db6dc87",
+            "id": "d5bd35ae37725499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Capacitor Equivalence.md",
+                "file": "ECE106/Right Hand Representation of the Cross Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacitor Equivalence"
+              "title": "Right Hand Representation of the Cross Product"
             }
           },
           {
-            "id": "7ee559af4c762c7c",
+            "id": "bbc3f3d80ec21a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Capacitance.md",
+                "file": "ECE106/Biot Savart Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacitance"
+              "title": "Biot Savart Law"
             }
           },
           {
-            "id": "19653056f8beb89e",
+            "id": "91c8cedddb32ee9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Spherical Capacitors.md",
+                "file": "ECE106/Integration the Biot Savart Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spherical Capacitors"
+              "title": "Integration the Biot Savart Law"
             }
           },
           {
-            "id": "47a3d7619264ba4c",
+            "id": "e688ce61fb0bd029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Spherical Capacitors.md",
+                "file": "ECE106/Magnetic Dipole Moment of a Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spherical Capacitors"
+              "title": "Magnetic Dipole Moment of a Loop"
             }
           },
           {
-            "id": "ce5d0bac3d842cf4",
+            "id": "b4105c7f4ad8f3ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Field lines.md",
+                "file": "ECE106/Magnetic Field of a Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Field lines"
+              "title": "Magnetic Field of a Loop"
             }
           },
           {
-            "id": "c35a06a9fae549d6",
+            "id": "38af956405966439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Parallel Plate Capacitor.md",
+                "file": "ECE124/Mealy Machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parallel Plate Capacitor"
+              "title": "Mealy Machine"
             }
           },
           {
-            "id": "aaa239f47ded6636",
+            "id": "5e60c399c6e7679d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Voltages of Conducting material.md",
+                "file": "ECE140/State Reduction via Paritioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Voltages of Conducting material"
+              "title": "State Reduction via Paritioning"
             }
           },
           {
-            "id": "7e777df1ea06421a",
+            "id": "c7c84abe0fda5167",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Deriving Total Electric Field along Normal of a Disk.md",
+                "file": "ECE140/Sequential circuits using non DFF storage elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deriving Total Electric Field along Normal of a Disk"
+              "title": "Sequential circuits using non DFF storage elements"
             }
           },
           {
-            "id": "f76a5807e449b578",
+            "id": "5d152dfc0e21f399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Boundary Conditions on Interface Layer.md",
+                "file": "ECE124/Stable State.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boundary Conditions on Interface Layer"
+              "title": "Stable State"
             }
           },
           {
-            "id": "d450de09d00f1b05",
+            "id": "ccb2bcb60a441999",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Boundary Conditions for Normal Fields on Interface.md",
+                "file": "ECE124/Compatible States.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boundary Conditions for Normal Fields on Interface"
-            }
-          },
-          {
-            "id": "ebc87df87cf56556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE106/Current.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Current"
-            }
-          },
-          {
-            "id": "2d3567c7de4d4547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE124/Asynchronous TFF counter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Asynchronous TFF counter"
-            }
-          },
-          {
-            "id": "24ae0146158ca1e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE124/Synchronous TFF counter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Synchronous TFF counter"
-            }
-          },
-          {
-            "id": "ccf3a25d7a5eef56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE124/DFF based counter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DFF based counter"
-            }
-          },
-          {
-            "id": "442e9459dfaff541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE124/Parallel Load Counter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parallel Load Counter"
-            }
-          },
-          {
-            "id": "a83eb2eda3ea1062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE124/Modulo Counter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo Counter"
-            }
-          },
-          {
-            "id": "718ba20a726a79df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE124/Johnson Counter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Johnson Counter"
-            }
-          },
-          {
-            "id": "1ec6ae4691e7dabd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE124/Ring Counter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ring Counter"
-            }
-          },
-          {
-            "id": "58e3dbdd9d527473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE124/Counter Encoding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Counter Encoding"
-            }
-          },
-          {
-            "id": "7a2b0fae69660cd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE106/Addition of Voltages due to Point Charges.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Addition of Voltages due to Point Charges"
-            }
-          },
-          {
-            "id": "36da154fa4bda39a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE106/Conductors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conductors"
-            }
-          },
-          {
-            "id": "a76a7b832d5bdf35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE106/Conductors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conductors"
-            }
-          },
-          {
-            "id": "ca0ca132880a3d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE106/Conductors with Cavities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conductors with Cavities"
-            }
-          },
-          {
-            "id": "f4600174eeb6c225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE106/Conductors with Cavities and External Applied Field.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conductors with Cavities and External Applied Field"
-            }
-          },
-          {
-            "id": "922c14b8bb9a177b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE106/Conductors with Cavities and Internal Applied Field.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conductors with Cavities and Internal Applied Field"
-            }
-          },
-          {
-            "id": "b3104a967afd2e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE106/Capacitor Equivalence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Capacitor Equivalence"
-            }
-          },
-          {
-            "id": "022f1b1fb02c7eb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE106/Conservative Fields.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conservative Fields"
+              "title": "Compatible States"
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -446,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -550,8 +312,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -585,12 +347,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -609,48 +370,48 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "022f1b1fb02c7eb8",
+  "active": "ccb2bcb60a441999",
   "lastOpenFiles": [
-    "ECE106/Capacitor Equivalence.md",
-    "ECE106/Conservative Fields.md",
-    "ECE106/Capacitance.md",
-    "ECE106/Capacitors.md",
-    "ECE106/Parallel Plate Capacitor.md",
-    "ECE106/Ground.md",
-    "ECE106/Cylindrical Capacitor.md",
+    "ECE124/Stable State.md",
+    "ECE124/Compatible States.md",
+    "ECE124/Fundamental Mode.md",
+    "ECE124/Asynchronous Sequential Circuits.md",
+    "ECE140/Asynchronous Sequential Circuits.md",
+    "ECE140/Sequential circuits using non DFF storage elements.md",
+    "Attachments/Pasted image 20260720211746.png",
+    "ECE140/State Reduction via Paritioning.md",
+    "ECE124/Mealy Machine.md",
+    "Task Board.md",
+    "Review.md",
+    "Untitled Kanban.md",
+    "ECE106/Ampere's Law.md",
+    "ECE140/Inductors.md",
+    "ECE106/Magnetic Field of a Loop.md",
+    "ECE106/Magnetic Dipole Moment of a Loop.md",
+    "ECE106/Integration the Biot Savart Law.md",
+    "ECE106/Biot Savart Law.md",
+    "ECE106/Force due to Magnetic Field.md",
+    "ECE106/Right Hand Representation of the Cross Product.md",
+    "Templates/ECE106 Note.md",
+    "ECE106/Energy Stored in a Capacitor.md",
+    "Archive/1A/ECE105/C8/Vector of Torque.md",
+    "Archive/1A/ECE105/C8/Moment of Inertia.md",
+    "Archive/1A/ECE105/C8/Moment of Angular Momentum.md",
+    "Archive/1A/ECE105/C8/Simple Harmonic Motion.md",
+    "Archive/1A/ECE105/Forces/Tension.md",
+    "ECE192",
+    "Attachments/Pasted image 20260703083828.png",
+    "Attachments/Pasted image 20260630151035.png",
+    "Attachments/Pasted image 20260630150944.png",
+    "Attachments/Pasted image 20260630150546.png",
+    "Attachments/Pasted image 20260625180819.png",
     "Attachments/Pasted image 20260621173317.png",
-    "ECE106/Conductors with Cavities and Internal Applied Field.md",
     "Attachments/Pasted image 20260621172852.png",
     "Attachments/Pasted image 20260621172658.png",
-    "ECE106/Conductors with Cavities and External Applied Field.md",
-    "ECE106/Coulomb's Law.md",
-    "ECE106/Conductors with Cavities.md",
     "Attachments/Pasted image 20260621170419.png",
-    "Attachments/Pasted image 20260621165834.png",
-    "Attachments/Pasted image 20260621164449.png",
-    "ECE106/Conductors.md",
-    "ECE106/Conductor Assumptions.md",
-    "ECE106/Addition of Voltages due to Point Charges.md",
-    "ECE124/Counter Encoding.md",
-    "ECE124/Ring Counter.md",
-    "ECE124/Johnson Counter.md",
-    "Attachments/Pasted image 20260620185302.png",
-    "ECE124/Modulo Counter.md",
-    "Attachments/Pasted image 20260620185057.png",
-    "ECE124/Parallel Load Counter.md",
-    "Attachments/Pasted image 20260620184937.png",
-    "ECE124/DFF based counter.md",
-    "Attachments/Pasted image 20260620184726.png",
-    "ECE124/Synchronous TFF counter.md",
-    "ECE124/Asynchronous TFF counter.md",
-    "ECE106/Current.md",
-    "ECE106/Boundary Conditions for Normal Fields on Interface.md",
-    "ECE106/Boundary Conditions on Interface Layer.md",
-    "ECE106/Deriving Total Electric Field along Normal of a Disk.md",
     "ECE140/Equating Thevenin ",
     "ECE140/Power Absorption ",
     "Textbooks/Electric Circuits, 12e (James Nilsson, Susan Riedel) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "Untitled",
     "ECE140",
     "MATH119",
     "ECE106",

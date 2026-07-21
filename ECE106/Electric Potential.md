@@ -12,6 +12,8 @@ ___
 
 Electric potential is just the [[Potential Energy|definition of potential energy]] applied to an electric field. 
 
+Absolute Electric potential is the work done to move a point from infinity to a point (Since you work against the electric field, it has a negative)
+
 Since the E field is a conservative force, we have:
 
 $\Delta u_{e} = -\displaystyle \int^b_{a} E \cdot \overline{dR}$

@@ -7,7 +7,7 @@ sr-interval: 3
 sr-ease: 250
 TARGET DECK: ECE106 U1
 ---
-*Key Concepts:*
+	*Key Concepts:*
 ___
 The E field between a cylindrical capacitor is given by:
 
@@ -18,12 +18,12 @@ And can be found using Gauss's law
 ---
 The voltage of a cylindrical capacitor is given by:
 
-$\Delta V = -\frac{Q}{2\pi l \epsilon} ln{\frac{a}{b}}$
+$\Delta V = -\frac{Q}{2\pi l \epsilon} ln{\frac{b}{a}}$
 
 ---
 The capacitance of a cylindrical capacitor is given by:
 
-C = $\frac{2\pi l \epsilon}{ln{\frac{a}{b}}}$
+C = $\frac{2\pi l \epsilon}{ln{\frac{b}{a}}}$
 
 *Examples (Excluding inline examples)* 
 ___
