@@ -10,9 +10,9 @@ TARGET DECK: MATH119 U1
 *Key Concepts:*
 ___
 
-For a comparison test, you try to prove that the series is convergent. If you obtain a contradiction, then it is divergent. 
+If you can construct a series, $a_n$ larger than $b_n$, and $\sum a_n$ is convergent, then so is $\sum b_n$. 
 
-You do so by asserting that the series as $n \to \infty$ is less than or greater than some other number. Then, you implicate until you reach a known premise or a contradiction.
+Similarily, if you can construct a series, $a_n$ smaller than $b_n$, then if $\sum a_{n}$ is convergent, then so is $\sum b_{n}$
 
 ---
 Example

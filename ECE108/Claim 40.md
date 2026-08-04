@@ -1,16 +1,18 @@
 ---
 tags:
   - review
-  - ECE140
+  - ECE108
 sr-due: 2025-09-20
 sr-interval: 3
 sr-ease: 250
-TARGET DECK: ECE 140
+TARGET DECK: ECE 108
 ---
 *Key Concepts:*
 ___
 
-Current and voltage are always in phase.
+If A is a set of events, then $Pr\{\bar{A}\} = 1 - Pr\{A\}$
+
+The proof is left as an exercise.
 
 *Examples (Excluding inline examples)* 
 ___

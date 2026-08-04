@@ -4,179 +4,809 @@
     "type": "split",
     "children": [
       {
-        "id": "6f78c374935423dc",
+        "id": "6aada0eac600b5d2",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd1b8b34c57e111",
+            "id": "604ebf62c6d5d429",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/ECE106 Note.md",
+                "file": "MATH119/Taylors Thm & Taylors Ineq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECE106 Note"
+              "title": "Taylors Thm & Taylors Ineq"
             }
           },
           {
-            "id": "37296efc68fd8163",
+            "id": "9fa372ed6c519601",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Force due to Magnetic Field.md",
+                "file": "MATH119/Taylor Polynomial Substitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Force due to Magnetic Field"
+              "title": "Taylor Polynomial Substitution"
             }
           },
           {
-            "id": "d5bd35ae37725499",
+            "id": "d0aef09cef369a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Right Hand Representation of the Cross Product.md",
+                "file": "MATH119/Chain Rule RMK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Right Hand Representation of the Cross Product"
+              "title": "Chain Rule RMK"
             }
           },
           {
-            "id": "bbc3f3d80ec21a3f",
+            "id": "3e06d76b86d9d8d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Biot Savart Law.md",
+                "file": "MATH119/Taylor Polynomials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biot Savart Law"
+              "title": "Taylor Polynomials"
             }
           },
           {
-            "id": "91c8cedddb32ee9a",
+            "id": "cbde5a4bf3316caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Integration the Biot Savart Law.md",
+                "file": "MATH119/Sequences .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integration the Biot Savart Law"
+              "title": "Sequences"
             }
           },
           {
-            "id": "e688ce61fb0bd029",
+            "id": "79e3c52cbb816528",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Magnetic Dipole Moment of a Loop.md",
+                "file": "MATH119/Reindexing of Series.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnetic Dipole Moment of a Loop"
+              "title": "Reindexing of Series"
             }
           },
           {
-            "id": "b4105c7f4ad8f3ce",
+            "id": "dd7df2dfe9711932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE106/Magnetic Field of a Loop.md",
+                "file": "MATH119/Series, Converge, and Divergence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnetic Field of a Loop"
+              "title": "Series, Converge, and Divergence"
             }
           },
           {
-            "id": "38af956405966439",
+            "id": "6cccc36615f6e5b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Mealy Machine.md",
+                "file": "MATH119/Permanence of Divergence and Convergence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mealy Machine"
+              "title": "Permanence of Divergence and Convergence"
             }
           },
           {
-            "id": "5e60c399c6e7679d",
+            "id": "609605faef1f5884",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/State Reduction via Paritioning.md",
+                "file": "MATH119/Comparison test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State Reduction via Paritioning"
+              "title": "Comparison test"
             }
           },
           {
-            "id": "c7c84abe0fda5167",
+            "id": "efbdaf9e1a674d53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE140/Sequential circuits using non DFF storage elements.md",
+                "file": "MATH119/Limit Comparison Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sequential circuits using non DFF storage elements"
+              "title": "Limit Comparison Test"
             }
           },
           {
-            "id": "5d152dfc0e21f399",
+            "id": "0197d2aed77ea710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Stable State.md",
+                "file": "MATH119/Alternating Series Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stable State"
+              "title": "Alternating Series Test"
             }
           },
           {
-            "id": "ccb2bcb60a441999",
+            "id": "d1513c07cab796c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE124/Compatible States.md",
+                "file": "MATH119/Absolute Convergence, Conditional Convergence, Divergence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compatible States"
+              "title": "Absolute Convergence, Conditional Convergence, Divergence"
+            }
+          },
+          {
+            "id": "a6ca7d7548f4ced0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH119/Power Series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power Series"
+            }
+          },
+          {
+            "id": "a4d4e4526d76354b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Unordered with Replacement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unordered with Replacement"
+            }
+          },
+          {
+            "id": "de00fca5a7ddf9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 1"
+            }
+          },
+          {
+            "id": "a3f61729808ca66c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 2"
+            }
+          },
+          {
+            "id": "3f0f8885ec07c8bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Tautology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tautology"
+            }
+          },
+          {
+            "id": "6a11048b8bec3be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 3"
+            }
+          },
+          {
+            "id": "e59e5a10f1d48f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 6"
+            }
+          },
+          {
+            "id": "6dcb84510e1a769d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 8"
+            }
+          },
+          {
+            "id": "c1e75bf1c4525973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 9"
+            }
+          },
+          {
+            "id": "3e9bb7fe4a33d136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Bijectivity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bijectivity"
+            }
+          },
+          {
+            "id": "c692278673bbed38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 18"
+            }
+          },
+          {
+            "id": "f7a453749722344b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 19"
+            }
+          },
+          {
+            "id": "2b80758f698240b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 20"
+            }
+          },
+          {
+            "id": "43c54b29e042bd9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 23"
+            }
+          },
+          {
+            "id": "13502b538d28d490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 24"
+            }
+          },
+          {
+            "id": "e48a341f3275a6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 25"
+            }
+          },
+          {
+            "id": "729dc1fb57be7dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 26"
+            }
+          },
+          {
+            "id": "2b29f89db372579f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 27"
+            }
+          },
+          {
+            "id": "cbf88f3908cb98ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 28"
+            }
+          },
+          {
+            "id": "cb03011420944cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 29"
+            }
+          },
+          {
+            "id": "5c65e6e8b6e6586c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Equal Cardinalities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equal Cardinalities"
+            }
+          },
+          {
+            "id": "9e7240252c59e664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Relations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relations"
+            }
+          },
+          {
+            "id": "03f497fb24ed7d86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Symmetric Relations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Symmetric Relations"
+            }
+          },
+          {
+            "id": "ee1ca2819971e3ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Asymmetric Relations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asymmetric Relations"
+            }
+          },
+          {
+            "id": "69e5b7e7a93f429f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Antisymmetric Relations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antisymmetric Relations"
+            }
+          },
+          {
+            "id": "273d6529078bf611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Relations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relations"
+            }
+          },
+          {
+            "id": "87903ec70bb7edb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Relations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relations"
+            }
+          },
+          {
+            "id": "29e6ab0e6980e2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Binomial Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binomial Theorem"
+            }
+          },
+          {
+            "id": "18c616c5dc8856f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Multichoose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multichoose"
+            }
+          },
+          {
+            "id": "f693630c63db44b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Discrete Probability Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Discrete Probability Function"
+            }
+          },
+          {
+            "id": "34a3af2328fa4027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 40.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 40"
+            }
+          },
+          {
+            "id": "0a3d4cc84285b6c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 41.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 41"
+            }
+          },
+          {
+            "id": "3f4563f03f6170bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Claim 42.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim 42"
+            }
+          },
+          {
+            "id": "933bc3e964e4b5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Conditional Probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conditional Probability"
+            }
+          },
+          {
+            "id": "78afb8980eceaabe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Bayes Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bayes Theorem"
+            }
+          },
+          {
+            "id": "84229c382ba607d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Random Variable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Variable"
+            }
+          },
+          {
+            "id": "3a19fed73facc1e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE108/Expected Value.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expected Value"
+            }
+          },
+          {
+            "id": "f1ef52f55416c417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Derivation of the Full Adder from Half Adders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivation of the Full Adder from Half Adders"
+            }
+          },
+          {
+            "id": "715ab1f79935f078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Ripple Full Adder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ripple Full Adder"
+            }
+          },
+          {
+            "id": "87f4b66b03beac1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Hierarchical Carry Look-Ahead Adder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hierarchical Carry Look-Ahead Adder"
+            }
+          },
+          {
+            "id": "e9f64509c7b0383d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/2's Complement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2's Complement"
+            }
+          },
+          {
+            "id": "ce083fe8687000e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Combined Adder Subtractor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combined Adder Subtractor"
+            }
+          },
+          {
+            "id": "227eba7ddd770d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE106/Magnetic Field in a Wire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnetic Field in a Wire"
+            }
+          },
+          {
+            "id": "b9915d32e15d4632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE124/Carry Look-Ahead Adder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carry Look-Ahead Adder"
+            }
+          },
+          {
+            "id": "e6192f506c57b183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH119/How to find the radius of the power series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to find the radius of the power series"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 54
       }
     ],
     "direction": "vertical"
@@ -196,7 +826,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -370,45 +1002,46 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ccb2bcb60a441999",
+  "active": "227eba7ddd770d34",
   "lastOpenFiles": [
-    "ECE124/Stable State.md",
-    "ECE124/Compatible States.md",
-    "ECE124/Fundamental Mode.md",
-    "ECE124/Asynchronous Sequential Circuits.md",
-    "ECE140/Asynchronous Sequential Circuits.md",
-    "ECE140/Sequential circuits using non DFF storage elements.md",
-    "Attachments/Pasted image 20260720211746.png",
-    "ECE140/State Reduction via Paritioning.md",
-    "ECE124/Mealy Machine.md",
-    "Task Board.md",
-    "Review.md",
-    "Untitled Kanban.md",
-    "ECE106/Ampere's Law.md",
-    "ECE140/Inductors.md",
-    "ECE106/Magnetic Field of a Loop.md",
-    "ECE106/Magnetic Dipole Moment of a Loop.md",
-    "ECE106/Integration the Biot Savart Law.md",
+    "Attachments/Pasted image 20260804132548.png",
     "ECE106/Biot Savart Law.md",
     "ECE106/Force due to Magnetic Field.md",
+    "ECE106/Distribution of Charges along a Conductive Surface.md",
+    "ECE106/Field lines.md",
+    "ECE106/Magnetic Dipole Moment of a Loop.md",
+    "ECE106/Potential Energy.md",
     "ECE106/Right Hand Representation of the Cross Product.md",
-    "Templates/ECE106 Note.md",
-    "ECE106/Energy Stored in a Capacitor.md",
-    "Archive/1A/ECE105/C8/Vector of Torque.md",
-    "Archive/1A/ECE105/C8/Moment of Inertia.md",
-    "Archive/1A/ECE105/C8/Moment of Angular Momentum.md",
-    "Archive/1A/ECE105/C8/Simple Harmonic Motion.md",
-    "Archive/1A/ECE105/Forces/Tension.md",
+    "Archive/1A/MATH115/4./4.1/Proving Subsets of Vector Sets (In particular for Spanning Sets).md",
+    "Archive/1A/MATH115/4./4.1/Proving Set Equality (In particular for Spanning Sets).md",
+    "Archive/1A/MATH115/1./1.3/Normalization of a Vector.md",
+    "Archive/1A/MATH115/1./1.3/Scalar Multiples and Parallel Vectors.md",
+    "Archive/1A/MATH115/1./1.3/Dot Product.md",
+    "Archive/1A/MATH115/1./1.3/Cauchy Schwarz Ineq.md",
+    "Archive/1A/MATH115/1./1.3/Angles Determined by Two Vectors.md",
+    "ECE124/Unsigned Multiplicatoin.md",
+    "Attachments/Pasted image 20260804120533.png",
+    "ECE124/Combined Adder Subtractor.md",
+    "Attachments/Pasted image 20260804115731.png",
+    "ECE124/2's Complement.md",
+    "ECE124/Hierarchical Carry Look-Ahead Adder.md",
+    "ECE124/Ripple Full Adder.md",
+    "ECE124/Carry Look-Ahead Adder.md",
+    "Attachments/Pasted image 20260804105002.png",
+    "ECE124/Derivation of the Full Adder from Half Adders.md",
+    "Attachments/Pasted image 20260804104236.png",
+    "ECE108/Expected Value.md",
+    "ECE108/Random Variable.md",
+    "ECE108/Bayes Theorem.md",
+    "ECE108/Conditional Probability.md",
+    "Attachments/Pasted image 20260803222927.png",
+    "Attachments/Pasted image 20260803163756.png",
+    "Attachments/Pasted image 20260802164325.png",
+    "Attachments/Pasted image 20260731220125.png",
+    "Attachments/Pasted image 20260731215751.png",
+    "Attachments/Pasted image 20260727175947.png",
+    "ECE140/General Solution for Capacitor and Inductor Loading ",
     "ECE192",
-    "Attachments/Pasted image 20260703083828.png",
-    "Attachments/Pasted image 20260630151035.png",
-    "Attachments/Pasted image 20260630150944.png",
-    "Attachments/Pasted image 20260630150546.png",
-    "Attachments/Pasted image 20260625180819.png",
-    "Attachments/Pasted image 20260621173317.png",
-    "Attachments/Pasted image 20260621172852.png",
-    "Attachments/Pasted image 20260621172658.png",
-    "Attachments/Pasted image 20260621170419.png",
     "ECE140/Equating Thevenin ",
     "ECE140/Power Absorption ",
     "Textbooks/Electric Circuits, 12e (James Nilsson, Susan Riedel) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
@@ -417,7 +1050,6 @@
     "ECE106",
     "ECE108",
     "Textbooks",
-    "Untitled 2.base",
     "MATH115/Untitled.canvas",
     "ECE150/Untitled.canvas"
   ]

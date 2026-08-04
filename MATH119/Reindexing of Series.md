@@ -9,10 +9,13 @@ TARGET DECK: MATH119 U1
 ---
 *Key Concepts:*
 ___
-The geometric series test 
 
---- 
+Oftentimes, divergence / convergence tests require strict starting points. Ex. the alternating series test.
 
+So, we can reindex to fit those requirements:
+
+$\displaystyle \sum^{\infty}_{k = q} a_{k} = \sum^{\infty}_{k = 0} a_{k + q}$
+	
 *Examples (Excluding inline examples)* 
 ___
 

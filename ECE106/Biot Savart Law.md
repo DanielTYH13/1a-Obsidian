@@ -28,6 +28,10 @@ $Idl$
 
 A physical intution of this is that current is the amount of charge that passes through some cross section. As the differential length goes to 0, its length becomes the cross section. Thus, if you know that n charge passes through the length, and it does so in some time, then you can say that there is Q charge flowing at v speed.
 
+So the common form we use is 
+
+$\vec{B} = \frac{\mu_{0}}{4\pi}\cdot \frac{I \text{d}l\times \hat{r}}{r^2}$
+
 *Examples (Excluding inline examples)* 
 ___
 
