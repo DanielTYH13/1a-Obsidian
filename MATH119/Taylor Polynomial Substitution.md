@@ -2,9 +2,9 @@
 tags:
   - "#review"
   - MATH119
-sr-due: 2025-09-20
-sr-interval: 3
-sr-ease: 250
+sr-due: 2026-09-19
+sr-interval: 42
+sr-ease: 230
 TARGET DECK: MATH119 U1
 ---
 *Key Concepts:*
@@ -22,7 +22,23 @@ This is also why you need chain rule for differentiation of a composed function,
 
 For example, take $f(x) = e^{t^2}$. $f(x)$ grows faster than $g(x) = e^x$ wrt to t and x, but we evaluate one at $t = a < x = t^2 = a^2$
 
-![[Pasted image 20260802164325.png]]
+![[Pasted image 20260802164325.png|500]]
+
+---
+Substitution for Remainder:
+
+Given that a function f(x)
+
+$f(x) = T_{n, x_{0}}(x) + R_{n, x_{0}}(x)$
+$f(g(x)) = T_{n, x_{0}}(g(x)) + R_{n, x_{0}}(g(x))$,
+
+However, notice that you must find the find the maxval of the derivative from $x_{0}$ to $g(x)$, not just $x_{0}$ to $x$.
+
+Then it is perfectly fine to also 
+
+$h(x)f(g(x)) = h(x)T_{n, x_{0}}(g(x)) + h(x)R_{n, x_{0}}(g(x))$.
+
+This is very helpful when the remainder theorem would require you to find a very high degree derivative. 
 
 *Examples (Excluding inline examples)* 
 ___

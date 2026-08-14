@@ -9,25 +9,38 @@ TARGET DECK: ECE106 U1
 ---
 *Key Concepts:*
 ___
-All expressions in this note are to be derived from scratch.
-___
 
-The magnetic field in a wire is given as:
+*Note, this only applies exactly to closed wires. It is only an approximation for not closed wires*.
 
-$\vec{B} = \frac{\mu_{0}}{4\pi} \displaystyle \int \frac{I \text{d}l \times \hat{R}}{R^2}$
+Consider a wire which has a circular cross section. We wish to find $\vec{B}$.
 
----
-Infinitely long case:
-
-$\vec{B} = -\frac{\mu_{0}I}{2\pi r}$, where r is the horizontal distance from the wire to the observation point.
+We will use amperes law, and a circular contour as this maintains symmetry from the point currents. 
 
 ---
-Finitely long case:
+r < R (Magnetic field inside the wire).
 
-$\vec{B} = -\frac{\mu_{0}I}{4\pi r}(\sin \theta_{2} - \sin \theta_1)$
+$\displaystyle \oint_{C} \vec{B} \cdot \bar{dL} = \mu_{0}I_{enc}$
 
-![[Pasted image 20260804132548.png|500]]
+The enclosed current changes for the radius of the contour. We can use the most simple enclosing surface - a plane bounded by the countour.
 
+$I_{enc}=\frac{I_{total}}{A_{total}}\cdot A_{plane}$       
+
+This is a great example of how density allows us to look at individual points - to find a differential current per differential area (Which is a rate of change, actually!) and multiply it (integrate it) by the area (Or total differential area units.) 
+
+$\displaystyle \oint_{C}\vec{B}\cdot \bar{dl} = \frac{\mu_{0} I\pi r^2}{\pi R^2}$
+$\displaystyle \vec{B} \cdot \hat{dl} \oint_{C}1\cdot \bar{dl} = \frac{\mu_{0} I \pi r^2}{\pi R^2}$
+$\displaystyle \vec{B} = \frac{\mu_{0} I \pi r^2}{\pi R^2 \cdot 2\pi r} = \frac{\mu_{0} I r}{2\pi R^2}$
+
+---
+r $\ge$ R (Magnetic field outside the wire).
+
+$\displaystyle \oint_{C} \vec{B} \cdot \bar{dL} = \mu_{0}I_{enc}$
+$\displaystyle \vec{B} \cdot \hat{dl} \oint_{C}1\cdot \bar{dl} = \mu_{0}I$
+$\displaystyle \vec{B} \cdot \hat{dl}  = \frac{\mu_{0}I}{2\pi R}$
+
+---
+Graph:
+![[Pasted image 20260805120902.png|350]]
 
 *Examples (Excluding inline examples)* 
 ___

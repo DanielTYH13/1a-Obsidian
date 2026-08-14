@@ -9,9 +9,11 @@ TARGET DECK: ECE106 U1
 ---
 *Key Concepts:*
 ___
-André-Marie Ampère discovered that the line integral of the magnetic field enclosing a current carrying wire will be the same regardless of path.
+André-Marie Ampère discovered that the line integral of the magnetic field enclosing a current carrying **closed path** will be the same regardless of path.
 
-$\displaystyle \int_{R}\vec{B} \cdot \bar{dl} = \mu_{0}I$
+$\displaystyle \int_{R}\vec{B} \cdot \bar{dl} = \mu_{0}I_{enc}$, where $I_{enc}$ is the current captured by any surface with bounds of the contour for the line integral.
+
+The capturing surface's form does not matter, as $I_{enc} = \displaystyle \int_{S}J \cdot \bar{dA}$ is defined by a cross product, which compensates for deformed surfaces creating more cross section with the current carrying wire. It is a theorem that you can prove.
 
 This is very similar to Gauss's law for electric fields!
 

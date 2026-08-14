@@ -32,6 +32,9 @@ $\displaystyle \lim_{n \to \infty} \left|\frac{c_{n+1}}{c_{n}}(x-x_{0}) \right| 
 $|x - x_{0}| < \displaystyle \lim_{n \to \infty} \left| \frac{c_n}{c_{n+1}} \right|$
 $|x - x_{0}| < R$
 $x \in (x_{0} - R, x_{0} + R)$ // This can be derived by case analysis. 
+
+Thus, since we can always construct $\frac{(x- x_{0})^{n+1}}{x- x_{0}}$, we have that $x_{0}$ will always be the center of the interval of convergence.
+
 *Examples (Excluding inline examples)* 
 ___
 

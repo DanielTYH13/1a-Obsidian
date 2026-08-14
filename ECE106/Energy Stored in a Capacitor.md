@@ -7,7 +7,7 @@ sr-interval: 3
 sr-ease: 250
 TARGET DECK: ECE106 U1
 ---
-*Key Concepts:*
+	*Key Concepts:*
 ___
 
 When neutral, there are an equal amount of protons and electrons at either ends of the capacitor. 

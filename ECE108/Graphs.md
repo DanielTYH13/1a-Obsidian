@@ -14,7 +14,7 @@ A graph is an ordered pair of sets: $\langle V, E \rangle$
 
 Where V is the set of vertices, just like normal set: $\{1, 2, 3\}$
 
-And E is the set of edges, which is a set of ordered pairs: $\{ \langle 1, 2\rangle, \langle, 3, 1 \rangle, \langle 3, 1 \rangle\}$
+And E is the set of edges, which is a set of ordered pairs: $\{ \langle 1, 2\rangle, \langle 3, 1 \rangle, \langle 3, 1 \rangle\}$
 
 *Examples (Excluding inline examples)* 
 ___

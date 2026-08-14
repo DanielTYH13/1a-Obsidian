@@ -7,7 +7,7 @@ sr-interval: 3
 sr-ease: 250
 TARGET DECK: MATH119 U1
 ---
-*Key Concepts:*
+	*Key Concepts:*
 ___
 
 Taylors theorem is the expression for error by the taylor polynomial set at x=a.
@@ -24,9 +24,9 @@ Rmk: $f(x) = T_{n,a}(x) + R_{n,a}(x)$
 ---
 Taylors Theorem:
 
-Suppose we have f(x) is n+1 differentiable on the interval containing a, then
+Suppose we have n is the degree of the taylor polynomial for f(x), and f(x) is n+1 differentiable on the interval containing a, then
 
-- $R_{n,a}(x) = \frac{f^{(n+1)}(c)}{(n+1)!}(x-a)^{n+1}$ For some c between a and x. Differential Form
+- $R_{n,a}(x) =f^{(n+1)}(c) \frac{(x-a)^{n+1}}{(n+1)!}$ For some c between a and x. Differential Form
 - $R_{n,a}(x) = \displaystyle  \int^x_{a}\frac{ (x-t)^n f^{(n+1)}(t)}{n!}dt$ Integral form
 
 The restriction is required as a taylor integral of degree n contains the n+1 order derivative of f. 

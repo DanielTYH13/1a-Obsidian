@@ -2,8 +2,8 @@
 tags:
   - review
   - ECE124
-sr-due: 2025-09-20
-sr-interval: 3
+sr-due: 2026-11-22
+sr-interval: 100
 sr-ease: 250
 TARGET DECK: ECE124 U1
 ---
@@ -12,7 +12,7 @@ ___
 
 To prevent race conditions, we need to have only one state variable changing at any given time. 
 
-For a fsm of n state variables, we have that there is a maximum of 3 state variable changing at any given time. So we need at max 2 unstable states to prevent race conditions. 
+An FSM of n state variables can be represented in the nth dimensional cartesian space, with existing diagonals of dimension n (Max concurrent variable change of n). Thus we can represent a race condition free version with a $n+1$ dimension cube. 
 
 The states must be unstable so that the FSM transitions directly towards the intended state. 
 
@@ -25,7 +25,7 @@ So, we have A -> U -> B.
 
 ---
 
-If you plot each state with lines between them on a cartesian grid, then diagonals represent race conditions, as they change in two direction (each unit vector representing a change in a bit).
+If you plot each state with lines between them on a cartesian grid, then diagonals represent race conditions, as they change in more than one direction (each unit vector representing a change in a bit).
 
 Thus, for 2D, a square represents a race condition free FSM. 
 For 3d, a cube represents a race conditions free FSM.

@@ -17,12 +17,12 @@ By substituting:
 - $x = r\cos \theta$
 - $y = r\sin \theta$
 
-You can convert double integrals into an easier domain ([[Double Integral Change of Variable]])
+You can convert double integrals into an easier domain ([[The Jacobian and Change of Variable]])
 
 ---
 Substituting bounds:
 
-Refer to [[Double Integral Change of Variable]] for instructions on how to change bounds.
+Refer to [[The Jacobian and Change of Variable]] for instructions on how to change bounds.
 
 *Examples (Excluding inline examples)* 
 ___

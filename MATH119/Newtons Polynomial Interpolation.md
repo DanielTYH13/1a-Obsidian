@@ -12,7 +12,7 @@ ___
 
 Newton figured that for a set of N points, then you can construct an N'th degree polynomial that passes through all of the given points with the following formula:
 
-$f(x) = \displaystyle \sum^{N}_{n = 0} \frac{\Delta^n y_{1}}{n! h^n}$
+$f(x) = \displaystyle \sum^{N}_{n = 0} \frac{\Delta^n y_{1}}{n! h^n}(x-x_{0})^n$
 
 Where h is the finite differences between all of the points.
 

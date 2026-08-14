@@ -2,8 +2,8 @@
 tags:
   - "#review"
   - MATH119
-sr-due: 2025-09-20
-sr-interval: 3
+sr-due: 2026-11-16
+sr-interval: 100
 sr-ease: 250
 TARGET DECK: MATH119 U1
 ---

@@ -2,8 +2,8 @@
 tags:
   - "#review"
   - MATH119
-sr-due: 2025-09-20
-sr-interval: 3
+sr-due: 2026-11-16
+sr-interval: 100
 sr-ease: 250
 TARGET DECK: MATH119 U1
 ---
@@ -24,7 +24,8 @@ This means that you can derivate the taylor or mclaurin series for many hard-to-
 
 The basic building blocks that you need to derive (most) other complex function are given as:
 
-![[Pasted image 20260803163756.png]]
+![[Pasted image 20260803163756.png|500]]
+![[Pasted image 20260809164640.png|500]]
 
 *Examples (Excluding inline examples)* 
 ___
